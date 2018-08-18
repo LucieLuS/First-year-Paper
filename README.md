@@ -8,6 +8,6 @@ My first-year paper is interested in the political motivations of leaders in dev
 
 
 ## Highlights of this project:  
-1. New measures for leaders' secureness; 
-2. Innovative research design to capture secureness shock (hypothesized treatment);
+1. New measures for leaders' secureness across regime types; 
+2. Innovative research design to capture secureness shocks for leaders in the developing countries (hypothesized treatment);
 
