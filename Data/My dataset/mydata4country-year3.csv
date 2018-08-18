@@ -1,0 +1,1815 @@
+ccode,ccname,idacr,leader,year,entry,exit,exitcode,regime.spell,v2x_libdem, v2x_libdem_codehigh ,DEMDUR,DEXDUR,AUTODUR,AUTOGROUP,TENURE,SignPTA,NegPTA,DICT,poleff,opposition,eiec,reelection,allhouse
+339,Albania,ALB,Berisha,1995,0,1,0,democracy, 0.37 ,,4,4,0,0,4,0,0,0,1,0,7,,1
+339,Albania,ALB,Berisha,1996,0,1,0,democracy, 0.35 ,,5,5,0,0,5,0,0,0,1,0,7,,1
+339,Albania,ALB,Berisha,1997,0,1,0,democracy, 0.33 ,,6,6,0,0,6,0,0,0,1,0,7,,1
+339,Albania,ALB,Fatos Nano,1997,0,1,0,democracy, 0.33 ,,7,1,0,0,1,0,0,0,1,0,7,,1
+339,Albania,ALB,Fatos Nano,1998,0,1,0,democracy, 0.34 ,,8,2,0,0,2,0,0,0,2,0,7,,1
+339,Albania,ALB,Majko,1998,0,1,0,democracy, 0.34 ,,9,1,0,0,1,0,0,0,2,0,7,,1
+339,Albania,ALB,Majko,1999,0,1,0,democracy, 0.34 ,,10,2,0,0,2,0,0,0,2,0,7,,1
+339,Albania,ALB,Meta,1999,0,1,0,democracy, 0.34 ,,11,1,0,0,1,0,0,0,2,0,7,,1
+339,Albania,ALB,Meta,2000,0,1,0,democracy, 0.37 ,,12,2,0,0,2,0,0,0,2,0,7,,1
+339,Albania,ALB,Meta,2001,0,1,0,democracy, 0.39 ,,13,3,0,0,3,0,0,0,2,0,7,,1
+339,Albania,ALB,Meta,2002,0,1,0,democracy, 0.43 ,,14,4,0,0,4,0,1,0,2,0,7,,1
+339,Albania,ALB,Majko,2002,0,1,0,democracy, 0.43 ,,15,1,0,0,1,0,0,0,2,0,7,,1
+339,Albania,ALB,Fatos Nano,2002,0,1,0,democracy, 0.43 ,,16,1,0,0,1,0,0,0,2,0,7,,1
+339,Albania,ALB,Fatos Nano,2003,0,1,0,democracy, 0.43 ,,17,2,0,0,2,0,0,0,2,0,7,,1
+339,Albania,ALB,Fatos Nano,2004,0,1,0,democracy, 0.44 ,,18,3,0,0,3,0,0,0,2,0,7,,1
+339,Albania,ALB,Fatos Nano,2005,0,1,0,democracy, 0.45 ,,19,4,0,0,4,0,0,0,2,0,7,,1
+339,Albania,ALB,Berisha,2005,0,1,0,democracy, 0.45 ,,20,1,0,0,1,0,0,0,2,0,7,,1
+339,Albania,ALB,Berisha,2006,0,1,0,democracy, 0.45 ,,21,2,0,0,2,1,0,0,2,0,7,,0
+339,Albania,ALB,Berisha,2007,0,1,0,democracy, 0.46 ,,22,3,0,0,3,0,0,0,1,0,7,,0
+339,Albania,ALB,Berisha,2008,0,1,0,democracy, 0.47 ,,23,4,0,0,4,0,0,0,1,0,7,,0
+339,Albania,ALB,Berisha,2009,0,1,0,democracy, 0.48 ,,24,5,0,0,5,1,1,0,1,0,7,1,0
+339,Albania,ALB,Berisha,2010,0,1,0,democracy, 0.48 ,,25,6,0,0,6,0,0,0,1,0,7,,0
+339,Albania,ALB,Berisha,2011,0,1,0,democracy, 0.48 ,,26,7,0,0,7,0,0,0,1,0,7,,0
+339,Albania,ALB,Berisha,2012,0,1,0,democracy, 0.48 ,,27,8,0,0,8,0,0,0,1,0,7,,0
+339,Albania,ALB,Berisha,2013,0,1,0,democracy, 0.45 ,,28,9,0,0,9,0,0,0,1,0,7,,0
+339,Albania,ALB,Rama,2013,0,-888,-888,democracy, 0.47 ,,29,1,0,0,1,0,0,0,1,0,7,,0
+339,Albania,ALB,Rama,2014,0,-888,-888,democracy, 0.46 ,,30,2,0,0,2,0,0,0,0,0,7,,0
+339,Albania,ALB,Rama,2015,0,-888,-888,democracy,,,31,3,0,0,3,0,0,0,0,0,7,,0
+615,Algeria,ALG,Zeroual,1995,0,1,0,no authority,,,0,0,0,0,2,0,0,2,2,0,2,,1
+615,Algeria,ALG,Zeroual,1996,0,1,0,no authority,,,0,0,0,0,3,0,1,2,2,0,7,,1
+615,Algeria,ALG,Zeroual,1997,0,1,0,no authority,,,0,0,0,0,4,0,0,2,2,0,7,,1
+615,Algeria,ALG,Zeroual,1998,0,1,0,no authority,,,0,0,0,0,5,0,0,2,2,0,7,,1
+615,Algeria,ALG,Zeroual,1999,0,1,0,no authority,,,0,0,0,0,6,0,0,2,2,0,7,,1
+615,Algeria,ALG,Bouteflika,1999,0,-888,0,no authority,,,0,0,0,0,1,0,0,2,2,1,7,,1
+615,Algeria,ALG,Bouteflika,2000,0,-888,0,no authority,,,0,0,0,0,2,0,0,2,2,1,7,,1
+615,Algeria,ALG,Bouteflika,2001,0,-888,0,no authority,,,0,0,0,0,3,0,0,2,2,1,7,,1
+615,Algeria,ALG,Bouteflika,2002,0,-888,0,dictatorship,,,0,0,1,1,4,1,0,1,2,1,7,,1
+615,Algeria,ALG,Bouteflika,2003,0,-888,0,dictatorship,,,0,0,2,2,5,0,0,1,2,0,7,,1
+615,Algeria,ALG,Bouteflika,2004,0,-888,0,dictatorship,,,0,0,3,3,6,0,0,1,2,0,7,,1
+615,Algeria,ALG,Bouteflika,2005,0,-888,0,dictatorship,,,0,0,4,4,7,0,0,1,2,0,7,,1
+615,Algeria,ALG,Bouteflika,2006,0,-888,0,dictatorship,,,0,0,5,5,8,0,0,1,2,0,7,,1
+615,Algeria,ALG,Bouteflika,2007,0,-888,0,dictatorship,,,0,0,6,6,9,0,1,1,1,0,7,,1
+615,Algeria,ALG,Bouteflika,2008,0,-888,0,dictatorship,,,0,0,7,7,10,0,0,1,1,0,7,,1
+615,Algeria,ALG,Bouteflika,2009,0,-888,0,dictatorship,,,0,0,8,8,11,0,0,1,1,0,7,,1
+615,Algeria,ALG,Bouteflika,2010,0,-888,0,dictatorship,,,0,0,9,9,12,0,0,1,1,0,7,,1
+615,Algeria,ALG,Bouteflika,2011,0,-888,0,dictatorship,,,0,0,10,10,13,0,0,1,1,0,7,,1
+615,Algeria,ALG,Bouteflika,2012,0,-888,0,dictatorship,,,0,0,11,11,14,0,0,1,2,0,7,,1
+615,Algeria,ALG,Bouteflika,2013,0,-888,0,dictatorship,,,0,0,12,12,15,0,0,1,2,0,7,,1
+615,Algeria,ALG,Bouteflika,2014,0,-888,0,dictatorship,,,0,0,13,13,16,0,0,1,1,0,7,,1
+615,Algeria,ALG,Bouteflika,2015,0,-888,0,dictatorship,,,0,0,14,14,17,0,0,1,1,0,7,,1
+160,Argentina,ARG,Menem,1995,0,1,0,democracy,,,13,8,0,0,8,0,0,0,1,0,7,1,1
+160,Argentina,ARG,Menem,1996,0,1,0,democracy,,,14,9,0,0,9,0,0,0,1,0,7,,1
+160,Argentina,ARG,Menem,1997,0,1,0,democracy,,,15,10,0,0,10,0,0,0,1,0,7,,1
+160,Argentina,ARG,Menem,1998,0,1,0,democracy,,,16,11,0,0,11,0,0,0,1,0,7,,1
+160,Argentina,ARG,Menem,1999,0,1,0,democracy,,,17,12,0,0,12,0,0,0,1,0,7,,1
+160,Argentina,ARG,de la Rua,1999,0,1,0,democracy,,,18,1,0,0,1,0,0,0,1,0,7,,1
+160,Argentina,ARG,de la Rua,2000,0,1,0,democracy,,,19,2,0,0,2,0,0,0,1,1,7,,0
+160,Argentina,ARG,de la Rua,2001,0,1,0,democracy,,,20,3,0,0,3,0,0,0,1,1,7,,0
+160,Argentina,ARG,Ramon Puerta,2001,0,1,0,democracy,,,21,1,0,0,1,0,0,0,1,1,7,,0
+160,Argentina,ARG,Adolfo Rodriguez Saa,2001,0,1,0,democracy,,,22,1,0,0,1,0,0,0,1,1,7,,0
+160,Argentina,ARG,Adolfo Rodriguez Saa,2002,0,1,0,democracy,,,23,2,0,0,2,0,0,0,1,0,7,,0
+160,Argentina,ARG,Eduardo Duhalde,2002,0,1,0,democracy,,,24,1,0,0,1,0,0,0,1,0,7,,0
+160,Argentina,ARG,Eduardo Duhalde,2003,0,1,0,democracy,,,25,2,0,0,2,0,0,0,1,0,7,,0
+160,Argentina,ARG,Nestor Kirchner,2003,0,1,0,democracy,,,26,1,0,0,1,0,0,0,1,0,7,,0
+160,Argentina,ARG,Nestor Kirchner,2004,0,1,0,democracy,,,27,2,0,0,2,0,1,0,1,0,7,,0
+160,Argentina,ARG,Nestor Kirchner,2005,0,1,0,democracy,,,28,3,0,0,3,0,0,0,0,0,7,,0
+160,Argentina,ARG,Nestor Kirchner,2006,0,1,0,democracy,,,29,4,0,0,4,0,1,0,0,0,7,,1
+160,Argentina,ARG,Nestor Kirchner,2007,0,1,0,democracy,,,30,5,0,0,5,1,0,0,0,0,7,,1
+160,Argentina,ARG,Fernandez de Kirchner,2007,0,1,0,democracy,,,31,1,0,0,1,0,0,0,0,0,7,,1
+160,Argentina,ARG,Fernandez de Kirchner,2008,0,1,0,democracy,,,32,2,0,0,2,0,0,0,0,0,7,,1
+160,Argentina,ARG,Fernandez de Kirchner,2009,0,1,0,democracy,,,33,3,0,0,3,0,0,0,0,0,7,,0
+160,Argentina,ARG,Fernandez de Kirchner,2010,0,1,0,democracy,,,34,4,0,0,4,0,0,0,0,0,7,,0
+160,Argentina,ARG,Fernandez de Kirchner,2011,0,1,0,democracy,,,35,5,0,0,5,0,0,0,0,0,7,1,0
+160,Argentina,ARG,Fernandez de Kirchner,2012,0,1,0,democracy,,,36,6,0,0,6,0,0,0,0,0,7,,0
+160,Argentina,ARG,Fernandez de Kirchner,2013,0,1,0,democracy,,,37,7,0,0,7,0,0,0,0,0,7,,0
+160,Argentina,ARG,Fernandez de Kirchner,2014,0,1,0,democracy,,,38,8,0,0,8,0,0,0,0,0,7,,0
+160,Argentina,ARG,Fernandez de Kirchner,2015,0,1,0,democracy,,,39,9,0,0,9,0,0,0,0,0,7,,0
+160,Argentina,ARG,Mauricio Macri,2015,0,-888,-888,democracy,,,40,1,0,0,1,0,0,0,0,0,7,,0
+692,Bahrain,BAH,Isa Ibn Al-Khalifah,1995,0,2,0,dictatorship,,,0,0,25,25,25,0,0,1,2,NA,2,,
+692,Bahrain,BAH,Isa Ibn Al-Khalifah,1996,0,2,0,dictatorship,,,0,0,26,26,26,0,0,1,1,NA,2,,
+692,Bahrain,BAH,Isa Ibn Al-Khalifah,1997,0,2,0,dictatorship,,,0,0,27,27,27,0,0,1,1,NA,2,,
+692,Bahrain,BAH,Isa Ibn Al-Khalifah,1998,0,2,0,dictatorship,,,0,0,28,28,28,0,0,1,1,NA,2,,
+692,Bahrain,BAH,Isa Ibn Al-Khalifah,1999,0,2,0,dictatorship,,,0,0,29,29,29,0,0,1,0,NA,2,,
+692,Bahrain,BAH,Hamad Isa Ibn Al-Khalifah,1999,0,-888,-888,dictatorship,,,0,0,30,30,1,0,0,1,0,NA,2,,
+692,Bahrain,BAH,Hamad Isa Ibn Al-Khalifah,2000,0,-888,-888,dictatorship,,,0,0,31,31,2,0,0,1,0,NA,2,,
+692,Bahrain,BAH,Hamad Isa Ibn Al-Khalifah,2001,0,-888,-888,dictatorship,,,0,0,32,32,3,0,0,1,0,NA,2,,
+692,Bahrain,BAH,Hamad Isa Ibn Al-Khalifah,2002,0,-888,-888,dictatorship,,,0,0,33,33,4,0,1,1,0,NA,2,,
+692,Bahrain,BAH,Hamad Isa Ibn Al-Khalifah,2003,0,-888,-888,dictatorship,,,0,0,34,34,5,0,0,1,0,NA,2,,
+692,Bahrain,BAH,Hamad Isa Ibn Al-Khalifah,2004,0,-888,-888,dictatorship,,,0,0,35,35,6,1,1,1,0,NA,2,,
+692,Bahrain,BAH,Hamad Isa Ibn Al-Khalifah,2005,0,-888,-888,dictatorship,,,0,0,36,36,7,0,0,1,0,NA,2,,
+692,Bahrain,BAH,Hamad Isa Ibn Al-Khalifah,2006,0,-888,-888,dictatorship,,,0,0,37,37,8,0,1,1,0,NA,2,,
+692,Bahrain,BAH,Hamad Isa Ibn Al-Khalifah,2007,0,-888,-888,dictatorship,,,0,0,38,38,9,0,1,1,0,NA,2,,
+692,Bahrain,BAH,Hamad Isa Ibn Al-Khalifah,2008,0,-888,-888,dictatorship,,,0,0,39,39,10,0,0,1,0,NA,2,,
+692,Bahrain,BAH,Hamad Isa Ibn Al-Khalifah,2009,0,-888,-888,dictatorship,,,0,0,40,40,11,0,0,1,0,NA,2,,
+692,Bahrain,BAH,Hamad Isa Ibn Al-Khalifah,2010,0,-888,-888,dictatorship,,,0,0,41,41,12,0,0,1,1,NA,2,,
+692,Bahrain,BAH,Hamad Isa Ibn Al-Khalifah,2011,0,-888,-888,dictatorship,,,0,0,42,42,13,0,0,1,2,NA,2,,
+692,Bahrain,BAH,Hamad Isa Ibn Al-Khalifah,2012,0,-888,-888,dictatorship,,,0,0,43,43,14,0,0,1,3,NA,2,,
+692,Bahrain,BAH,Hamad Isa Ibn Al-Khalifah,2013,0,-888,-888,dictatorship,,,0,0,44,44,15,0,0,1,3,NA,2,,
+692,Bahrain,BAH,Hamad Isa Ibn Al-Khalifah,2014,0,-888,-888,dictatorship,,,0,0,45,45,16,0,0,1,3,NA,2,,
+692,Bahrain,BAH,Hamad Isa Ibn Al-Khalifah,2015,0,-888,-888,dictatorship,,,0,0,46,46,17,0,0,1,3,NA,2,,
+370,Belarus,BLR,Lukashenko,1995,0,-888,0,dictatorship,,,8,2,0,0,2,0,0,0,1,0,6,,0
+370,Belarus,BLR,Lukashenko,1996,0,-888,0,dictatorship,,,0,0,1,1,3,0,0,0,1,0,6,,0
+370,Belarus,BLR,Lukashenko,1997,0,-888,0,dictatorship,,,0,0,2,2,4,0,0,1,1,0,6,,
+370,Belarus,BLR,Lukashenko,1998,0,-888,0,dictatorship,,,0,0,3,3,5,0,0,1,2,0,6,,
+370,Belarus,BLR,Lukashenko,1999,0,-888,0,dictatorship,,,0,0,4,4,6,0,0,1,2,0,6,,
+370,Belarus,BLR,Lukashenko,2000,0,-888,0,dictatorship,,,0,0,5,5,7,0,0,1,2,0,6,,
+370,Belarus,BLR,Lukashenko,2001,0,-888,0,dictatorship,,,0,0,6,6,8,0,0,1,2,0,6,,
+370,Belarus,BLR,Lukashenko,2002,0,-888,0,dictatorship,,,0,0,7,7,9,0,0,1,2,0,6,,
+370,Belarus,BLR,Lukashenko,2003,0,-888,0,dictatorship,,,0,0,8,8,10,0,0,1,2,0,6,,
+370,Belarus,BLR,Lukashenko,2004,0,-888,0,dictatorship,,,0,0,9,9,11,0,0,1,2,0,6,,
+370,Belarus,BLR,Lukashenko,2005,0,-888,0,dictatorship,,,0,0,10,10,12,0,0,1,2,0,6,,
+370,Belarus,BLR,Lukashenko,2006,0,-888,0,dictatorship,,,0,0,11,11,13,0,0,1,2,0,6,,
+370,Belarus,BLR,Lukashenko,2007,0,-888,0,dictatorship,,,0,0,12,12,14,0,0,1,2,0,6,,
+370,Belarus,BLR,Lukashenko,2008,0,-888,0,dictatorship,,,0,0,13,13,15,0,0,1,2,0,6,,
+370,Belarus,BLR,Lukashenko,2009,0,-888,0,dictatorship,,,0,0,14,14,16,0,0,1,2,0,6,,
+370,Belarus,BLR,Lukashenko,2010,0,-888,0,dictatorship,,,0,0,15,15,17,0,1,1,2,0,6,,
+370,Belarus,BLR,Lukashenko,2011,0,-888,0,dictatorship,,,0,0,16,16,18,0,1,1,2,NA,6,,
+370,Belarus,BLR,Lukashenko,2012,0,-888,0,dictatorship,,,0,0,17,17,19,0,0,1,2,NA,6,,
+370,Belarus,BLR,Lukashenko,2013,0,-888,0,dictatorship,,,0,0,18,18,20,0,0,1,2,0,6,,
+370,Belarus,BLR,Lukashenko,2014,0,-888,0,dictatorship,,,0,0,19,19,21,0,0,1,1,0,6,,
+370,Belarus,BLR,Lukashenko,2015,0,-888,0,dictatorship,,,0,0,20,20,22,0,0,1,1,0,6,,
+145,Bolivia,BOL,Gonzalo Sanchez de Lozada,1995,0,1,0,democracy,,,16,3,0,0,3,0,0,0,2,0,7,,0
+145,Bolivia,BOL,Gonzalo Sanchez de Lozada,1996,0,1,0,democracy,,,17,4,0,0,4,1,1,0,2,0,7,,0
+145,Bolivia,BOL,Gonzalo Sanchez de Lozada,1997,0,1,0,democracy,,,18,5,0,0,5,0,0,0,2,0,7,,0
+145,Bolivia,BOL,Banzer Suarez,1997,0,2.1,0,democracy,,,19,1,0,0,1,0,0,0,2,0,7,,0
+145,Bolivia,BOL,Banzer Suarez,1998,0,2.1,0,democracy,,,20,2,0,0,2,0,0,0,2,0,7,,0
+145,Bolivia,BOL,Banzer Suarez,1999,0,2.1,0,democracy,,,21,3,0,0,3,0,0,0,1,0,7,,0
+145,Bolivia,BOL,Banzer Suarez,2000,0,2.1,0,democracy,,,22,4,0,0,4,0,0,0,0,0,7,,0
+145,Bolivia,BOL,Banzer Suarez,2001,0,2.1,0,democracy,,,23,5,0,0,5,0,0,0,0,0,7,,0
+145,Bolivia,BOL,Jorge Quiroga Ramirez,2001,0,1,0,democracy,,,24,1,0,0,1,0,0,0,0,0,7,,0
+145,Bolivia,BOL,Jorge Quiroga Ramirez,2002,0,1,0,democracy,,,25,2,0,0,2,0,0,0,0,0,7,,0
+145,Bolivia,BOL,Gonzalo Sanchez de Lozada,2002,0,1,0,democracy,,,26,1,0,0,1,0,0,0,0,0,7,,0
+145,Bolivia,BOL,Gonzalo Sanchez de Lozada,2003,0,1,0,democracy,,,27,2,0,0,2,0,1,0,0,0,7,,0
+145,Bolivia,BOL,Carlos Mesa,2003,0,1,0,democracy,,,28,1,0,0,1,0,0,0,0,0,7,,0
+145,Bolivia,BOL,Carlos Mesa,2004,0,1,0,democracy,,,29,2,0,0,2,1,1,0,0,0,7,,0
+145,Bolivia,BOL,Carlos Mesa,2005,0,1,0,democracy,,,30,3,0,0,3,0,0,0,1,0,7,,0
+145,Bolivia,BOL,Enrique Rodriguez,2005,0,1,0,democracy,,,31,1,0,0,1,0,0,0,1,0,7,,0
+145,Bolivia,BOL,Enrique Rodriguez,2006,0,1,0,democracy,,,32,2,0,0,2,0,0,0,1,0,7,,0
+145,Bolivia,BOL,Juan Morales,2006,0,-888,-888,democracy,,,33,1,0,0,1,0,0,0,1,0,7,,0
+145,Bolivia,BOL,Juan Morales,2007,0,-888,-888,democracy,,,34,2,0,0,2,0,0,0,1,0,7,,0
+145,Bolivia,BOL,Juan Morales,2008,0,-888,-888,democracy,,,35,3,0,0,3,0,0,0,1,0,7,,0
+145,Bolivia,BOL,Juan Morales,2009,0,-888,-888,democracy,,,36,4,0,0,4,0,0,0,1,0,7,,0
+145,Bolivia,BOL,Juan Morales,2010,0,-888,-888,democracy,,,37,5,0,0,5,0,0,0,1,0,7,1,1
+145,Bolivia,BOL,Juan Morales,2011,0,-888,-888,democracy,,,38,6,0,0,6,0,0,0,1,NA,7,,1
+145,Bolivia,BOL,Juan Morales,2012,0,-888,-888,democracy,,,39,7,0,0,7,0,0,0,1,NA,7,,1
+145,Bolivia,BOL,Juan Morales,2013,0,-888,-888,democracy,,,40,8,0,0,8,0,0,0,1,NA,7,,1
+145,Bolivia,BOL,Juan Morales,2014,0,-888,-888,democracy,,,41,9,0,0,9,0,0,0,1,NA,7,,1
+145,Bolivia,BOL,Juan Morales,2015,0,-888,-888,democracy,,,42,10,0,0,10,0,0,0,1,NA,7,,1
+346,Bosnia and Herzegovina,BOS,Izetbegovic,1995,0,2.1,0,no authority,,,0,0,0,0,6,0,0,2,1,NA,NA,,
+346,Bosnia and Herzegovina,BOS,Izetbegovic,1996,0,2.1,0,no authority,,,0,0,0,0,7,0,0,2,1,NA,NA,,
+346,Bosnia and Herzegovina,BOS,Izetbegovic,1997,0,2.1,0,no authority,,,0,0,0,0,8,0,0,2,1,NA,NA,,
+346,Bosnia and Herzegovina,BOS,Izetbegovic,1998,0,2.1,0,no authority,,,0,0,0,0,9,0,0,2,1,NA,NA,,
+346,Bosnia and Herzegovina,BOS,Radisic,1998,0,1,0,no authority,,,0,0,0,0,1,0,0,2,1,NA,NA,,
+346,Bosnia and Herzegovina,BOS,Radisic,1999,0,1,0,no authority,,,0,0,0,0,2,0,0,2,1,NA,NA,,
+346,Bosnia and Herzegovina,BOS,Jelavic,1999,0,1,0,no authority,,,0,0,0,0,1,0,0,2,1,NA,NA,,
+346,Bosnia and Herzegovina,BOS,Jelavic,2000,0,1,0,no authority,,,0,0,0,0,2,0,0,2,1,NA,NA,,
+346,Bosnia and Herzegovina,BOS,Izetbegovic,2000,0,2.1,0,no authority,,,0,0,0,0,1,0,0,2,1,NA,NA,,
+346,Bosnia and Herzegovina,BOS,Radisic,2000,0,1,0,no authority,,,0,0,0,0,1,0,0,2,1,NA,NA,,
+346,Bosnia and Herzegovina,BOS,Radisic,2001,0,1,0,no authority,,,0,0,0,0,2,0,0,2,1,NA,NA,,
+346,Bosnia and Herzegovina,BOS,Krizanovic,2001,0,1,0,no authority,,,0,0,0,0,1,0,0,2,1,NA,NA,,
+346,Bosnia and Herzegovina,BOS,Krizanovic,2002,0,1,0,no authority,,,0,0,0,0,2,0,0,2,1,NA,NA,,
+346,Bosnia and Herzegovina,BOS,Belkic,2002,0,1,0,no authority,,,0,0,0,0,1,0,0,2,1,NA,NA,,
+346,Bosnia and Herzegovina,BOS,Sarovic,2002,0,1,0,no authority,,,0,0,0,0,1,0,0,2,1,NA,NA,,
+346,Bosnia and Herzegovina,BOS,Sarovic,2003,0,1,0,no authority,,,0,0,0,0,2,0,0,2,1,0,7,,
+346,Bosnia and Herzegovina,BOS,Borislav Paravac,2003,0,1,0,no authority,,,0,0,0,0,1,0,0,2,1,0,7,,
+346,Bosnia and Herzegovina,BOS,Dragan Covic,2003,0,1,0,no authority,,,0,0,0,0,1,0,0,2,1,0,7,,
+346,Bosnia and Herzegovina,BOS,Dragan Covic,2004,0,1,0,no authority,,,0,0,0,0,2,0,0,2,1,0,7,,
+346,Bosnia and Herzegovina,BOS,Sulejman Tihic,2004,0,1,0,no authority,,,0,0,0,0,1,0,0,2,1,0,7,,
+346,Bosnia and Herzegovina,BOS,Borislav Paravac,2004,0,1,0,no authority,,,0,0,0,0,1,0,0,2,1,0,7,,
+346,Bosnia and Herzegovina,BOS,Borislav Paravac,2005,0,1,0,no authority,,,0,0,0,0,2,0,0,2,1,0,7,,
+346,Bosnia and Herzegovina,BOS,Miro Jovic,2005,0,1,0,no authority,,,0,0,0,0,1,0,1,2,1,0,7,,
+346,Bosnia and Herzegovina,BOS,Miro Jovic,2006,0,1,0,no authority,,,0,0,0,0,2,0,0,2,1,0,7,,
+346,Bosnia and Herzegovina,BOS,Sulejman Tihic,2006,0,1,0,no authority,,,0,0,0,0,1,0,0,2,1,0,7,,
+346,Bosnia and Herzegovina,BOS,Radmanovic,2006,0,1,0,no authority,,,0,0,0,0,1,0,0,2,1,0,7,,
+346,Bosnia and Herzegovina,BOS,Radmanovic,2007,0,1,0,no authority,,,0,0,0,0,2,0,0,2,1,0,7,,
+346,Bosnia and Herzegovina,BOS,Zeljko Komsic,2007,0,1,0,no authority,,,0,0,0,0,1,0,0,2,1,0,7,,
+346,Bosnia and Herzegovina,BOS,Zeljko Komsic,2008,0,1,0,no authority,,,0,0,0,0,2,0,0,2,1,0,7,,
+346,Bosnia and Herzegovina,BOS,Silajdzic,2008,0,1,0,no authority,,,0,0,0,0,1,0,0,2,1,0,7,,
+346,Bosnia and Herzegovina,BOS,Radmanovic,2008,0,1,0,no authority,,,0,0,0,0,1,1,0,2,1,0,7,,
+346,Bosnia and Herzegovina,BOS,Radmanovic,2009,0,1,0,no authority,,,0,0,0,0,2,0,0,2,1,0,7,,
+346,Bosnia and Herzegovina,BOS,Zeljko Komsic,2009,0,1,0,no authority,,,0,0,0,0,1,0,0,2,1,0,7,,
+346,Bosnia and Herzegovina,BOS,Zeljko Komsic,2010,0,1,0,no authority,,,0,0,0,0,2,0,0,2,1,0,7,,
+346,Bosnia and Herzegovina,BOS,Silajdzic,2010,0,1,0,no authority,,,0,0,0,0,1,0,0,2,1,0,7,,
+346,Bosnia and Herzegovina,BOS,Radmanovic,2010,0,1,0,no authority,,,0,0,0,0,1,0,0,2,1,0,7,,
+346,Bosnia and Herzegovina,BOS,Radmanovic,2011,0,1,0,no authority,,,0,0,0,0,2,0,0,2,1,NA,7,,
+346,Bosnia and Herzegovina,BOS,Zeljko Komsic,2011,0,1,0,no authority,,,0,0,0,0,1,0,1,2,1,NA,7,,
+346,Bosnia and Herzegovina,BOS,Zeljko Komsic,2012,0,1,0,no authority,,,0,0,0,0,2,0,0,2,1,NA,7,,
+346,Bosnia and Herzegovina,BOS,Zeljko Komsic,2013,0,1,0,no authority,,,0,0,0,0,3,0,0,2,1,NA,7,,
+346,Bosnia and Herzegovina,BOS,Zeljko Komsic,2014,0,1,0,no authority,,,0,0,0,0,4,0,0,2,1,NA,7,,
+346,Bosnia and Herzegovina,BOS,Ivanic,2014,0,1,0,no authority,,,0,0,0,0,1,0,0,2,1,NA,7,,
+346,Bosnia and Herzegovina,BOS,Ivanic,2015,0,1,0,no authority,,,0,0,0,0,2,0,0,2,1,NA,7,,
+346,Bosnia and Herzegovina,BOS,Dragan Covic,2015,0,-888,-888,no authority,,,0,0,0,0,1,0,0,2,1,NA,NA,,
+571,Botswana,BOT,Masire,1995,0,1,0,democracy,,,26,16,0,0,16,0,0,0,1,0,7,,1
+571,Botswana,BOT,Masire,1996,0,1,0,democracy,,,27,17,0,0,17,0,0,0,1,0,7,,1
+571,Botswana,BOT,Masire,1997,0,1,0,democracy,,,28,18,0,0,18,0,0,0,1,0,7,,1
+571,Botswana,BOT,Masire,1998,0,1,0,democracy,,,29,19,0,0,19,0,0,0,1,0,7,,1
+571,Botswana,BOT,Mogae,1998,0,1,0,democracy,,,30,1,0,0,1,0,0,0,1,0,7,,1
+571,Botswana,BOT,Mogae,1999,0,1,0,democracy,,,31,2,0,0,2,0,0,0,0,0,7,,1
+571,Botswana,BOT,Mogae,2000,0,1,0,democracy,,,32,3,0,0,3,0,0,0,0,0,7,,1
+571,Botswana,BOT,Mogae,2001,0,1,0,democracy,,,33,4,0,0,4,0,0,0,0,0,7,,1
+571,Botswana,BOT,Mogae,2002,0,1,0,democracy,,,34,5,0,0,5,0,0,0,0,0,7,,1
+571,Botswana,BOT,Mogae,2003,0,1,0,democracy,,,35,6,0,0,6,0,0,0,0,0,7,,1
+571,Botswana,BOT,Mogae,2004,0,1,0,democracy,,,36,7,0,0,7,0,0,0,0,0,7,1,1
+571,Botswana,BOT,Mogae,2005,0,1,0,democracy,,,37,8,0,0,8,0,1,0,0,0,7,,1
+571,Botswana,BOT,Mogae,2006,0,1,0,democracy,,,38,9,0,0,9,1,0,0,0,0,6,,1
+571,Botswana,BOT,Mogae,2007,0,1,0,democracy,,,39,10,0,0,10,0,0,0,0,0,6,,1
+571,Botswana,BOT,Mogae,2008,0,1,0,democracy,,,40,11,0,0,11,0,0,0,0,0,6,,1
+571,Botswana,BOT,Ian Khama,2008,0,-888,-888,democracy,,,41,1,0,0,1,0,0,0,0,0,6,,1
+571,Botswana,BOT,Ian Khama,2009,0,-888,-888,democracy,,,42,2,0,0,2,0,0,0,0,0,6,,1
+571,Botswana,BOT,Ian Khama,2010,0,-888,-888,democracy,,,43,3,0,0,3,0,0,0,0,0,6,,1
+571,Botswana,BOT,Ian Khama,2011,0,-888,-888,democracy,,,44,4,0,0,4,0,0,0,0,0,6,,1
+571,Botswana,BOT,Ian Khama,2012,0,-888,-888,democracy,,,45,5,0,0,5,0,0,0,0,0,6,,1
+571,Botswana,BOT,Ian Khama,2013,0,-888,-888,democracy,,,46,6,0,0,6,0,0,0,0,0,6,,1
+571,Botswana,BOT,Ian Khama,2014,0,-888,-888,democracy,,,47,7,0,0,7,0,0,0,0,0,6,1,1
+571,Botswana,BOT,Ian Khama,2015,0,-888,-888,democracy,,,48,8,0,0,8,0,0,0,0,0,6,,1
+140,Brazil,BRA,Cardoso,1995,0,1,0,democracy,,,11,1,0,0,1,0,0,0,0,0,7,,0
+140,Brazil,BRA,Cardoso,1996,0,1,0,democracy,,,12,2,0,0,2,0,0,0,0,0,7,,0
+140,Brazil,BRA,Cardoso,1997,0,1,0,democracy,,,13,3,0,0,3,0,0,0,0,0,7,,0
+140,Brazil,BRA,Cardoso,1998,0,1,0,democracy,,,14,4,0,0,4,0,0,0,0,0,7,1,0
+140,Brazil,BRA,Cardoso,1999,0,1,0,democracy,,,15,5,0,0,5,0,0,0,0,0,7,,0
+140,Brazil,BRA,Cardoso,2000,0,1,0,democracy,,,16,6,0,0,6,0,0,0,0,0,7,,0
+140,Brazil,BRA,Cardoso,2001,0,1,0,democracy,,,17,7,0,0,7,0,0,0,0,0,7,,0
+140,Brazil,BRA,Cardoso,2002,0,1,0,democracy,,,18,8,0,0,8,0,0,0,0,0,7,,0
+140,Brazil,BRA,Cardoso,2003,0,1,0,democracy,,,19,9,0,0,9,0,0,0,0,0,7,,0
+140,Brazil,BRA,Lula da Silva,2003,0,1,0,democracy,,,20,1,0,0,1,0,0,0,0,0,7,,0
+140,Brazil,BRA,Lula da Silva,2004,0,1,0,democracy,,,21,2,0,0,2,0,1,0,0,0,7,,0
+140,Brazil,BRA,Lula da Silva,2005,0,1,0,democracy,,,22,3,0,0,3,0,0,0,0,0,7,,0
+140,Brazil,BRA,Lula da Silva,2006,0,1,0,democracy,,,23,4,0,0,4,0,1,0,0,0,7,1,0
+140,Brazil,BRA,Lula da Silva,2007,0,1,0,democracy,,,24,5,0,0,5,1,0,0,0,0,7,,0
+140,Brazil,BRA,Lula da Silva,2008,0,1,0,democracy,,,25,6,0,0,6,0,0,0,0,0,7,,0
+140,Brazil,BRA,Lula da Silva,2009,0,1,0,democracy,,,26,7,0,0,7,0,0,0,0,0,7,,0
+140,Brazil,BRA,Lula da Silva,2010,0,1,0,democracy,,,27,8,0,0,8,0,0,0,0,0,7,,0
+140,Brazil,BRA,Lula da Silva,2011,0,1,0,democracy,,,28,9,0,0,9,0,0,0,0,0,7,,0
+140,Brazil,BRA,Rousseff,2011,0,-888,0,democracy,,,29,1,0,0,1,0,0,0,0,0,7,,0
+140,Brazil,BRA,Rousseff,2012,0,-888,0,democracy,,,30,2,0,0,2,0,0,0,0,0,7,,0
+140,Brazil,BRA,Rousseff,2013,0,-888,0,democracy,,,31,3,0,0,3,0,0,0,0,0,7,,0
+140,Brazil,BRA,Rousseff,2014,0,-888,0,democracy,,,32,4,0,0,4,0,0,0,0,0,7,1,0
+140,Brazil,BRA,Rousseff,2015,0,-888,0,democracy,,,33,5,0,0,5,0,0,0,0,0,7,,0
+355,Bulgaria,BUL,Indzhova,1995,0,1,0,democracy,,,10,2,0,0,2,0,0,0,2,0,7,,1
+355,Bulgaria,BUL,Videnov,1995,0,1,0,democracy,,,11,1,0,0,1,0,0,0,2,0,7,,1
+355,Bulgaria,BUL,Videnov,1996,0,1,0,democracy,,,12,2,0,0,2,0,0,0,2,0,7,,1
+355,Bulgaria,BUL,Videnov,1997,0,1,0,democracy,,,13,3,0,0,3,0,0,0,2,0,7,,1
+355,Bulgaria,BUL,Sofiyanski,1997,0,1,0,democracy,,,14,1,0,0,1,0,0,0,2,0,7,,1
+355,Bulgaria,BUL,Kostov,1997,0,1,0,democracy,,,15,1,0,0,1,0,0,0,2,0,7,,1
+355,Bulgaria,BUL,Kostov,1998,0,1,0,democracy,,,16,2,0,0,2,0,0,0,2,0,7,,1
+355,Bulgaria,BUL,Kostov,1999,0,1,0,democracy,,,17,3,0,0,3,0,0,0,2,0,7,,1
+355,Bulgaria,BUL,Kostov,2000,0,1,0,democracy,,,18,4,0,0,4,0,0,0,1,0,7,,1
+355,Bulgaria,BUL,Kostov,2001,0,1,0,democracy,,,19,5,0,0,5,1,1,0,1,0,7,,1
+355,Bulgaria,BUL,Saksgoburggotski,2001,0,1,0,democracy,,,20,1,0,0,1,0,0,0,1,0,7,,1
+355,Bulgaria,BUL,Saksgoburggotski,2002,0,1,0,democracy,,,21,2,0,0,2,0,0,0,1,0,7,,1
+355,Bulgaria,BUL,Saksgoburggotski,2003,0,1,0,democracy,,,22,3,0,0,3,0,0,0,0,0,7,,1
+355,Bulgaria,BUL,Saksgoburggotski,2004,0,1,0,democracy,,,23,4,0,0,4,0,0,0,0,0,7,,1
+355,Bulgaria,BUL,Saksgoburggotski,2005,0,1,0,democracy,,,24,5,0,0,5,0,0,0,0,0,7,,1
+355,Bulgaria,BUL,Stanishev,2005,0,1,0,democracy,,,25,1,0,0,1,0,0,0,0,0,7,,0
+355,Bulgaria,BUL,Stanishev,2006,0,1,0,democracy,,,26,2,0,0,2,0,0,0,0,0,7,,0
+355,Bulgaria,BUL,Stanishev,2007,0,1,0,democracy,,,27,3,0,0,3,0,0,0,0,0,7,,0
+355,Bulgaria,BUL,Stanishev,2008,0,1,0,democracy,,,28,4,0,0,4,0,0,0,0,0,7,,0
+355,Bulgaria,BUL,Stanishev,2009,0,1,0,democracy,,,29,5,0,0,5,0,0,0,0,0,7,,0
+355,Bulgaria,BUL,Boyko Borisov,2009,0,1,0,democracy,,,30,1,0,0,1,0,0,0,0,0,7,,0
+355,Bulgaria,BUL,Boyko Borisov,2010,0,1,0,democracy,,,31,2,0,0,2,0,0,0,0,0,7,,0
+355,Bulgaria,BUL,Boyko Borisov,2011,0,1,0,democracy,,,32,3,0,0,3,0,0,0,0,0,7,,0
+355,Bulgaria,BUL,Boyko Borisov,2012,0,1,0,democracy,,,33,4,0,0,4,0,0,0,0,0,7,,0
+355,Bulgaria,BUL,Boyko Borisov,2013,0,1,0,democracy,,,34,5,0,0,5,0,0,0,0,0,7,,0
+355,Bulgaria,BUL,Oresharski,2013,0,1,0,democracy,,,35,1,0,0,1,0,0,0,0,0,7,,0
+355,Bulgaria,BUL,Oresharski,2014,0,1,0,democracy,,,36,2,0,0,2,0,0,0,0,0,7,,0
+355,Bulgaria,BUL,Bliznashki,2014,0,1,0,democracy,,,37,1,0,0,1,0,0,0,0,0,7,,0
+355,Bulgaria,BUL,Boyko Borisov,2014,0,-888,-888,democracy,,,38,1,0,0,1,0,0,0,0,0,7,,0
+355,Bulgaria,BUL,Boyko Borisov,2015,0,-888,-888,democracy,,,39,2,0,0,2,0,0,0,0,0,7,,0
+155,Chile,CHL,Frei Ruiz-Tagle,1995,0,1,0,democracy,,,7,2,0,0,2,0,0,0,1,0,7,,0
+155,Chile,CHL,Frei Ruiz-Tagle,1996,0,1,0,democracy,,,8,3,0,0,3,1,1,0,1,0,7,,0
+155,Chile,CHL,Frei Ruiz-Tagle,1997,0,1,0,democracy,,,9,4,0,0,4,0,0,0,1,0,7,,0
+155,Chile,CHL,Frei Ruiz-Tagle,1998,0,1,0,democracy,,,10,5,0,0,5,0,1,0,1,0,7,,0
+155,Chile,CHL,Frei Ruiz-Tagle,1999,0,1,0,democracy,,,11,6,0,0,6,1,1,0,0,0,7,,0
+155,Chile,CHL,Frei Ruiz-Tagle,2000,0,1,0,democracy,,,12,7,0,0,7,0,1,0,0,0,7,,0
+155,Chile,CHL,Ricardo Lagos Escobar,2000,0,1,0,democracy,,,13,1,0,0,1,0,1,0,0,0,7,,0
+155,Chile,CHL,Ricardo Lagos Escobar,2001,0,1,0,democracy,,,14,2,0,0,2,0,0,0,0,0,7,,0
+155,Chile,CHL,Ricardo Lagos Escobar,2002,0,1,0,democracy,,,15,3,0,0,3,1,0,0,0,0,7,,1
+155,Chile,CHL,Ricardo Lagos Escobar,2003,0,1,0,democracy,,,16,4,0,0,4,1,1,0,0,0,7,,1
+155,Chile,CHL,Ricardo Lagos Escobar,2004,0,1,0,democracy,,,17,5,0,0,5,0,0,0,0,0,7,,1
+155,Chile,CHL,Ricardo Lagos Escobar,2005,0,1,0,democracy,,,18,6,0,0,6,0,1,0,0,0,7,,1
+155,Chile,CHL,Ricardo Lagos Escobar,2006,0,1,0,democracy,,,19,7,0,0,7,0,0,0,0,0,7,,1
+155,Chile,CHL,Michelle Bachelet,2006,0,1,0,democracy,,,20,1,0,0,1,0,0,0,0,0,7,,1
+155,Chile,CHL,Michelle Bachelet,2007,0,1,0,democracy,,,21,2,0,0,2,1,1,0,0,0,7,,1
+155,Chile,CHL,Michelle Bachelet,2008,0,1,0,democracy,,,22,3,0,0,3,1,0,0,0,0,7,,1
+155,Chile,CHL,Michelle Bachelet,2009,0,1,0,democracy,,,23,4,0,0,4,0,0,0,0,0,7,,1
+155,Chile,CHL,Michelle Bachelet,2010,0,1,0,democracy,,,24,5,0,0,5,0,0,0,0,0,7,,0
+155,Chile,CHL,Sebastian Pi<f1>era,2010,0,1,0,democracy,,,25,1,0,0,1,0,0,0,0,1,7,,0
+155,Chile,CHL,Sebastian Pi<f1>era,2011,0,1,0,democracy,,,26,2,0,0,2,0,0,0,0,0,7,,0
+155,Chile,CHL,Sebastian Pi<f1>era,2012,0,1,0,democracy,,,27,3,0,0,3,0,0,0,0,0,7,,0
+155,Chile,CHL,Sebastian Pi<f1>era,2013,0,1,0,democracy,,,28,4,0,0,4,0,0,0,0,0,7,,0
+155,Chile,CHL,Sebastian Pi<f1>era,2014,0,1,0,democracy,,,29,5,0,0,5,0,0,0,0,0,7,,0
+155,Chile,CHL,Michelle Bachelet,2014,0,-888,-888,democracy,,,30,1,0,0,1,0,0,0,0,0,7,,0
+155,Chile,CHL,Michelle Bachelet,2015,0,-888,-888,democracy,,,31,2,0,0,2,0,0,0,0,0,3,,0
+710,China,CHN,Deng Xiaoping,1995,0,2,0,dictatorship,,,0,0,27,27,16,0,0,1,0,0,3,,
+710,China,CHN,Deng Xiaoping,1996,0,2,0,dictatorship,,,0,0,28,28,17,0,0,1,0,0,3,,
+710,China,CHN,Deng Xiaoping,1997,0,2,0,dictatorship,,,0,0,29,29,18,0,0,1,0,0,3,,
+710,China,CHN,Jiang Zemin,1997,0,1,0,dictatorship,,,0,0,30,30,1,0,0,1,0,0,3,,
+710,China,CHN,Jiang Zemin,1998,0,1,0,dictatorship,,,0,0,31,31,2,0,0,1,0,0,3,,
+710,China,CHN,Jiang Zemin,1999,0,1,0,dictatorship,,,0,0,32,32,3,0,0,1,0,0,3,,
+710,China,CHN,Jiang Zemin,2000,0,1,0,dictatorship,,,0,0,33,33,4,0,0,1,0,0,3,,
+710,China,CHN,Jiang Zemin,2001,0,1,0,dictatorship,,,0,0,34,34,5,0,0,1,0,0,3,,
+710,China,CHN,Jiang Zemin,2002,0,1,0,dictatorship,,,0,0,35,35,6,0,0,1,1,0,3,,
+710,China,CHN,Jiang Zemin,2003,0,1,0,dictatorship,,,0,0,36,36,7,0,0,1,0,0,3,,
+710,China,CHN,Hu Jintao,2003,0,1,0,dictatorship,,,0,0,37,37,1,0,0,1,0,0,3,,
+710,China,CHN,Hu Jintao,2004,0,1,0,dictatorship,,,0,0,38,38,2,0,1,1,0,0,3,,
+710,China,CHN,Hu Jintao,2005,0,1,0,dictatorship,,,0,0,39,39,3,0,1,1,0,0,3,,
+710,China,CHN,Hu Jintao,2006,0,1,0,dictatorship,,,0,0,40,40,4,0,0,1,0,0,3,,
+710,China,CHN,Hu Jintao,2007,0,1,0,dictatorship,,,0,0,41,41,5,0,1,1,0,0,3,,
+710,China,CHN,Hu Jintao,2008,0,1,0,dictatorship,,,0,0,42,42,6,0,1,1,0,0,3,,
+710,China,CHN,Hu Jintao,2009,0,1,0,dictatorship,,,0,0,43,43,7,0,0,1,0,0,3,,
+710,China,CHN,Hu Jintao,2010,0,1,0,dictatorship,,,0,0,44,44,8,0,1,1,0,0,3,,
+710,China,CHN,Hu Jintao,2011,0,1,0,dictatorship,,,0,0,45,45,9,0,0,1,0,0,3,,
+710,China,CHN,Hu Jintao,2012,0,1,0,dictatorship,,,0,0,46,46,10,0,0,1,0,0,3,,
+710,China,CHN,Xi Jinping,2012,0,-888,-888,dictatorship,,,0,0,47,47,1,0,1,1,0,0,3,,
+710,China,CHN,Xi Jinping,2013,0,-888,-888,dictatorship,,,0,0,48,48,2,0,0,1,0,0,3,,
+710,China,CHN,Xi Jinping,2014,0,-888,-888,dictatorship,,,0,0,49,49,3,0,0,1,0,0,3,,
+710,China,CHN,Xi Jinping,2015,0,-888,-888,dictatorship,,,0,0,50,50,4,0,0,1,0,0,3,,
+100,Colombia,COL,Pizano,1995,0,1,0,democracy,,,31,2,0,0,2,0,0,0,0,0,7,,0
+100,Colombia,COL,Pizano,1996,0,1,0,democracy,,,32,3,0,0,3,0,0,0,0,0,7,,0
+100,Colombia,COL,Pizano,1997,0,1,0,democracy,,,33,4,0,0,4,0,0,0,0,0,7,,0
+100,Colombia,COL,Pizano,1998,0,1,0,democracy,,,34,5,0,0,5,0,0,0,0,0,7,,0
+100,Colombia,COL,Arango,1998,0,1,0,democracy,,,35,1,0,0,1,0,0,0,0,0,7,,0
+100,Colombia,COL,Arango,1999,0,1,0,democracy,,,36,2,0,0,2,0,0,0,0,0,7,,0
+100,Colombia,COL,Arango,2000,0,1,0,democracy,,,37,3,0,0,3,0,0,0,0,0,7,,0
+100,Colombia,COL,Arango,2001,0,1,0,no authority,,,0,0,0,0,4,0,0,2,0,0,7,,
+100,Colombia,COL,Arango,2002,0,1,0,no authority,,,0,0,0,0,5,0,0,2,0,0,7,,
+100,Colombia,COL,Alvaro Uribe Velez,2002,0,1,0,no authority,,,0,0,0,0,1,0,0,2,0,0,7,,
+100,Colombia,COL,Alvaro Uribe Velez,2003,0,1,0,no authority,,,0,0,0,0,2,0,1,2,0,0,7,,
+100,Colombia,COL,Alvaro Uribe Velez,2004,0,1,0,no authority,,,0,0,0,0,3,0,1,2,0,0,7,,
+100,Colombia,COL,Alvaro Uribe Velez,2005,0,1,0,no authority,,,0,0,0,0,4,0,0,2,0,0,7,,
+100,Colombia,COL,Alvaro Uribe Velez,2006,0,1,0,democracy,,,1,1,0,0,5,1,1,0,0,0,7,,0
+100,Colombia,COL,Alvaro Uribe Velez,2007,0,1,0,democracy,,,2,2,0,0,6,0,1,0,0,0,7,,0
+100,Colombia,COL,Alvaro Uribe Velez,2008,0,1,0,democracy,,,3,3,0,0,7,1,0,0,0,0,7,,0
+100,Colombia,COL,Alvaro Uribe Velez,2009,0,1,0,democracy,,,4,4,0,0,8,0,1,0,0,0,7,,0
+100,Colombia,COL,Alvaro Uribe Velez,2010,0,1,0,democracy,,,5,5,0,0,9,0,0,0,0,0,7,,0
+100,Colombia,COL,Santos Calderon,2010,0,-888,0,democracy,,,6,1,0,0,1,0,0,0,0,0,7,,0
+100,Colombia,COL,Santos Calderon,2011,0,-888,0,democracy,,,7,2,0,0,2,0,1,0,0,0,7,,0
+100,Colombia,COL,Santos Calderon,2012,0,-888,0,democracy,,,8,3,0,0,3,1,1,0,0,0,7,,0
+100,Colombia,COL,Santos Calderon,2013,0,-888,0,democracy,,,9,4,0,0,4,1,0,0,0,0,7,,0
+100,Colombia,COL,Santos Calderon,2014,0,-888,0,democracy,,,10,5,0,0,5,0,0,0,0,0,7,,0
+100,Colombia,COL,Santos Calderon,2015,0,-888,0,democracy,,,11,6,0,0,6,0,0,0,0,0,7,,0
+94,Costa Rica,COS,Figueres Olsen,1995,0,1,0,democracy,,,31,2,0,0,2,0,0,0,0,0,7,,0
+94,Costa Rica,COS,Figueres Olsen,1996,0,1,0,democracy,,,32,3,0,0,3,0,0,0,0,0,7,,0
+94,Costa Rica,COS,Figueres Olsen,1997,0,1,0,democracy,,,33,4,0,0,4,0,0,0,0,0,7,,0
+94,Costa Rica,COS,Figueres Olsen,1998,0,1,0,democracy,,,34,5,0,0,5,0,0,0,0,0,7,,0
+94,Costa Rica,COS,Rodriguez Echeverria,1998,0,1,0,democracy,,,35,1,0,0,1,0,0,0,0,0,7,,0
+94,Costa Rica,COS,Rodriguez Echeverria,1999,0,1,0,democracy,,,36,2,0,0,2,0,0,0,0,0,7,,0
+94,Costa Rica,COS,Rodriguez Echeverria,2000,0,1,0,democracy,,,37,3,0,0,3,0,1,0,0,0,7,,0
+94,Costa Rica,COS,Rodriguez Echeverria,2001,0,1,0,democracy,,,38,4,0,0,4,1,0,0,0,0,7,,0
+94,Costa Rica,COS,Rodriguez Echeverria,2002,0,1,0,democracy,,,39,5,0,0,5,0,0,0,0,0,7,,0
+94,Costa Rica,COS,de la Espriella,2002,0,1,0,democracy,,,40,1,0,0,1,0,1,0,0,0,7,,0
+94,Costa Rica,COS,de la Espriella,2003,0,1,0,democracy,,,41,2,0,0,2,0,0,0,0,0,7,,0
+94,Costa Rica,COS,de la Espriella,2004,0,1,0,democracy,,,42,3,0,0,3,0,0,0,0,0,7,,0
+94,Costa Rica,COS,de la Espriella,2005,0,1,0,democracy,,,43,4,0,0,4,0,0,0,0,0,7,,0
+94,Costa Rica,COS,de la Espriella,2006,0,1,0,democracy,,,44,5,0,0,5,0,1,0,0,0,7,,0
+94,Costa Rica,COS,Arias,2006,0,1,0,democracy,,,45,1,0,0,1,0,0,0,0,0,7,,0
+94,Costa Rica,COS,Arias,2007,0,1,0,democracy,,,46,2,0,0,2,0,0,0,0,0,7,,0
+94,Costa Rica,COS,Arias,2008,0,1,0,democracy,,,47,3,0,0,3,1,1,0,0,0,7,,0
+94,Costa Rica,COS,Arias,2009,0,1,0,democracy,,,48,4,0,0,4,0,0,0,0,0,7,,0
+94,Costa Rica,COS,Arias,2010,0,1,0,democracy,,,49,5,0,0,5,1,0,0,0,0,7,,0
+94,Costa Rica,COS,Laura Chinchilla Miranda,2010,0,1,0,democracy,,,50,1,0,0,1,0,0,0,0,0,7,,0
+94,Costa Rica,COS,Laura Chinchilla Miranda,2011,0,1,0,democracy,,,51,2,0,0,2,0,0,0,0,0,7,,0
+94,Costa Rica,COS,Laura Chinchilla Miranda,2012,0,1,0,democracy,,,52,3,0,0,3,1,1,0,0,0,7,,0
+94,Costa Rica,COS,Laura Chinchilla Miranda,2013,0,1,0,democracy,,,53,4,0,0,4,0,0,0,0,0,7,,0
+94,Costa Rica,COS,Laura Chinchilla Miranda,2014,0,1,0,democracy,,,54,5,0,0,5,0,0,0,0,0,7,,0
+94,Costa Rica,COS,Solis Rivera,2014,0,1,0,democracy,,,55,1,0,0,1,0,0,0,0,0,7,,0
+94,Costa Rica,COS,Solis Rivera,2015,0,-888,0,democracy,,,56,2,0,0,2,1,0,0,0,0,7,,0
+344,Croatia,CRO,Tudjman,1995,0,2,0,democracy,,,6,6,0,0,6,0,0,0,1,0,7,1,1
+344,Croatia,CRO,Tudjman,1996,0,2,0,democracy,,,7,7,0,0,7,0,0,0,1,0,7,,1
+344,Croatia,CRO,Tudjman,1997,0,2,0,democracy,,,8,8,0,0,8,0,0,0,1,0,7,,1
+344,Croatia,CRO,Tudjman,1998,0,2,0,democracy,,,9,9,0,0,9,0,0,0,1,0,7,,1
+344,Croatia,CRO,Tudjman,1999,0,2,0,democracy,,,10,10,0,0,10,0,0,0,1,0,7,,1
+344,Croatia,CRO,Pavletic,1999,0,1,0,democracy,,,11,1,0,0,1,0,0,0,1,0,7,,1
+344,Croatia,CRO,Pavletic,2000,0,1,0,democracy,,,12,2,0,0,2,0,0,0,1,0,7,,1
+344,Croatia,CRO,Tomcic,2000,0,1,0,democracy,,,13,1,0,0,1,0,0,0,1,0,7,,1
+344,Croatia,CRO,Mesic,2000,0,1,0,democracy,,,14,1,0,0,1,0,1,0,1,0,7,,1
+344,Croatia,CRO,Mesic,2001,0,1,0,democracy,,,15,2,0,0,2,1,1,0,1,0,7,,1
+344,Croatia,CRO,Mesic,2002,0,1,0,democracy,,,16,3,0,0,3,0,0,0,1,0,7,,1
+344,Croatia,CRO,Mesic,2003,0,1,0,democracy,,,17,4,0,0,4,0,0,0,1,0,7,1,1
+344,Croatia,CRO,Mesic,2004,0,1,0,democracy,,,18,5,0,0,5,0,0,0,1,0,7,,1
+344,Croatia,CRO,Mesic,2005,0,1,0,democracy,,,19,6,0,0,6,0,0,0,1,0,7,,1
+344,Croatia,CRO,Mesic,2006,0,1,0,democracy,,,20,7,0,0,7,0,0,0,1,0,7,,1
+344,Croatia,CRO,Mesic,2007,0,1,0,democracy,,,21,8,0,0,8,0,0,0,1,NA,7,1,1
+344,Croatia,CRO,Mesic,2008,0,1,0,democracy,,,22,9,0,0,9,0,0,0,1,0,7,,1
+344,Croatia,CRO,Mesic,2009,0,1,0,democracy,,,23,10,0,0,10,0,0,0,1,0,7,,1
+344,Croatia,CRO,Mesic,2010,0,1,0,democracy,,,24,11,0,0,11,0,0,0,0,0,7,,1
+344,Croatia,CRO,Josipovic,2010,0,1,0,democracy,,,25,1,0,0,1,0,0,0,0,0,7,,1
+344,Croatia,CRO,Josipovic,2011,0,1,0,democracy,,,26,2,0,0,2,0,0,0,0,0,7,,1
+344,Croatia,CRO,Josipovic,2012,0,1,0,democracy,,,27,3,0,0,3,0,0,0,0,0,7,,1
+344,Croatia,CRO,Josipovic,2013,0,1,0,democracy,,,28,4,0,0,4,0,0,0,0,0,7,,1
+344,Croatia,CRO,Josipovic,2014,0,1,0,democracy,,,29,5,0,0,5,0,0,0,0,0,7,,1
+344,Croatia,CRO,Josipovic,2015,0,1,0,democracy,,,30,6,0,0,6,0,0,0,0,0,7,,1
+344,Croatia,CRO,Kolinda Grabar-Kitarovic,2015,0,-888,-888,democracy,,,31,1,0,0,1,0,0,0,0,0,7,,1
+352,Cyprus,CYP,Clerides,1995,0,1,0,democracy,,,14,3,0,0,3,0,0,0,0,0,7,,0
+352,Cyprus,CYP,Clerides,1996,0,1,0,democracy,,,15,4,0,0,4,0,0,0,0,0,7,,0
+352,Cyprus,CYP,Clerides,1997,0,1,0,democracy,,,16,5,0,0,5,0,0,0,0,0,7,,0
+352,Cyprus,CYP,Clerides,1998,0,1,0,democracy,,,17,6,0,0,6,0,0,0,0,0,7,1,0
+352,Cyprus,CYP,Clerides,1999,0,1,0,democracy,,,18,7,0,0,7,0,0,0,0,0,7,,0
+352,Cyprus,CYP,Clerides,2000,0,1,0,democracy,,,19,8,0,0,8,0,0,0,0,0,7,,0
+352,Cyprus,CYP,Clerides,2001,0,1,0,democracy,,,20,9,0,0,9,0,0,0,0,0,7,,0
+352,Cyprus,CYP,Clerides,2002,0,1,0,democracy,,,21,10,0,0,10,0,0,0,0,0,7,,0
+352,Cyprus,CYP,Clerides,2003,0,1,0,democracy,,,22,11,0,0,11,0,0,0,0,0,7,,0
+352,Cyprus,CYP,Tassos Nikolaou Papadopoulos,2003,0,1,0,democracy,,,23,1,0,0,1,0,0,0,0,0,7,,0
+352,Cyprus,CYP,Tassos Nikolaou Papadopoulos,2004,0,1,0,democracy,,,24,2,0,0,2,0,0,0,0,0,7,,0
+352,Cyprus,CYP,Tassos Nikolaou Papadopoulos,2005,0,1,0,democracy,,,25,3,0,0,3,0,0,0,0,0,7,,0
+352,Cyprus,CYP,Tassos Nikolaou Papadopoulos,2006,0,1,0,democracy,,,26,4,0,0,4,0,0,0,0,0,7,,0
+352,Cyprus,CYP,Tassos Nikolaou Papadopoulos,2007,0,1,0,democracy,,,27,5,0,0,5,0,0,0,0,0,7,,0
+352,Cyprus,CYP,Tassos Nikolaou Papadopoulos,2008,0,1,0,democracy,,,28,6,0,0,6,0,0,0,0,0,7,,0
+352,Cyprus,CYP,Dimitris Christofias,2008,0,1,0,democracy,,,29,1,0,0,1,0,0,0,0,0,7,,0
+352,Cyprus,CYP,Dimitris Christofias,2009,0,1,0,democracy,,,30,2,0,0,2,0,0,0,0,0,7,,0
+352,Cyprus,CYP,Dimitris Christofias,2010,0,1,0,democracy,,,31,3,0,0,3,0,0,0,0,0,7,,0
+352,Cyprus,CYP,Dimitris Christofias,2011,0,1,0,democracy,,,32,4,0,0,4,0,0,0,0,0,7,,0
+352,Cyprus,CYP,Dimitris Christofias,2012,0,1,0,democracy,,,33,5,0,0,5,0,0,0,0,0,7,,0
+352,Cyprus,CYP,Dimitris Christofias,2013,0,1,0,democracy,,,34,6,0,0,6,0,0,0,0,0,7,,0
+352,Cyprus,CYP,Anastasiades,2013,0,-888,-888,democracy,,,35,1,0,0,1,0,0,0,0,0,7,,0
+352,Cyprus,CYP,Anastasiades,2014,0,-888,-888,democracy,,,36,2,0,0,2,0,0,0,0,0,7,,0
+352,Cyprus,CYP,Anastasiades,2015,0,-888,-888,democracy,,,37,3,0,0,3,0,0,0,0,0,7,,0
+316,Czech Republic,CZR,Klaus,1995,0,1,0,democracy,,,3,3,0,0,3,0,0,0,1,1,7,,0
+316,Czech Republic,CZR,Klaus,1996,0,1,0,democracy,,,4,4,0,0,4,1,1,0,1,NA,7,,0
+316,Czech Republic,CZR,Klaus,1997,0,1,0,democracy,,,5,5,0,0,5,0,0,0,1,NA,7,,0
+316,Czech Republic,CZR,Tosovsky,1997,0,1,0,democracy,,,6,1,0,0,1,0,0,0,1,1,7,,0
+316,Czech Republic,CZR,Tosovsky,1998,0,1,0,democracy,,,7,2,0,0,2,0,0,0,1,0,7,,0
+316,Czech Republic,CZR,Zeman,1998,0,1,0,democracy,,,8,1,0,0,1,0,0,0,1,0,7,,0
+316,Czech Republic,CZR,Zeman,1999,0,1,0,democracy,,,9,2,0,0,2,0,0,0,1,0,7,,0
+316,Czech Republic,CZR,Zeman,2000,0,1,0,democracy,,,10,3,0,0,3,0,0,0,1,0,7,,0
+316,Czech Republic,CZR,Zeman,2001,0,1,0,democracy,,,11,4,0,0,4,0,0,0,1,0,7,,0
+316,Czech Republic,CZR,Zeman,2002,0,1,0,democracy,,,12,1,0,0,5,0,0,0,2,0,7,,0
+316,Czech Republic,CZR,Spidla,2002,0,1,0,democracy,,,13,2,0,0,1,0,0,0,2,0,7,,0
+316,Czech Republic,CZR,Spidla,2003,0,1,0,democracy,,,14,3,0,0,2,0,0,0,0,0,7,,0
+316,Czech Republic,CZR,Spidla,2004,0,1,0,democracy,,,15,4,0,0,3,0,0,0,0,0,7,,0
+316,Czech Republic,CZR,Stanislav Gross,2004,0,1,0,democracy,,,16,1,0,0,1,0,0,0,0,0,7,,0
+316,Czech Republic,CZR,Stanislav Gross,2005,0,1,0,democracy,,,17,2,0,0,2,0,0,0,0,0,7,,0
+316,Czech Republic,CZR,Paroubek,2005,0,1,0,democracy,,,18,1,0,0,1,0,0,0,0,0,7,,0
+316,Czech Republic,CZR,Paroubek,2006,0,1,0,democracy,,,19,2,0,0,2,0,0,0,0,0,7,,0
+316,Czech Republic,CZR,Topolanek,2006,0,1,0,democracy,,,20,1,0,0,1,0,0,0,0,0,7,,0
+316,Czech Republic,CZR,Topolanek,2007,0,1,0,democracy,,,21,2,0,0,2,0,0,0,0,0,7,,0
+316,Czech Republic,CZR,Topolanek,2008,0,1,0,democracy,,,22,3,0,0,3,0,0,0,0,0,7,,0
+316,Czech Republic,CZR,Topolanek,2009,0,1,0,democracy,,,23,4,0,0,4,0,0,0,0,0,7,,0
+316,Czech Republic,CZR,Fischer,2009,0,1,0,democracy,,,24,1,0,0,1,0,0,0,0,0,7,,0
+316,Czech Republic,CZR,Fischer,2010,0,1,0,democracy,,,25,2,0,0,2,0,0,0,0,0,7,,NA
+316,Czech Republic,CZR,Necas,2010,0,1,0,democracy,,,26,1,0,0,1,0,0,0,0,0,7,,NA
+316,Czech Republic,CZR,Necas,2011,0,1,0,democracy,,,27,2,0,0,2,0,0,0,0,0,7,,NA
+316,Czech Republic,CZR,Necas,2012,0,1,0,democracy,,,28,3,0,0,3,0,0,0,0,0,7,,NA
+316,Czech Republic,CZR,Necas,2013,0,1,0,democracy,,,29,4,0,0,4,0,0,0,0,0,7,,NA
+316,Czech Republic,CZR,Rusnok,2013,0,1,0,democracy,,,30,1,0,0,1,0,0,0,0,0,7,,NA
+316,Czech Republic,CZR,Sobotka,2014,0,-888,-888,democracy,,,31,1,0,0,1,0,0,0,0,0,7,,NA
+316,Czech Republic,CZR,Sobotka,2015,0,-888,-888,democracy,,,32,2,0,0,2,0,0,0,0,0,7,,NA
+42,Dominican Republic,DOM,Balaguer,1995,0,1,0,democracy,,,21,10,0,0,10,0,0,0,1,1,6.5,1,0
+42,Dominican Republic,DOM,Balaguer,1996,0,1,0,democracy,,,22,11,0,0,11,0,0,0,2,1,6.5,,0
+42,Dominican Republic,DOM,Fernandez Reyna,1996,0,1,0,democracy,,,23,1,0,0,1,0,0,0,2,1,7,,0
+42,Dominican Republic,DOM,Fernandez Reyna,1997,0,1,0,democracy,,,24,2,0,0,2,0,1,0,1,1,7,,0
+42,Dominican Republic,DOM,Fernandez Reyna,1998,0,1,0,democracy,,,25,3,0,0,3,1,0,0,1,1,7,,0
+42,Dominican Republic,DOM,Fernandez Reyna,1999,0,1,0,democracy,,,26,4,0,0,4,0,0,0,1,0,7,,0
+42,Dominican Republic,DOM,Fernandez Reyna,2000,0,1,0,democracy,,,27,5,0,0,5,0,0,0,1,0,7,,0
+42,Dominican Republic,DOM,Hipolito Mejia,2000,0,1,0,democracy,,,28,1,0,0,1,0,0,0,1,0,7,,0
+42,Dominican Republic,DOM,Hipolito Mejia,2001,0,1,0,democracy,,,29,2,0,0,2,0,0,0,1,0,7,,0
+42,Dominican Republic,DOM,Hipolito Mejia,2002,0,1,0,democracy,,,30,3,0,0,3,0,0,0,1,0,7,,0
+42,Dominican Republic,DOM,Hipolito Mejia,2003,0,1,0,democracy,,,31,4,0,0,4,0,0,0,1,0,7,,0
+42,Dominican Republic,DOM,Hipolito Mejia,2004,0,1,0,democracy,,,32,5,0,0,5,0,0,0,1,0,7,,0
+42,Dominican Republic,DOM,Fernandez Reyna,2004,0,1,0,democracy,,,33,1,0,0,1,0,0,0,1,0,7,,0
+42,Dominican Republic,DOM,Fernandez Reyna,2005,0,1,0,democracy,,,34,2,0,0,2,0,0,0,1,0,7,,0
+42,Dominican Republic,DOM,Fernandez Reyna,2006,0,1,0,democracy,,,35,3,0,0,3,0,0,0,0,0,7,,0
+42,Dominican Republic,DOM,Fernandez Reyna,2007,0,1,0,democracy,,,36,4,0,0,4,0,0,0,0,0,7,,0
+42,Dominican Republic,DOM,Fernandez Reyna,2008,0,1,0,democracy,,,37,5,0,0,5,0,1,0,0,0,7,1,0
+42,Dominican Republic,DOM,Fernandez Reyna,2009,0,1,0,democracy,,,38,6,0,0,6,0,0,0,0,0,7,,0
+42,Dominican Republic,DOM,Fernandez Reyna,2010,0,1,0,democracy,,,39,7,0,0,7,0,0,0,0,0,7,,0
+42,Dominican Republic,DOM,Fernandez Reyna,2011,0,1,0,democracy,,,40,8,0,0,8,0,0,0,0,0,7,,0
+42,Dominican Republic,DOM,Medina,2012,0,0,0,democracy,,,41,1,0,0,1,0,0,0,0,0,7,,0
+42,Dominican Republic,DOM,Medina,2013,0,0,0,democracy,,,42,2,0,0,2,0,0,0,0,0,7,,0
+42,Dominican Republic,DOM,Medina,2014,0,0,0,democracy,,,43,3,0,0,3,0,0,0,0,0,7,,0
+42,Dominican Republic,DOM,Medina,2015,0,0,0,democracy,,,44,4,0,0,4,0,0,0,0,0,7,,0
+130,Ecuador,ECU,Duran Ballen,1995,0,1,0,democracy,,,20,4,0,0,4,0,0,0,0,0,7,,0
+130,Ecuador,ECU,Duran Ballen,1996,0,1,0,democracy,,,21,5,0,0,5,0,0,0,0,0,7,,0
+130,Ecuador,ECU,Bucaram Ortiz,1996,0,1,0,democracy,,,22,1,0,0,1,0,0,0,0,0,7,,0
+130,Ecuador,ECU,Bucaram Ortiz,1997,0,1,0,democracy,,,23,2,0,0,2,0,0,0,0,0,7,,0
+130,Ecuador,ECU,Alarcon Fabian,1997,0,1,0,democracy,,,24,1,0,0,1,0,0,0,0,0,7,,0
+130,Ecuador,ECU,Arteaga Serrano,1997,0,1,0,democracy,,,25,2,0,0,1,0,0,0,0,0,7,,0
+130,Ecuador,ECU,Alarcon Fabian,1997,0,1,0,democracy,,,26,1,0,0,1,0,0,0,0,0,7,,0
+130,Ecuador,ECU,Alarcon Fabian,1998,0,1,0,democracy,,,27,2,0,0,2,0,0,0,0,0,7,,0
+130,Ecuador,ECU,Mahuad,1998,0,3,2,democracy,,,28,1,0,0,1,0,0,0,0,0,7,,0
+130,Ecuador,ECU,Mahuad,1999,0,3,2,democracy,,,29,2,0,0,2,0,0,0,0,0,7,,0
+130,Ecuador,ECU,Mahuad,2000,0,3,2,democracy,,,30,3,0,0,3,0,0,0,2,0,7,,0
+130,Ecuador,ECU,Gustavo Noboa,2000,1,1,0,dictatorship,,,0,0,1,1,1,0,0,1,2,0,7,,0
+130,Ecuador,ECU,Gustavo Noboa,2001,1,1,0,dictatorship,,,0,0,2,2,2,0,0,1,2,0,7,,0
+130,Ecuador,ECU,Gustavo Noboa,2002,1,1,0,dictatorship,,,0,0,3,3,3,0,0,1,2,0,7,,0
+130,Ecuador,ECU,Gustavo Noboa,2003,1,1,0,democracy,,,1,1,0,0,4,0,1,0,2,0,7,,0
+130,Ecuador,ECU,Lucio Gutierrez,2003,0,1,0,democracy,,,2,2,0,0,1,0,0,0,2,0,7,,0
+130,Ecuador,ECU,Lucio Gutierrez,2004,0,1,0,democracy,,,3,3,0,0,2,0,1,0,2,0,7,,0
+130,Ecuador,ECU,Lucio Gutierrez,2005,0,1,0,democracy,,,4,4,0,0,3,0,0,0,2,0,7,,0
+130,Ecuador,ECU,Alfredo Palacio,2005,0,1,0,democracy,,,5,1,0,0,1,0,0,0,2,0,7,,0
+130,Ecuador,ECU,Alfredo Palacio,2006,0,1,0,democracy,,,6,2,0,0,2,0,0,0,2,0,7,,NA
+130,Ecuador,ECU,Alfredo Palacio,2007,0,1,0,democracy,,,7,3,0,0,3,0,0,0,2,0,7,,0
+130,Ecuador,ECU,Rafael Correa,2007,0,1,0,democracy,,,8,1,0,0,1,0,0,0,2,0,7,,0
+130,Ecuador,ECU,Rafael Correa,2008,0,1,0,democracy,,,9,2,0,0,2,0,0,0,2,0,7,,0
+130,Ecuador,ECU,Rafael Correa,2009,0,1,0,democracy,,,10,3,0,0,3,0,0,0,2,0,7,,0
+130,Ecuador,ECU,Rafael Correa,2010,0,1,0,democracy,,,11,4,0,0,4,0,0,0,1,0,7,,0
+130,Ecuador,ECU,Rafael Correa,2011,0,1,0,democracy,,,12,5,0,0,5,0,0,0,2,0,7,,0
+130,Ecuador,ECU,Rafael Correa,2012,0,1,0,democracy,,,13,6,0,0,6,0,1,0,2,0,7,,0
+130,Ecuador,ECU,Rafael Correa,2013,0,1,0,democracy,,,14,7,0,0,7,0,0,0,2,0,7,1,0
+130,Ecuador,ECU,Rafael Correa,2014,0,-888,-888,democracy,,,15,8,0,0,8,0,0,0,2,0,7,,0
+130,Ecuador,ECU,Rafael Correa,2015,0,-888,-888,democracy,,,16,9,0,0,9,0,0,0,2,0,7,,0
+651,Egypt,EGY,Mubarak,1995,0,3,2,dictatorship,,,0,0,26,15,15,0,1,1,2,0,6,,
+651,Egypt,EGY,Mubarak,1996,0,3,2,dictatorship,,,0,0,27,16,16,0,0,1,1,0,6,,
+651,Egypt,EGY,Mubarak,1997,0,3,2,dictatorship,,,0,0,28,17,17,0,0,1,1,0,6,,
+651,Egypt,EGY,Mubarak,1998,0,3,2,dictatorship,,,0,0,29,18,18,0,0,1,1,0,6,,
+651,Egypt,EGY,Mubarak,1999,0,3,2,dictatorship,,,0,0,30,19,19,0,0,1,1,0,6,,
+651,Egypt,EGY,Mubarak,2000,0,3,2,dictatorship,,,0,0,31,20,20,0,0,1,1,0,6,,
+651,Egypt,EGY,Mubarak,2001,0,3,2,dictatorship,,,0,0,32,21,21,1,0,1,1,0,6,,
+651,Egypt,EGY,Mubarak,2002,0,3,2,dictatorship,,,0,0,33,22,22,0,0,1,1,0,6,,
+651,Egypt,EGY,Mubarak,2003,0,3,2,dictatorship,,,0,0,34,23,23,0,0,1,1,0,6,,
+651,Egypt,EGY,Mubarak,2004,0,3,2,dictatorship,,,0,0,35,24,24,0,0,1,1,0,6,,
+651,Egypt,EGY,Mubarak,2005,0,3,2,dictatorship,,,0,0,36,25,25,0,0,1,2,0,6,,
+651,Egypt,EGY,Mubarak,2006,0,3,2,dictatorship,,,0,0,37,26,26,0,0,1,2,0,6,,
+651,Egypt,EGY,Mubarak,2007,0,3,2,dictatorship,,,0,0,38,27,27,1,1,1,2,0,6,,
+651,Egypt,EGY,Mubarak,2008,0,3,2,dictatorship,,,0,0,39,28,28,0,0,1,2,0,6,,
+651,Egypt,EGY,Mubarak,2009,0,3,2,dictatorship,,,0,0,40,29,29,0,0,1,2,0,6,,
+651,Egypt,EGY,Mubarak,2010,0,3,2,dictatorship,,,0,0,41,30,30,0,0,1,2,0,6,,
+651,Egypt,EGY,Mubarak,2011,0,3,2,dictatorship,,,0,0,42,31,31,0,0,1,2,0,6,,
+651,Egypt,EGY,Tantawi,2011,0,1,0,dictatorship,,,0,0,43,1,1,0,0,1,2,0,6,,
+651,Egypt,EGY,Tantawi,2012,0,1,0,dictatorship,,,0,0,44,2,2,0,0,1,2,0,6,,
+651,Egypt,EGY,Morsi,2012,0,3,2,dictatorship,,,0,0,45,1,1,0,0,1,2,0,6,,
+651,Egypt,EGY,Mansour,2013,1,1,0,dictatorship,,,0,0,46,1,1,0,0,1,2,0,6,,
+651,Egypt,EGY,Mansour,2014,1,1,0,dictatorship,,,0,0,47,2,2,0,0,1,2,0,6,,
+651,Egypt,EGY,al-Sisi,2014,0,-888,-888,dictatorship,,,0,0,48,1,1,0,0,1,2,0,6,,
+651,Egypt,EGY,al-Sisi,2015,0,-888,-888,dictatorship,,,0,0,49,2,2,0,0,1,2,0,6,,
+92,El Salvador,SAL,Calderon Sol,1995,0,1,0,democracy,,,7,2,0,0,2,0,0,0,0,0,7,,0
+92,El Salvador,SAL,Calderon Sol,1996,0,1,0,democracy,,,8,3,0,0,3,0,0,0,0,0,7,,0
+92,El Salvador,SAL,Calderon Sol,1997,0,1,0,democracy,,,9,4,0,0,4,0,0,0,0,0,7,,0
+92,El Salvador,SAL,Calderon Sol,1998,0,1,0,democracy,,,10,5,0,0,5,0,0,0,0,0,7,,0
+92,El Salvador,SAL,Calderon Sol,1999,0,1,0,democracy,,,11,6,0,0,6,0,0,0,0,0,7,,0
+92,El Salvador,SAL,Flores,1999,0,1,0,democracy,,,12,1,0,0,1,0,0,0,0,0,7,,0
+92,El Salvador,SAL,Flores,2000,0,1,0,democracy,,,13,2,0,0,2,0,0,0,0,0,7,,0
+92,El Salvador,SAL,Flores,2001,0,1,0,democracy,,,14,3,0,0,3,0,0,0,0,0,7,,0
+92,El Salvador,SAL,Flores,2002,0,1,0,democracy,,,15,4,0,0,4,0,0,0,0,0,7,,0
+92,El Salvador,SAL,Flores,2003,0,1,0,democracy,,,16,5,0,0,5,0,0,0,0,0,7,,0
+92,El Salvador,SAL,Flores,2004,0,1,0,democracy,,,17,6,0,0,6,0,0,0,0,0,7,,0
+92,El Salvador,SAL,Saca González,2004,0,1,0,democracy,,,18,1,0,0,1,0,0,0,0,0,7,,0
+92,El Salvador,SAL,Saca González,2005,0,1,0,democracy,,,19,2,0,0,2,0,0,0,0,0,7,,0
+92,El Salvador,SAL,Saca González,2006,0,1,0,democracy,,,20,3,0,0,3,0,1,0,0,0,7,,0
+92,El Salvador,SAL,Saca González,2007,0,1,0,democracy,,,21,4,0,0,4,0,0,0,0,0,7,,0
+92,El Salvador,SAL,Saca González,2008,0,1,0,democracy,,,22,5,0,0,5,0,0,0,0,0,7,,0
+92,El Salvador,SAL,Saca González,2009,0,1,0,democracy,,,23,6,0,0,6,0,0,0,0,0,7,,0
+92,El Salvador,SAL,Funes,2009,0,1,0,democracy,,,24,1,0,0,1,0,0,0,0,0,7,,0
+92,El Salvador,SAL,Funes,2010,0,1,0,democracy,,,25,2,0,0,2,0,0,0,0,0,7,,0
+92,El Salvador,SAL,Funes,2011,0,1,0,democracy,,,26,3,0,0,3,0,0,0,0,0,7,,0
+92,El Salvador,SAL,Funes,2012,0,1,0,democracy,,,27,4,0,0,4,1,1,0,0,0,7,,0
+92,El Salvador,SAL,Funes,2013,0,1,0,democracy,,,28,5,0,0,5,0,0,0,0,0,7,,0
+92,El Salvador,SAL,Funes,2014,0,1,0,democracy,,,29,6,0,0,6,0,0,0,0,0,7,,0
+92,El Salvador,SAL,Sanchez Ceren,2014,0,1,0,democracy,,,30,1,0,0,1,0,0,0,0,0,7,,0
+92,El Salvador,SAL,Sanchez Ceren,2015,0,-888,0,democracy,,,31,2,0,0,2,1,1,0,0,0,7,,0
+366,Estonia,EST,Tarand,1995,0,1,0,democracy,,,8,2,0,0,2,0,1,0,1,0,7,,1
+366,Estonia,EST,Vahi,1995,0,1,0,democracy,,,9,1,0,0,1,1,0,0,1,0,7,,1
+366,Estonia,EST,Vahi,1996,0,1,0,democracy,,,10,2,0,0,2,0,0,0,1,0,7,,1
+366,Estonia,EST,Vahi,1997,0,1,0,democracy,,,11,3,0,0,3,0,0,0,1,0,7,,1
+366,Estonia,EST,Siimann,1997,0,1,0,democracy,,,12,1,0,0,1,0,0,0,1,0,7,,1
+366,Estonia,EST,Siimann,1998,0,1,0,democracy,,,13,2,0,0,2,0,0,0,1,0,7,,1
+366,Estonia,EST,Siimann,1999,0,1,0,democracy,,,14,3,0,0,3,0,0,0,1,0,7,,1
+366,Estonia,EST,Laar,1999,0,1,0,democracy,,,15,1,0,0,1,0,0,0,1,0,7,,1
+366,Estonia,EST,Laar,2000,0,1,0,democracy,,,16,2,0,0,2,0,0,0,1,0,7,,1
+366,Estonia,EST,Laar,2001,0,1,0,democracy,,,17,3,0,0,3,0,0,0,1,0,7,,1
+366,Estonia,EST,Laar,2002,0,1,0,democracy,,,18,4,0,0,4,0,0,0,1,0,7,,0
+366,Estonia,EST,Kallas,2002,0,1,0,democracy,,,19,1,0,0,1,0,0,0,1,0,7,,0
+366,Estonia,EST,Kallas,2003,0,1,0,democracy,,,20,2,0,0,2,0,0,0,1,0,7,,0
+366,Estonia,EST,Parts,2003,0,1,0,democracy,,,21,1,0,0,1,0,0,0,1,0,7,,0
+366,Estonia,EST,Parts,2004,0,1,0,democracy,,,22,2,0,0,2,0,0,0,1,0,7,,0
+366,Estonia,EST,Parts,2005,0,1,0,democracy,,,23,3,0,0,3,0,0,0,1,0,7,,0
+366,Estonia,EST,Ansip,2005,0,1,0,democracy,,,24,1,0,0,1,0,0,0,1,0,7,,0
+366,Estonia,EST,Ansip,2006,0,1,0,democracy,,,25,2,0,0,2,0,0,0,1,0,7,,0
+366,Estonia,EST,Ansip,2007,0,1,0,democracy,,,26,3,0,0,3,0,0,0,1,0,7,,0
+366,Estonia,EST,Ansip,2008,0,1,0,democracy,,,27,4,0,0,4,0,0,0,1,0,7,,0
+366,Estonia,EST,Ansip,2009,0,1,0,democracy,,,28,5,0,0,5,0,0,0,1,0,7,1,0
+366,Estonia,EST,Ansip,2010,0,1,0,democracy,,,29,6,0,0,6,0,0,0,0,0,7,,0
+366,Estonia,EST,Ansip,2011,0,1,0,democracy,,,30,7,0,0,7,0,0,0,0,0,7,,0
+366,Estonia,EST,Ansip,2012,0,1,0,democracy,,,31,8,0,0,8,0,0,0,0,0,7,,0
+366,Estonia,EST,Ansip,2013,0,1,0,democracy,,,32,9,0,0,9,0,0,0,0,0,7,,0
+366,Estonia,EST,Ansip,2014,0,1,0,democracy,,,33,10,0,0,10,0,0,0,0,0,7,,0
+366,Estonia,EST,Roivas,2014,0,-888,-888,democracy,,,34,1,0,0,1,0,0,0,0,0,7,,0
+366,Estonia,EST,Roivas,2015,0,-888,-888,democracy,,,35,2,0,0,2,0,0,0,0,0,7,,0
+372,Georgia,GRG,Shevardnadze,1995,0,3,2,dictatorship,,,0,0,7,4,4,0,0,1,2,0,5,,
+372,Georgia,GRG,Shevardnadze,1996,0,3,2,dictatorship,,,0,0,8,5,5,0,0,1,2,0,6,,
+372,Georgia,GRG,Shevardnadze,1997,0,3,2,dictatorship,,,0,0,9,6,6,0,0,1,2,0,6,,
+372,Georgia,GRG,Shevardnadze,1998,0,3,2,dictatorship,,,0,0,10,7,7,0,0,1,2,0,6,,
+372,Georgia,GRG,Shevardnadze,1999,0,3,2,dictatorship,,,0,0,11,8,8,0,0,1,2,0,6,,
+372,Georgia,GRG,Shevardnadze,2000,0,3,2,dictatorship,,,0,0,12,9,9,0,0,1,2,0,6,,
+372,Georgia,GRG,Shevardnadze,2001,0,3,2,dictatorship,,,0,0,13,10,10,0,0,1,1,0,6,,
+372,Georgia,GRG,Shevardnadze,2002,0,3,2,dictatorship,,,0,0,14,11,11,0,0,1,1,0,6,,
+372,Georgia,GRG,Shevardnadze,2003,0,3,2,dictatorship,,,0,0,15,12,12,0,0,1,2,0,6,,
+372,Georgia,GRG,Burdjanadze,2003,0,1,0,dictatorship,,,0,0,16,1,1,0,0,1,2,0,6,,
+372,Georgia,GRG,Burdjanadze,2004,0,1,0,dictatorship,,,0,0,17,2,2,0,0,1,2,0,6,,
+372,Georgia,GRG,Saakashvili,2004,0,1,0,dictatorship,,,0,0,18,3,1,0,0,1,2,0,6,,
+372,Georgia,GRG,Saakashvili,2005,0,1,0,democracy,,,1,1,0,0,2,0,0,0,2,0,6,,1
+372,Georgia,GRG,Saakashvili,2006,0,1,0,democracy,,,2,2,0,0,3,0,0,0,2,0,6,,1
+372,Georgia,GRG,Saakashvili,2007,0,1,0,democracy,,,3,3,0,0,4,0,0,0,2,0,6,,1
+372,Georgia,GRG,Saakashvili,2008,0,1,0,democracy,,,4,4,0,0,5,0,0,0,2,0,6,1,1
+372,Georgia,GRG,Saakashvili,2009,0,1,0,democracy,,,5,5,0,0,6,0,0,0,2,0,6,,1
+372,Georgia,GRG,Saakashvili,2010,0,1,0,democracy,,,6,6,0,0,7,0,0,0,2,0,7,,1
+372,Georgia,GRG,Saakashvili,2011,0,1,0,democracy,,,7,7,0,0,8,0,0,0,2,0,7,,1
+372,Georgia,GRG,Saakashvili,2012,0,1,0,democracy,,,8,8,0,0,9,0,1,0,2,0,7,,1
+372,Georgia,GRG,Saakashvili,2013,0,1,0,democracy,,,9,9,0,0,10,0,0,0,2,0,7,,1
+372,Georgia,GRG,Saakashvili,2013,0,1,0,democracy,,,10,10,0,0,11,0,0,0,2,0,7,,1
+372,Georgia,GRG,Margvelashvili,2013,0,-888,-888,democracy,,,11,1,0,0,1,0,0,0,2,0,7,,1
+372,Georgia,GRG,Margvelashvili,2014,0,-888,-888,democracy,,,12,2,0,0,2,1,0,0,2,0,7,,1
+372,Georgia,GRG,Margvelashvili,2015,0,-888,-888,democracy,,,13,3,0,0,3,0,0,0,2,0,7,,1
+90,Guatemala,GUA,Leon Carpio,1995,1,1,0,democracy,,,12,3,0,0,3,0,0,0,3,0,7,,0
+90,Guatemala,GUA,Leon Carpio,1996,1,1,0,democracy,,,13,4,0,0,4,0,0,0,3,0,7,,1
+90,Guatemala,GUA,Arzu Yrigoyen,1996,0,1,0,democracy,,,14,1,0,0,1,0,0,0,3,0,7,,1
+90,Guatemala,GUA,Arzu Yrigoyen,1997,0,1,0,democracy,,,15,2,0,0,2,0,0,0,3,0,7,,1
+90,Guatemala,GUA,Arzu Yrigoyen,1998,0,1,0,democracy,,,16,3,0,0,3,0,0,0,3,0,7,,1
+90,Guatemala,GUA,Arzu Yrigoyen,1999,0,1,0,democracy,,,17,4,0,0,4,0,0,0,3,0,7,,1
+90,Guatemala,GUA,Arzu Yrigoyen,2000,0,1,0,democracy,,,18,5,0,0,5,0,0,0,3,0,7,,1
+90,Guatemala,GUA,Alfonso Portillo Cabrera,2000,0,1,0,democracy,,,19,1,0,0,1,0,0,0,3,0,7,,1
+90,Guatemala,GUA,Alfonso Portillo Cabrera,2001,0,1,0,democracy,,,20,2,0,0,2,0,0,0,3,0,7,,1
+90,Guatemala,GUA,Alfonso Portillo Cabrera,2002,0,1,0,democracy,,,21,3,0,0,3,0,0,0,3,0,7,,1
+90,Guatemala,GUA,Alfonso Portillo Cabrera,2003,0,1,0,democracy,,,22,4,0,0,4,0,0,0,3,0,7,,1
+90,Guatemala,GUA,Alfonso Portillo Cabrera,2004,0,1,0,democracy,,,23,5,0,0,5,0,0,0,2,0,7,,0
+90,Guatemala,GUA,Berger Perdomo,2004,0,1,0,democracy,,,24,1,0,0,1,0,1,0,2,0,7,,0
+90,Guatemala,GUA,Berger Perdomo,2005,0,1,0,democracy,,,25,2,0,0,2,1,0,0,1,0,7,,0
+90,Guatemala,GUA,Berger Perdomo,2006,0,1,0,democracy,,,26,3,0,0,3,0,1,0,1,0,7,,0
+90,Guatemala,GUA,Berger Perdomo,2007,0,1,0,democracy,,,27,4,0,0,4,0,0,0,0,0,7,,0
+90,Guatemala,GUA,Berger Perdomo,2008,0,1,0,democracy,,,28,5,0,0,5,0,0,0,0,0,7,,0
+90,Guatemala,GUA,Colom Caballeros,2008,0,1,0,democracy,,,29,1,0,0,1,0,0,0,0,0,7,,0
+90,Guatemala,GUA,Colom Caballeros,2009,0,1,0,democracy,,,30,2,0,0,2,0,0,0,0,0,7,,0
+90,Guatemala,GUA,Colom Caballeros,2010,0,1,0,democracy,,,31,3,0,0,3,0,0,0,0,0,7,,0
+90,Guatemala,GUA,Colom Caballeros,2011,0,1,0,democracy,,,32,4,0,0,4,0,0,0,0,0,7,,0
+90,Guatemala,GUA,Colom Caballeros,2012,0,1,0,democracy,,,33,5,0,0,5,1,0,0,0,0,7,,0
+90,Guatemala,GUA,Perez Molina,2012,0,-888,0,democracy,,,34,1,0,0,1,0,1,0,0,0,7,,0
+90,Guatemala,GUA,Perez Molina,2013,0,-888,0,democracy,,,35,2,0,0,2,0,0,0,0,0,7,,0
+90,Guatemala,GUA,Perez Molina,2014,0,-888,0,democracy,,,36,3,0,0,3,1,0,0,0,0,7,,0
+90,Guatemala,GUA,Perez Molina,2015,0,-888,0,democracy,,,37,4,0,0,4,0,1,0,0,0,7,,0
+110,Guyana,GUY,Jagan Cheddi,1995,0,2,0,democracy,,,3,3,0,0,4,0,0,0,1,0,7,,1
+110,Guyana,GUY,Jagan Cheddi,1996,0,2,0,democracy,,,4,4,0,0,5,0,0,0,1,0,7,,1
+110,Guyana,GUY,Jagan Cheddi,1997,0,2,0,democracy,,,5,5,0,0,6,0,0,0,1,0,7,,1
+110,Guyana,GUY,Samuel Hinds,1997,0,1,0,democracy,,,6,1,0,0,1,0,0,0,1,0,7,,1
+110,Guyana,GUY,Janet Jagan,1997,0,2.1,0,democracy,,,7,1,0,0,1,0,0,0,1,0,7,,1
+110,Guyana,GUY,Janet Jagan,1998,0,2.1,0,democracy,,,8,2,0,0,2,0,0,0,1,0,7,,1
+110,Guyana,GUY,Janet Jagan,1999,0,2.1,0,democracy,,,9,3,0,0,3,0,0,0,1,0,7,,1
+110,Guyana,GUY,Bharrat Jagdeo,1999,0,1,0,democracy,,,10,1,0,0,1,0,0,0,1,0,7,,1
+110,Guyana,GUY,Bharrat Jagdeo,2000,0,1,0,democracy,,,11,2,0,0,2,0,0,0,1,0,7,,1
+110,Guyana,GUY,Bharrat Jagdeo,2001,0,1,0,democracy,,,12,3,0,0,3,0,0,0,1,0,7,1,1
+110,Guyana,GUY,Bharrat Jagdeo,2002,0,1,0,democracy,,,13,4,0,0,4,0,0,0,0,0,7,,1
+110,Guyana,GUY,Bharrat Jagdeo,2003,0,1,0,democracy,,,14,5,0,0,5,0,0,0,0,0,7,,1
+110,Guyana,GUY,Bharrat Jagdeo,2004,0,1,0,democracy,,,15,6,0,0,6,0,0,0,0,0,7,,1
+110,Guyana,GUY,Bharrat Jagdeo,2005,0,1,0,democracy,,,16,7,0,0,7,0,0,0,0,0,7,,1
+110,Guyana,GUY,Bharrat Jagdeo,2006,0,1,0,democracy,,,17,8,0,0,8,0,0,0,0,0,7,1,1
+110,Guyana,GUY,Bharrat Jagdeo,2007,0,1,0,democracy,,,18,9,0,0,9,0,0,0,0,0,7,,1
+110,Guyana,GUY,Bharrat Jagdeo,2008,0,1,0,democracy,,,19,10,0,0,10,0,1,0,0,0,7,,1
+110,Guyana,GUY,Bharrat Jagdeo,2009,0,1,0,democracy,,,20,11,0,0,11,0,0,0,0,0,7,,1
+110,Guyana,GUY,Bharrat Jagdeo,2010,0,1,0,democracy,,,21,12,0,0,12,0,0,0,0,0,7,,1
+110,Guyana,GUY,Bharrat Jagdeo,2011,0,1,0,democracy,,,22,13,0,0,13,0,0,0,0,0,7,,1
+110,Guyana,GUY,Ramotar,2011,0,1,0,democracy,,,23,1,0,0,1,0,0,0,0,0,7,,1
+110,Guyana,GUY,Ramotar,2012,0,1,0,democracy,,,24,2,0,0,2,0,0,0,0,0,7,,1
+110,Guyana,GUY,Ramotar,2013,0,1,0,democracy,,,25,3,0,0,3,0,0,0,0,0,7,,1
+110,Guyana,GUY,Ramotar,2014,0,1,0,democracy,,,26,4,0,0,4,0,0,0,0,0,7,,1
+110,Guyana,GUY,Ramotar,2015,0,1,0,democracy,,,27,5,0,0,5,0,0,0,0,0,7,,1
+91,Honduras,HON,Reina,1995,0,1,0,democracy,,,16,2,0,0,1,0,0,0,0,0,7,,1
+91,Honduras,HON,Reina,1996,0,1,0,democracy,,,17,3,0,0,2,0,0,0,0,0,7,,1
+91,Honduras,HON,Reina,1997,0,1,0,democracy,,,18,4,0,0,3,0,0,0,0,0,7,,1
+91,Honduras,HON,Reina,1998,0,1,0,democracy,,,19,5,0,0,4,0,0,0,0,0,7,,1
+91,Honduras,HON,Flores Facusse,1998,0,1,0,democracy,,,20,1,0,0,1,0,0,0,1,0,7,,1
+91,Honduras,HON,Flores Facusse,1999,0,1,0,democracy,,,21,2,0,0,2,0,0,0,1,0,7,,1
+91,Honduras,HON,Flores Facusse,2000,0,1,0,democracy,,,22,3,0,0,3,0,0,0,1,0,7,,1
+91,Honduras,HON,Flores Facusse,2001,0,1,0,democracy,,,23,4,0,0,4,0,0,0,1,0,7,,1
+91,Honduras,HON,Flores Facusse,2002,0,1,0,democracy,,,24,5,0,0,5,0,0,0,1,0,7,,1
+91,Honduras,HON,Ricardo Maduro,2002,0,1,0,democracy,,,25,1,0,0,1,0,0,0,1,0,7,,0
+91,Honduras,HON,Ricardo Maduro,2003,0,1,0,democracy,,,26,2,0,0,2,0,0,0,1,0,7,,0
+91,Honduras,HON,Ricardo Maduro,2004,0,1,0,democracy,,,27,3,0,0,3,0,0,0,1,0,7,,0
+91,Honduras,HON,Ricardo Maduro,2005,0,1,0,democracy,,,28,4,0,0,4,0,0,0,1,0,7,,0
+91,Honduras,HON,Ricardo Maduro,2006,0,1,0,democracy,,,29,5,0,0,5,0,0,0,1,0,7,,0
+91,Honduras,HON,Zelaya,2006,0,3,6,democracy,,,30,1,0,0,1,0,0,0,1,0,7,,0
+91,Honduras,HON,Zelaya,2007,0,3,6,democracy,,,31,2,0,0,2,0,0,0,1,0,7,,0
+91,Honduras,HON,Zelaya,2008,0,3,6,democracy,,,32,3,0,0,3,0,0,0,1,0,7,,0
+91,Honduras,HON,Zelaya,2009,0,3,6,democracy,,,33,4,0,0,4,0,0,0,1,0,7,,0
+91,Honduras,HON,Micheletti,2009,1,1,0,democracy,,,34,1,0,0,1,0,0,0,1,0,7,,0
+91,Honduras,HON,Micheletti,2010,1,1,0,democracy,,,35,2,0,0,2,0,0,0,1,0,7,,0
+91,Honduras,HON,Lobo,2010,0,1,0,democracy,,,36,1,0,0,1,0,0,0,1,0,7,,1
+91,Honduras,HON,Lobo,2011,0,1,0,democracy,,,37,2,0,0,2,0,0,0,1,0,7,,1
+91,Honduras,HON,Lobo,2012,0,1,0,democracy,,,38,3,0,0,3,0,1,0,1,0,7,,1
+91,Honduras,HON,Lobo,2013,0,1,0,democracy,,,39,4,0,0,4,0,0,0,1,0,7,,1
+91,Honduras,HON,Lobo,2014,0,1,0,democracy,,,40,5,0,0,5,0,0,0,1,0,7,,1
+91,Honduras,HON,Hern<e1>ndez,2014,0,1,0,democracy,,,41,1,0,0,1,0,0,0,1,0,7,,1
+91,Honduras,HON,Hern<e1>ndez,2015,0,1,0,democracy,,,42,2,0,0,2,0,0,0,1,0,7,,1
+310,Hungary,HUN,Horn,1995,0,1,0,democracy,,,7,2,0,0,2,0,0,0,1,0,7,,0
+310,Hungary,HUN,Horn,1996,0,1,0,democracy,,,8,3,0,0,3,0,0,0,1,0,7,,0
+310,Hungary,HUN,Horn,1997,0,1,0,democracy,,,9,4,0,0,4,1,0,0,1,0,7,,0
+310,Hungary,HUN,Horn,1998,0,1,0,democracy,,,10,5,0,0,5,0,0,0,1,0,7,,0
+310,Hungary,HUN,Orban,1998,0,1,0,democracy,,,11,1,0,0,1,0,0,0,1,0,7,,0
+310,Hungary,HUN,Orban,1999,0,1,0,democracy,,,12,2,0,0,2,0,0,0,1,0,7,,0
+310,Hungary,HUN,Orban,2000,0,1,0,democracy,,,13,3,0,0,3,0,0,0,0,0,7,,0
+310,Hungary,HUN,Orban,2001,0,1,0,democracy,,,14,4,0,0,4,0,0,0,0,0,7,,0
+310,Hungary,HUN,Orban,2002,0,1,0,democracy,,,15,5,0,0,5,0,0,0,0,0,7,,0
+310,Hungary,HUN,Peter Medgyessy,2002,0,1,0,democracy,,,16,1,0,0,1,0,0,0,0,0,7,,0
+310,Hungary,HUN,Peter Medgyessy,2003,0,1,0,democracy,,,17,2,0,0,2,0,0,0,0,0,7,,0
+310,Hungary,HUN,Peter Medgyessy,2004,0,1,0,democracy,,,18,3,0,0,3,0,0,0,0,0,7,,0
+310,Hungary,HUN,Ferenc Gyurcsany,2004,0,1,0,democracy,,,19,1,0,0,1,0,0,0,0,0,7,,0
+310,Hungary,HUN,Ferenc Gyurcsany,2005,0,1,0,democracy,,,20,2,0,0,2,0,0,0,0,0,7,,0
+310,Hungary,HUN,Ferenc Gyurcsany,2006,0,1,0,democracy,,,21,3,0,0,3,0,0,0,0,0,7,,0
+310,Hungary,HUN,Ferenc Gyurcsany,2007,0,1,0,democracy,,,22,4,0,0,4,0,0,0,0,0,7,,0
+310,Hungary,HUN,Ferenc Gyurcsany,2008,0,1,0,democracy,,,23,5,0,0,5,0,0,0,0,0,7,,0
+310,Hungary,HUN,Ferenc Gyurcsany,2009,0,1,0,democracy,,,24,6,0,0,6,0,0,0,0,0,7,,0
+310,Hungary,HUN,Bajnai,2009,0,1,0,democracy,,,25,1,0,0,1,0,0,0,0,0,7,,0
+310,Hungary,HUN,Bajnai,2010,0,1,0,democracy,,,26,2,0,0,2,0,0,0,0,0,7,,0
+310,Hungary,HUN,Orban,2010,0,-888,-888,democracy,,,27,1,0,0,1,0,0,0,0,0,7,,0
+310,Hungary,HUN,Orban,2011,0,-888,-888,democracy,,,28,2,0,0,2,0,0,0,0,0,7,,0
+310,Hungary,HUN,Orban,2012,0,-888,-888,democracy,,,29,3,0,0,3,0,0,0,0,0,7,,0
+310,Hungary,HUN,Orban,2013,0,-888,-888,democracy,,,30,4,0,0,4,0,0,0,0,0,7,,0
+310,Hungary,HUN,Orban,2014,0,-888,-888,democracy,,,31,5,0,0,5,0,0,0,0,0,7,,0
+310,Hungary,HUN,Orban,2015,0,-888,-888,democracy,,,32,6,0,0,6,0,0,0,0,0,7,,0
+750,India,IND,Rao,1995,0,1,0,democracy,,,32,5,0,0,5,0,0,0,1,0,7,,0
+750,India,IND,Rao,1996,0,1,0,democracy,,,33,6,0,0,6,0,0,0,1,0,7,,0
+750,India,IND,Vajpayee,1996,0,1,0,democracy,,,34,1,0,0,1,0,0,0,1,0,7,,0
+750,India,IND,Gowda,1996,0,1,0,democracy,,,35,1,0,0,1,0,0,0,1,0,7,,0
+750,India,IND,Gowda,1997,0,1,0,democracy,,,36,2,0,0,2,0,0,0,1,0,7,,0
+750,India,IND,Gujral,1997,0,1,0,democracy,,,37,1,0,0,1,0,0,0,1,0,7,,0
+750,India,IND,Gujral,1998,0,1,0,democracy,,,38,2,0,0,2,0,0,0,1,0,7,,0
+750,India,IND,Vajpayee,1998,0,1,0,democracy,,,39,1,0,0,1,0,0,0,1,0,7,,0
+750,India,IND,Vajpayee,1999,0,1,0,democracy,,,40,2,0,0,2,0,0,0,0,0,7,,0
+750,India,IND,Vajpayee,2000,0,1,0,democracy,,,41,3,0,0,3,0,0,0,0,0,7,,0
+750,India,IND,Vajpayee,2001,0,1,0,democracy,,,42,4,0,0,4,0,0,0,0,0,7,,0
+750,India,IND,Vajpayee,2002,0,1,0,democracy,,,43,5,0,0,5,0,0,0,0,0,7,,0
+750,India,IND,Vajpayee,2003,0,1,0,democracy,,,44,6,0,0,6,0,1,0,0,0,7,,0
+750,India,IND,Vajpayee,2004,0,1,0,democracy,,,45,7,0,0,7,0,0,0,0,0,7,,0
+750,India,IND,Manmohan Singh,2004,0,1,0,democracy,,,46,1,0,0,1,0,1,0,0,0,7,,0
+750,India,IND,Manmohan Singh,2005,0,1,0,democracy,,,47,2,0,0,2,1,0,0,0,0,7,,0
+750,India,IND,Manmohan Singh,2006,0,1,0,democracy,,,48,3,0,0,3,0,1,0,0,0,7,,0
+750,India,IND,Manmohan Singh,2007,0,1,0,democracy,,,49,4,0,0,4,0,1,0,0,0,7,,0
+750,India,IND,Manmohan Singh,2008,0,1,0,democracy,,,50,5,0,0,5,0,1,0,0,0,7,,0
+750,India,IND,Manmohan Singh,2009,0,1,0,democracy,,,51,6,0,0,6,1,0,0,0,0,7,,0
+750,India,IND,Manmohan Singh,2010,0,1,0,democracy,,,52,7,0,0,7,0,1,0,0,0,7,,0
+750,India,IND,Manmohan Singh,2011,0,1,0,democracy,,,53,8,0,0,8,1,0,0,0,0,7,,0
+750,India,IND,Manmohan Singh,2012,0,1,0,democracy,,,54,9,0,0,9,0,0,0,0,0,7,,0
+750,India,IND,Manmohan Singh,2013,0,1,0,democracy,,,55,10,0,0,10,0,0,0,0,0,7,,0
+750,India,IND,Manmohan Singh,2014,0,1,0,democracy,,,56,11,0,0,11,0,0,0,0,0,7,,0
+750,India,IND,Narendra Modi,2014,0,-888,-888,democracy,,,57,1,0,0,1,0,0,0,0,0,7,,0
+750,India,IND,Narendra Modi,2015,0,-888,-888,democracy,,,58,2,0,0,2,0,1,0,0,0,7,,0
+850,Indonesia,INS,Suharto,1995,1,1,0,dictatorship,,,0,0,25,25,25,0,0,1,1,0,2,,
+850,Indonesia,INS,Suharto,1996,1,1,0,dictatorship,,,0,0,26,26,26,0,0,1,1,0,2,,
+850,Indonesia,INS,Suharto,1997,1,1,0,dictatorship,,,0,0,27,27,27,0,0,1,1,0,2,,
+850,Indonesia,INS,Suharto,1998,1,1,0,dictatorship,,,0,0,28,28,28,0,0,1,1,0,2,,
+850,Indonesia,INS,Habibie,1998,0,1,0,dictatorship,,,0,0,29,29,1,0,0,1,1,0,2,,
+850,Indonesia,INS,Habibie,1999,0,1,0,dictatorship,,,0,0,30,30,2,0,0,1,1,0,2,,
+850,Indonesia,INS,Wahid,1999,0,1,0,dictatorship,,,0,0,31,31,1,0,0,1,1,0,2,,
+850,Indonesia,INS,Wahid,2000,0,1,0,democracy,,,1,1,0,0,2,0,0,0,1,0,6,,0
+850,Indonesia,INS,Wahid,2001,0,1,0,democracy,,,2,2,0,0,3,0,0,0,1,0,6,,0
+850,Indonesia,INS,Megawati Sukarnoputri,2001,0,1,0,democracy,,,3,1,0,0,1,0,0,0,1,0,6,,0
+850,Indonesia,INS,Megawati Sukarnoputri,2002,0,1,0,democracy,,,4,2,0,0,2,0,0,0,1,0,6,,0
+850,Indonesia,INS,Megawati Sukarnoputri,2003,0,1,0,democracy,,,5,3,0,0,3,0,0,0,1,0,6,,0
+850,Indonesia,INS,Megawati Sukarnoputri,2004,0,1,0,democracy,,,6,4,0,0,4,0,0,0,1,0,6,,0
+850,Indonesia,INS,Bambang Yudhoyono,2004,0,1,0,democracy,,,7,1,0,0,1,0,0,0,1,0,6,,0
+850,Indonesia,INS,Bambang Yudhoyono,2005,0,1,0,democracy,,,8,2,0,0,2,0,1,0,1,0,7,,0
+850,Indonesia,INS,Bambang Yudhoyono,2006,0,1,0,democracy,,,9,3,0,0,3,0,0,0,1,0,7,,0
+850,Indonesia,INS,Bambang Yudhoyono,2007,0,1,0,democracy,,,10,4,0,0,4,1,0,0,1,0,7,,0
+850,Indonesia,INS,Bambang Yudhoyono,2008,0,1,0,democracy,,,11,5,0,0,5,0,0,0,1,0,7,,0
+850,Indonesia,INS,Bambang Yudhoyono,2009,0,1,0,democracy,,,12,6,0,0,6,0,0,0,1,0,7,1,0
+850,Indonesia,INS,Bambang Yudhoyono,2010,0,1,0,democracy,,,13,7,0,0,7,0,1,0,0,0,7,,0
+850,Indonesia,INS,Bambang Yudhoyono,2011,0,1,0,democracy,,,14,8,0,0,8,0,1,0,0,0,7,,0
+850,Indonesia,INS,Bambang Yudhoyono,2012,0,1,0,democracy,,,15,9,0,0,9,0,0,0,0,0,7,,0
+850,Indonesia,INS,Bambang Yudhoyono,2013,0,1,0,democracy,,,16,10,0,0,10,0,0,0,0,0,7,,0
+850,Indonesia,INS,Bambang Yudhoyono,2014,0,1,0,democracy,,,17,11,0,0,11,0,0,0,0,0,7,,0
+850,Indonesia,INS,Joko Widodo,2014,0,-888,-888,democracy,,,18,1,0,0,1,0,0,0,0,0,7,,0
+850,Indonesia,INS,Joko Widodo,2015,0,-888,-888,democracy,,,19,2,0,0,2,0,0,0,0,0,7,,0
+51,Jamaica,JAM,Patterson,1995,0,1,0,democracy,,,29,4,0,0,4,0,0,0,0,0,6,,1
+51,Jamaica,JAM,Patterson,1996,0,1,0,democracy,,,30,5,0,0,5,0,0,0,0,0,6,,1
+51,Jamaica,JAM,Patterson,1997,0,1,0,democracy,,,31,6,0,0,6,0,0,0,0,0,6,1,1
+51,Jamaica,JAM,Patterson,1998,0,1,0,democracy,,,32,7,0,0,7,0,0,0,0,0,6,,1
+51,Jamaica,JAM,Patterson,1999,0,1,0,democracy,,,33,8,0,0,8,0,0,0,0,0,6,,1
+51,Jamaica,JAM,Patterson,2000,0,1,0,democracy,,,34,9,0,0,9,0,0,0,0,0,6,,1
+51,Jamaica,JAM,Patterson,2001,0,1,0,democracy,,,35,10,0,0,10,0,0,0,0,0,6,,1
+51,Jamaica,JAM,Patterson,2002,0,1,0,democracy,,,36,11,0,0,11,0,0,0,0,0,6,1,1
+51,Jamaica,JAM,Patterson,2003,0,1,0,democracy,,,37,12,0,0,12,0,0,0,0,0,7,,1
+51,Jamaica,JAM,Patterson,2004,0,1,0,democracy,,,38,13,0,0,13,0,0,0,0,0,7,,1
+51,Jamaica,JAM,Patterson,2005,0,1,0,democracy,,,39,14,0,0,14,0,0,0,1,0,7,,1
+51,Jamaica,JAM,Patterson,2006,0,1,0,democracy,,,40,15,0,0,15,0,0,0,0,0,7,,1
+51,Jamaica,JAM,Simpson-Miller,2006,0,1,0,democracy,,,41,1,0,0,1,0,0,0,0,0,7,,1
+51,Jamaica,JAM,Simpson-Miller,2007,0,1,0,democracy,,,42,2,0,0,2,0,0,0,0,0,7,,1
+51,Jamaica,JAM,Golding,2007,0,1,0,democracy,,,43,1,0,0,1,0,0,0,0,0,7,,1
+51,Jamaica,JAM,Holness,2008,0,1,0,democracy,,,44,1,0,0,1,0,1,0,0,0,7,,1
+51,Jamaica,JAM,Holness,2009,0,1,0,democracy,,,45,2,0,0,2,0,0,0,0,0,7,,1
+51,Jamaica,JAM,Holness,2010,0,1,0,democracy,,,46,3,0,0,3,0,0,0,0,0,7,,1
+51,Jamaica,JAM,Holness,2011,0,1,0,democracy,,,47,4,0,0,4,0,0,0,0,0,7,,1
+51,Jamaica,JAM,Holness,2012,0,1,0,democracy,,,48,5,0,0,5,0,0,0,0,0,7,,1
+51,Jamaica,JAM,Simpson-Miller,2012,0,-888,0,democracy,,,49,1,0,0,1,0,0,0,0,0,7,,1
+51,Jamaica,JAM,Simpson-Miller,2013,0,-888,0,democracy,,,50,2,0,0,2,0,0,0,0,0,7,,1
+51,Jamaica,JAM,Simpson-Miller,2014,0,-888,0,democracy,,,51,3,0,0,3,0,0,0,0,0,7,,1
+51,Jamaica,JAM,Simpson-Miller,2015,0,-888,0,democracy,,,52,4,0,0,4,0,0,0,0,0,7,,1
+663,Jordan,JOR,Hussein Ibn Talal El-Hashim,1995,0,2,0,dictatorship,,,0,0,25,25,25,1,1,1,2,0,2,,
+663,Jordan,JOR,Hussein Ibn Talal El-Hashim,1996,0,2,0,dictatorship,,,0,0,26,26,26,0,0,1,2,0,2,,
+663,Jordan,JOR,Hussein Ibn Talal El-Hashim,1997,0,2,0,dictatorship,,,0,0,27,27,27,1,0,1,2,0,2,,
+663,Jordan,JOR,Hussein Ibn Talal El-Hashim,1998,0,2,0,dictatorship,,,0,0,28,28,28,0,0,1,2,0,2,,
+663,Jordan,JOR,Hussein Ibn Talal El-Hashim,1999,0,2,0,dictatorship,,,0,0,29,29,29,0,0,1,0,0,2,,
+663,Jordan,JOR,Abdullah Ibn Hussein El-Hashimi,1999,0,-888,0,dictatorship,,,0,0,30,30,1,0,1,1,0,0,2,,
+663,Jordan,JOR,Abdullah Ibn Hussein El-Hashimi,2000,0,-888,0,dictatorship,,,0,0,31,31,2,1,1,1,0,0,2,,
+663,Jordan,JOR,Abdullah Ibn Hussein El-Hashimi,2001,0,-888,0,dictatorship,,,0,0,32,32,3,1,1,1,0,0,2,,
+663,Jordan,JOR,Abdullah Ibn Hussein El-Hashimi,2002,0,-888,0,dictatorship,,,0,0,33,33,4,0,0,1,0,0,2,,
+663,Jordan,JOR,Abdullah Ibn Hussein El-Hashimi,2003,0,-888,0,dictatorship,,,0,0,34,34,5,0,1,1,0,0,2,,
+663,Jordan,JOR,Abdullah Ibn Hussein El-Hashimi,2004,0,-888,0,dictatorship,,,0,0,35,35,6,1,0,1,0,0,2,,
+663,Jordan,JOR,Abdullah Ibn Hussein El-Hashimi,2005,0,-888,0,dictatorship,,,0,0,36,36,7,0,0,1,0,0,2,,
+663,Jordan,JOR,Abdullah Ibn Hussein El-Hashimi,2006,0,-888,0,dictatorship,,,0,0,37,37,8,0,0,1,0,0,2,,
+663,Jordan,JOR,Abdullah Ibn Hussein El-Hashimi,2007,0,-888,0,dictatorship,,,0,0,38,38,9,0,0,1,0,0,2,,
+663,Jordan,JOR,Abdullah Ibn Hussein El-Hashimi,2008,0,-888,0,dictatorship,,,0,0,39,39,10,0,1,1,0,0,2,,
+663,Jordan,JOR,Abdullah Ibn Hussein El-Hashimi,2009,0,-888,0,dictatorship,,,0,0,40,40,11,1,0,1,0,0,2,,
+663,Jordan,JOR,Abdullah Ibn Hussein El-Hashimi,2010,0,-888,0,dictatorship,,,0,0,41,41,12,0,0,1,0,0,2,,
+663,Jordan,JOR,Abdullah Ibn Hussein El-Hashimi,2011,0,-888,0,dictatorship,,,0,0,42,42,13,0,0,1,0,0,2,,
+663,Jordan,JOR,Abdullah Ibn Hussein El-Hashimi,2012,0,-888,0,dictatorship,,,0,0,43,43,14,0,0,1,1,0,2,,
+663,Jordan,JOR,Abdullah Ibn Hussein El-Hashimi,2013,0,-888,0,dictatorship,,,0,0,44,44,15,0,0,1,1,0,2,,
+663,Jordan,JOR,Abdullah Ibn Hussein El-Hashimi,2014,0,-888,0,dictatorship,,,0,0,45,45,16,0,0,1,1,0,2,,
+663,Jordan,JOR,Abdullah Ibn Hussein El-Hashimi,2015,0,-888,0,dictatorship,,,0,0,46,46,17,0,0,1,1,0,2,,
+705,Kazakhstan,KZK,Nazarbaev,1995,0,-888,0,dictatorship,,,0,0,6,6,6,0,0,1,1,0,3,,
+705,Kazakhstan,KZK,Nazarbaev,1996,0,-888,0,dictatorship,,,0,0,7,7,7,0,0,1,1,0,3,,
+705,Kazakhstan,KZK,Nazarbaev,1997,0,-888,0,dictatorship,,,0,0,8,8,8,0,0,1,1,0,3,,
+705,Kazakhstan,KZK,Nazarbaev,1998,0,-888,0,dictatorship,,,0,0,9,9,9,0,0,1,1,0,3,,
+705,Kazakhstan,KZK,Nazarbaev,1999,0,-888,0,dictatorship,,,0,0,10,10,10,0,0,1,1,0,3,,
+705,Kazakhstan,KZK,Nazarbaev,2000,0,-888,0,dictatorship,,,0,0,11,11,11,0,0,1,1,0,3,,
+705,Kazakhstan,KZK,Nazarbaev,2001,0,-888,0,dictatorship,,,0,0,12,12,12,0,0,1,0,0,3,,
+705,Kazakhstan,KZK,Nazarbaev,2002,0,-888,0,dictatorship,,,0,0,13,13,13,0,0,1,0,0,3,,
+705,Kazakhstan,KZK,Nazarbaev,2003,0,-888,0,dictatorship,,,0,0,14,14,14,0,0,1,0,0,3,,
+705,Kazakhstan,KZK,Nazarbaev,2004,0,-888,0,dictatorship,,,0,0,15,15,15,0,0,1,1,0,3,,
+705,Kazakhstan,KZK,Nazarbaev,2005,0,-888,0,dictatorship,,,0,0,16,16,16,0,0,1,1,0,3,,
+705,Kazakhstan,KZK,Nazarbaev,2006,0,-888,0,dictatorship,,,0,0,17,17,17,0,0,1,2,0,3,,
+705,Kazakhstan,KZK,Nazarbaev,2007,0,-888,0,dictatorship,,,0,0,18,18,18,0,0,1,2,0,3,,
+705,Kazakhstan,KZK,Nazarbaev,2008,0,-888,0,dictatorship,,,0,0,19,19,19,0,0,1,2,0,3,,
+705,Kazakhstan,KZK,Nazarbaev,2009,0,-888,0,dictatorship,,,0,0,20,20,20,0,0,1,2,0,3,,
+705,Kazakhstan,KZK,Nazarbaev,2010,0,-888,0,dictatorship,,,0,0,21,21,21,0,1,1,2,0,3,,
+705,Kazakhstan,KZK,Nazarbaev,2011,0,-888,0,dictatorship,,,0,0,22,22,22,0,1,1,2,0,3,,
+705,Kazakhstan,KZK,Nazarbaev,2012,0,-888,0,dictatorship,,,0,0,23,23,23,0,0,1,2,0,3,,
+705,Kazakhstan,KZK,Nazarbaev,2013,0,-888,0,dictatorship,,,0,0,24,24,24,0,0,1,2,0,6,,
+705,Kazakhstan,KZK,Nazarbaev,2014,0,-888,0,dictatorship,,,0,0,25,25,25,0,0,1,2,0,6,,
+705,Kazakhstan,KZK,Nazarbaev,2015,0,-888,0,dictatorship,,,0,0,26,26,26,0,0,1,2,0,6,,
+690,Kuwait,KUW,Jabir As-Sabah,1995,2,2,0,dictatorship,,,0,0,25,5,5,0,0,1,1,0,2,,
+690,Kuwait,KUW,Jabir As-Sabah,1996,2,2,0,dictatorship,,,0,0,26,6,6,0,0,1,1,0,2,,
+690,Kuwait,KUW,Jabir As-Sabah,1997,2,2,0,dictatorship,,,0,0,27,7,7,0,0,1,1,0,2,,
+690,Kuwait,KUW,Jabir As-Sabah,1998,2,2,0,dictatorship,,,0,0,28,8,8,0,0,1,1,0,2,,
+690,Kuwait,KUW,Jabir As-Sabah,1999,2,2,0,dictatorship,,,0,0,29,9,9,0,0,1,1,0,2,,
+690,Kuwait,KUW,Jabir As-Sabah,2000,2,2,0,dictatorship,,,0,0,30,10,10,0,0,1,1,0,2,,
+690,Kuwait,KUW,Jabir As-Sabah,2001,2,2,0,dictatorship,,,0,0,31,11,11,0,0,1,1,0,2,,
+690,Kuwait,KUW,Jabir As-Sabah,2002,2,2,0,dictatorship,,,0,0,32,12,12,0,1,1,1,0,2,,
+690,Kuwait,KUW,Jabir As-Sabah,2003,2,2,0,dictatorship,,,0,0,33,13,13,0,0,1,1,0,2,,
+690,Kuwait,KUW,Jabir As-Sabah,2004,2,2,0,dictatorship,,,0,0,34,14,14,0,0,1,1,0,2,,
+690,Kuwait,KUW,Jabir As-Sabah,2005,2,2,0,dictatorship,,,0,0,35,15,15,0,0,1,1,0,2,,
+690,Kuwait,KUW,Jabir As-Sabah,2006,2,2,0,dictatorship,,,0,0,36,16,16,0,0,1,0,0,2,,
+690,Kuwait,KUW,Sheikh Saad Al Abdullah Al Salim Al Sabah,2006,0,1,0,dictatorship,,,0,0,37,37,1,0,0,1,0,0,2,,
+690,Kuwait,KUW,Sheikh Sabah Al Ahmad Al Jabir Al Sabah,2006,0,-888,-888,dictatorship,,,0,0,38,38,1,0,1,1,0,0,2,,
+690,Kuwait,KUW,Sheikh Sabah Al Ahmad Al Jabir Al Sabah,2007,0,-888,-888,dictatorship,,,0,0,39,39,2,0,1,1,0,0,2,,
+690,Kuwait,KUW,Sheikh Sabah Al Ahmad Al Jabir Al Sabah,2008,0,-888,-888,dictatorship,,,0,0,40,40,3,0,0,1,0,0,2,,
+690,Kuwait,KUW,Sheikh Sabah Al Ahmad Al Jabir Al Sabah,2009,0,-888,-888,dictatorship,,,0,0,41,41,4,1,0,1,0,0,2,,
+690,Kuwait,KUW,Sheikh Sabah Al Ahmad Al Jabir Al Sabah,2010,0,-888,-888,dictatorship,,,0,0,42,42,5,0,0,1,0,0,2,,
+690,Kuwait,KUW,Sheikh Sabah Al Ahmad Al Jabir Al Sabah,2011,0,-888,-888,dictatorship,,,0,0,43,43,6,0,0,1,0,0,2,,
+690,Kuwait,KUW,Sheikh Sabah Al Ahmad Al Jabir Al Sabah,2012,0,-888,-888,dictatorship,,,0,0,44,44,7,0,0,1,0,0,2,,
+690,Kuwait,KUW,Sheikh Sabah Al Ahmad Al Jabir Al Sabah,2013,0,-888,-888,dictatorship,,,0,0,45,45,8,0,0,1,0,0,2,,
+690,Kuwait,KUW,Sheikh Sabah Al Ahmad Al Jabir Al Sabah,2014,0,-888,-888,dictatorship,,,0,0,46,46,9,0,0,1,0,0,2,,
+690,Kuwait,KUW,Sheikh Sabah Al Ahmad Al Jabir Al Sabah,2015,0,-888,-888,dictatorship,,,0,0,47,47,10,0,0,1,0,0,2,,
+367,Latvia,LAT,Gailis,1995,0,1,0,democracy,,,8,2,0,0,2,1,1,0,1,0,7,,0
+367,Latvia,LAT,Skele,1995,0,1,0,democracy,,,9,1,0,0,1,0,0,0,1,0,7,,0
+367,Latvia,LAT,Skele,1996,0,1,0,democracy,,,10,2,0,0,2,0,0,0,1,0,7,,0
+367,Latvia,LAT,Skele,1997,0,1,0,democracy,,,11,3,0,0,3,0,0,0,1,0,7,,0
+367,Latvia,LAT,Krasts,1997,0,1,0,democracy,,,12,1,0,0,1,0,0,0,1,0,7,,0
+367,Latvia,LAT,Krasts,1998,0,1,0,democracy,,,13,2,0,0,2,0,0,0,1,0,7,,0
+367,Latvia,LAT,Kristopans,1998,0,1,0,democracy,,,14,1,0,0,1,0,0,0,1,0,7,,0
+367,Latvia,LAT,Kristopans,1999,0,1,0,democracy,,,15,2,0,0,2,0,0,0,1,0,7,,0
+367,Latvia,LAT,Skele,1999,0,1,0,democracy,,,16,1,0,0,1,0,0,0,1,0,7,,0
+367,Latvia,LAT,Skele,2000,0,1,0,democracy,,,17,2,0,0,2,0,0,0,1,0,7,,0
+367,Latvia,LAT,Berzins,2000,0,1,0,democracy,,,18,1,0,0,1,0,0,0,1,0,7,,0
+367,Latvia,LAT,Berzins,2001,0,1,0,democracy,,,19,2,0,0,2,0,0,0,0,0,7,,0
+367,Latvia,LAT,Berzins,2002,0,1,0,democracy,,,20,3,0,0,3,0,0,0,0,0,7,,0
+367,Latvia,LAT,Repse,2002,0,1,0,democracy,,,21,1,0,0,1,0,0,0,0,0,7,,0
+367,Latvia,LAT,Repse,2003,0,1,0,democracy,,,22,2,0,0,2,0,0,0,0,0,7,,0
+367,Latvia,LAT,Repse,2004,0,1,0,democracy,,,23,3,0,0,3,0,0,0,0,0,7,,0
+367,Latvia,LAT,Indulis Emsis,2004,0,1,0,democracy,,,24,1,0,0,1,0,0,0,0,0,7,,0
+367,Latvia,LAT,Aigars Kalvitis,2004,0,1,0,democracy,,,25,1,0,0,1,0,0,0,0,0,7,,0
+367,Latvia,LAT,Aigars Kalvitis,2005,0,1,0,democracy,,,26,2,0,0,2,0,0,0,0,0,7,,0
+367,Latvia,LAT,Aigars Kalvitis,2006,0,1,0,democracy,,,27,3,0,0,3,0,0,0,0,0,7,,0
+367,Latvia,LAT,Aigars Kalvitis,2007,0,1,0,democracy,,,28,4,0,0,4,0,0,0,0,0,7,,0
+367,Latvia,LAT,Godmanis,2007,0,1,0,democracy,,,29,1,0,0,1,0,0,0,0,0,7,,0
+367,Latvia,LAT,Godmanis,2008,0,1,0,democracy,,,30,2,0,0,2,0,0,0,0,0,7,,0
+367,Latvia,LAT,Godmanis,2009,0,1,0,democracy,,,31,3,0,0,3,0,0,0,0,0,7,,0
+367,Latvia,LAT,Dombrovskis,2009,0,1,0,democracy,,,32,1,0,0,1,0,0,0,0,0,7,,0
+367,Latvia,LAT,Dombrovskis,2010,0,1,0,democracy,,,33,2,0,0,2,0,0,0,0,0,7,,0
+367,Latvia,LAT,Dombrovskis,2011,0,1,0,democracy,,,34,3,0,0,3,0,0,0,0,0,7,,0
+367,Latvia,LAT,Dombrovskis,2012,0,1,0,democracy,,,35,4,0,0,4,0,0,0,0,0,7,,0
+367,Latvia,LAT,Dombrovskis,2013,0,1,0,democracy,,,36,5,0,0,5,0,0,0,0,0,7,,0
+367,Latvia,LAT,Dombrovskis,2014,0,1,0,democracy,,,37,6,0,0,6,0,0,0,0,0,7,,0
+367,Latvia,LAT,Lamdota Straujuma,2014,0,-888,-888,democracy,,,38,1,0,0,1,0,0,0,0,0,7,,0
+660,Lebanon,LEB,Elias Hrawi,1995,0,1,0,no authority,,,0,0,0,0,7,0,1,2,2,NA,7,,
+660,Lebanon,LEB,Elias Hrawi,1996,0,1,0,no authority,,,0,0,0,0,8,0,0,2,2,NA,7,,
+660,Lebanon,LEB,Elias Hrawi,1997,0,1,0,no authority,,,0,0,0,0,9,0,0,2,2,0,7,,
+660,Lebanon,LEB,Elias Hrawi,1998,0,1,0,no authority,,,0,0,0,0,10,0,0,2,2,0,7,,
+660,Lebanon,LEB,Emile Lahoud,1998,0,1,0,no authority,,,0,0,0,0,1,0,0,2,2,0,7,,
+660,Lebanon,LEB,Emile Lahoud,1999,0,1,0,no authority,,,0,0,0,0,2,0,0,2,2,0,7,,
+660,Lebanon,LEB,Emile Lahoud,2000,0,1,0,no authority,,,0,0,0,0,3,0,0,2,2,0,7,,
+660,Lebanon,LEB,Emile Lahoud,2001,0,1,0,no authority,,,0,0,0,0,4,0,0,2,2,0,7,,
+660,Lebanon,LEB,Emile Lahoud,2002,0,1,0,no authority,,,0,0,0,0,5,1,0,2,2,0,7,,
+660,Lebanon,LEB,Emile Lahoud,2003,0,1,0,no authority,,,0,0,0,0,6,0,1,2,2,0,7,,
+660,Lebanon,LEB,Emile Lahoud,2004,0,1,0,no authority,,,0,0,0,0,7,1,0,2,1,0,7,,
+660,Lebanon,LEB,Emile Lahoud,2005,0,1,0,democracy,,,1,1,0,0,8,0,0,0,1,0,7,,0
+660,Lebanon,LEB,Emile Lahoud,2006,0,1,0,democracy,,,2,2,0,0,9,0,0,0,1,0,7,,0
+660,Lebanon,LEB,Emile Lahoud,2007,0,1,0,democracy,,,3,3,0,0,10,0,0,0,1,0,7,,0
+660,Lebanon,LEB,Siniora,2007,0,3,6,democracy,,,4,1,0,0,1,0,0,0,1,0,7,,0
+660,Lebanon,LEB,Siniora,2008,0,3,6,democracy,,,5,2,0,0,2,0,0,0,1,0,7,,0
+660,Lebanon,LEB,Suleiman,2008,0,1,0,democracy,,,6,1,0,0,1,0,0,0,1,0,7,,0
+660,Lebanon,LEB,Suleiman,2009,0,1,0,democracy,,,7,2,0,0,2,0,0,0,1,0,7,,0
+660,Lebanon,LEB,Suleiman,2010,0,1,0,democracy,,,8,3,0,0,3,0,0,0,1,0,7,,0
+660,Lebanon,LEB,Suleiman,2011,0,1,0,democracy,,,9,4,0,0,4,0,0,0,1,0,7,,0
+660,Lebanon,LEB,Suleiman,2012,0,1,0,democracy,,,10,5,0,0,5,0,0,0,1,0,7,,0
+660,Lebanon,LEB,Suleiman,2013,0,1,0,democracy,,,11,6,0,0,6,0,0,0,1,0,7,,0
+660,Lebanon,LEB,Suleiman,2014,0,1,0,democracy,,,12,7,0,0,7,0,0,0,1,0,7,,0
+660,Lebanon,LEB,Salam,2014,0,-888,-888,democracy,,,13,1,0,0,1,0,0,0,1,0,7,,0
+660,Lebanon,LEB,Salam,2015,0,-888,-888,democracy,,,14,2,0,0,2,0,0,0,1,0,7,,0
+570,Lesotho,LES,Mokhehle,1995,1,1,0,democracy,,,4,2,0,0,2,0,0,0,3,0,6,,0
+570,Lesotho,LES,Mokhehle,1996,1,1,0,democracy,,,5,3,0,0,3,0,0,0,3,0,6,,0
+570,Lesotho,LES,Mokhehle,1997,1,1,0,democracy,,,6,4,0,0,4,0,0,0,3,0,6,,0
+570,Lesotho,LES,Mokhehle,1998,1,1,0,democracy,,,7,5,0,0,5,0,0,0,3,0,6,,0
+570,Lesotho,LES,Mosisili,1998,0,1,0,democracy,,,8,1,0,0,1,0,0,0,3,0,6,,0
+570,Lesotho,LES,Mosisili,1999,0,1,0,democracy,,,9,2,0,0,2,0,0,0,3,0,6,,0
+570,Lesotho,LES,Mosisili,2000,0,1,0,democracy,,,10,3,0,0,3,0,0,0,3,0,6,,0
+570,Lesotho,LES,Mosisili,2001,0,1,0,democracy,,,11,4,0,0,4,0,0,0,3,0,6,,0
+570,Lesotho,LES,Mosisili,2002,0,1,0,democracy,,,12,5,0,0,5,0,0,0,3,0,6,1,0
+570,Lesotho,LES,Mosisili,2003,0,1,0,democracy,,,13,6,0,0,6,0,0,0,3,0,6,,1
+570,Lesotho,LES,Mosisili,2004,0,1,0,democracy,,,14,7,0,0,7,0,0,0,3,0,6,,1
+570,Lesotho,LES,Mosisili,2005,0,1,0,democracy,,,15,8,0,0,8,0,1,0,3,0,6,,1
+570,Lesotho,LES,Mosisili,2006,0,1,0,democracy,,,16,9,0,0,9,1,0,0,2,0,6,,1
+570,Lesotho,LES,Mosisili,2007,0,1,0,democracy,,,17,10,0,0,10,0,0,0,3,0,6,1,1
+570,Lesotho,LES,Mosisili,2008,0,1,0,democracy,,,18,11,0,0,11,0,0,0,3,0,7,,1
+570,Lesotho,LES,Mosisili,2009,0,1,0,democracy,,,19,12,0,0,12,0,0,0,3,0,7,,1
+570,Lesotho,LES,Mosisili,2010,0,1,0,democracy,,,20,13,0,0,13,0,0,0,3,0,7,,1
+570,Lesotho,LES,Mosisili,2011,0,1,0,democracy,,,21,14,0,0,14,0,0,0,3,0,7,,1
+570,Lesotho,LES,Mosisili,2012,0,1,0,democracy,,,22,15,0,0,15,0,0,0,1,0,7,,1
+570,Lesotho,LES,Thabane,2012,0,1,0,democracy,,,23,1,0,0,1,0,0,0,1,0,7,,1
+570,Lesotho,LES,Thabane,2013,0,1,0,democracy,,,24,2,0,0,2,0,0,0,1,0,7,,1
+570,Lesotho,LES,Thabane,2014,0,1,0,democracy,,,25,3,0,0,3,0,0,0,2,0,7,,1
+570,Lesotho,LES,Thabane,2015,0,1,0,democracy,,,26,4,0,0,4,0,0,0,2,0,7,,1
+570,Lesotho,LES,Pakalitha Mosisili,2015,0,-888,-888,democracy,,,27,1,0,0,1,0,0,0,2,0,7,,1
+368,Lithuania,LIT,Brazauskas,1995,0,1,0,democracy,,,7,4,0,0,4,1,0,0,1,0,7,,1
+368,Lithuania,LIT,Brazauskas,1996,0,1,0,democracy,,,8,5,0,0,5,0,0,0,1,0,7,,1
+368,Lithuania,LIT,Brazauskas,1997,0,1,0,democracy,,,9,6,0,0,6,0,0,0,1,0,7,,1
+368,Lithuania,LIT,Brazauskas,1998,0,1,0,democracy,,,10,7,0,0,7,0,0,0,1,0,7,,0
+368,Lithuania,LIT,Adamkus,1998,0,1,0,democracy,,,11,1,0,0,1,0,0,0,1,0,7,,0
+368,Lithuania,LIT,Adamkus,1999,0,1,0,democracy,,,12,2,0,0,2,0,0,0,1,0,7,,0
+368,Lithuania,LIT,Adamkus,2000,0,1,0,democracy,,,13,3,0,0,3,0,0,0,1,0,7,,0
+368,Lithuania,LIT,Adamkus,2001,0,1,0,democracy,,,14,4,0,0,4,0,0,0,1,0,7,,0
+368,Lithuania,LIT,Adamkus,2002,0,1,0,democracy,,,15,5,0,0,5,0,0,0,0,0,7,,0
+368,Lithuania,LIT,Adamkus,2003,0,1,0,democracy,,,16,6,0,0,6,0,0,0,0,0,7,,0
+368,Lithuania,LIT,Paksas,2003,0,1,0,democracy,,,17,1,0,0,1,0,0,0,0,0,7,,0
+368,Lithuania,LIT,Paksas,2004,0,1,0,democracy,,,18,2,0,0,2,0,0,0,1,0,7,,0
+368,Lithuania,LIT,Paulauskas,2004,0,1,0,democracy,,,19,1,0,0,1,0,0,0,1,0,7,,0
+368,Lithuania,LIT,Adamkus,2004,0,1,0,democracy,,,20,1,0,0,1,0,0,0,1,0,7,,0
+368,Lithuania,LIT,Adamkus,2005,0,1,0,democracy,,,21,2,0,0,2,0,0,0,1,0,7,,0
+368,Lithuania,LIT,Adamkus,2006,0,1,0,democracy,,,22,3,0,0,3,0,0,0,1,0,7,,0
+368,Lithuania,LIT,Adamkus,2007,0,1,0,democracy,,,23,4,0,0,4,0,0,0,1,0,7,,0
+368,Lithuania,LIT,Adamkus,2008,0,1,0,democracy,,,24,5,0,0,5,0,0,0,1,0,7,,0
+368,Lithuania,LIT,Adamkus,2009,0,1,0,democracy,,,25,6,0,0,6,0,0,0,1,0,7,,0
+368,Lithuania,LIT,Grybauskaite,2009,0,-888,-888,democracy,,,26,1,0,0,1,0,0,0,1,0,7,,0
+368,Lithuania,LIT,Grybauskaite,2010,0,-888,-888,democracy,,,27,2,0,0,2,0,0,0,1,0,7,,0
+368,Lithuania,LIT,Grybauskaite,2011,0,-888,-888,democracy,,,28,3,0,0,3,0,0,0,1,0,7,,0
+368,Lithuania,LIT,Grybauskaite,2012,0,-888,-888,democracy,,,29,4,0,0,4,0,0,0,1,0,7,,0
+368,Lithuania,LIT,Grybauskaite,2013,0,-888,-888,democracy,,,30,5,0,0,5,0,0,0,1,0,7,,0
+368,Lithuania,LIT,Grybauskaite,2014,0,-888,-888,democracy,,,31,6,0,0,6,0,0,0,1,0,7,,0
+368,Lithuania,LIT,Grybauskaite,2015,0,-888,-888,democracy,,,32,7,0,0,7,0,0,0,1,0,7,,0
+343,Macedonia,MAC,Crvenkovski,1995,0,1,0,democracy,,,6,4,0,0,4,0,0,0,1,0,7,,1
+343,Macedonia,MAC,Crvenkovski,1996,0,1,0,democracy,,,7,5,0,0,5,0,0,0,1,0,7,,1
+343,Macedonia,MAC,Crvenkovski,1997,0,1,0,democracy,,,8,6,0,0,6,0,0,0,1,0,7,,1
+343,Macedonia,MAC,Crvenkovski,1998,0,1,0,democracy,,,9,7,0,0,7,0,0,0,1,0,7,,1
+343,Macedonia,MAC,Georgievski,1998,0,1,0,democracy,,,10,1,0,0,1,0,0,0,1,0,7,,1
+343,Macedonia,MAC,Georgievski,1999,0,1,0,democracy,,,11,2,0,0,2,0,0,0,1,0,7,,0
+343,Macedonia,MAC,Georgievski,2000,0,1,0,democracy,,,12,3,0,0,3,1,1,0,1,0,7,,0
+343,Macedonia,MAC,Georgievski,2001,0,1,0,democracy,,,13,4,0,0,4,1,0,0,0,0,7,,0
+343,Macedonia,MAC,Georgievski,2002,0,1,0,democracy,,,14,5,0,0,5,0,0,0,1,0,7,,0
+343,Macedonia,MAC,Crvenkovski,2002,0,1,0,democracy,,,15,1,0,0,1,0,0,0,1,0,7,,0
+343,Macedonia,MAC,Crvenkovski,2003,0,1,0,democracy,,,16,2,0,0,2,0,0,0,1,0,7,,1
+343,Macedonia,MAC,Crvenkovski,2004,0,1,0,democracy,,,17,3,0,0,3,0,0,0,1,0,7,,1
+343,Macedonia,MAC,Radmila Sekerinska,2004,0,1,0,democracy,,,18,1,0,0,1,0,0,0,1,0,7,,1
+343,Macedonia,MAC,Hari Kostov,2004,0,1,0,democracy,,,19,1,0,0,1,0,0,0,1,0,7,,1
+343,Macedonia,MAC,Radmila Sekerinska,2004,0,1,0,democracy,,,20,1,0,0,1,0,0,0,1,0,7,,1
+343,Macedonia,MAC,Vlado Buckovski,2004,0,1,0,democracy,,,21,1,0,0,1,0,0,0,1,0,7,,1
+343,Macedonia,MAC,Vlado Buckovski,2005,0,1,0,democracy,,,22,2,0,0,2,0,0,0,1,0,7,,0
+343,Macedonia,MAC,Vlado Buckovski,2006,0,1,0,democracy,,,23,3,0,0,3,0,0,0,1,0,7,,0
+343,Macedonia,MAC,Gruevski,2006,0,-888,-888,democracy,,,24,1,0,0,1,0,0,0,1,0,7,,0
+343,Macedonia,MAC,Gruevski,2007,0,-888,-888,democracy,,,25,2,0,0,2,0,0,0,1,0,7,,0
+343,Macedonia,MAC,Gruevski,2008,0,-888,-888,democracy,,,26,3,0,0,3,0,0,0,1,0,7,,0
+343,Macedonia,MAC,Gruevski,2009,0,-888,-888,democracy,,,27,4,0,0,4,0,0,0,1,0,7,,0
+343,Macedonia,MAC,Gruevski,2010,0,-888,-888,democracy,,,28,5,0,0,5,0,0,0,1,0,7,,1
+343,Macedonia,MAC,Gruevski,2011,0,-888,-888,democracy,,,29,6,0,0,6,0,0,0,1,0,7,1,1
+343,Macedonia,MAC,Gruevski,2012,0,-888,-888,democracy,,,30,7,0,0,7,0,0,0,0,0,7,,1
+343,Macedonia,MAC,Gruevski,2013,0,-888,-888,democracy,,,31,8,0,0,8,0,0,0,0,0,7,,1
+343,Macedonia,MAC,Gruevski,2014,0,-888,-888,democracy,,,32,9,0,0,9,0,0,0,0,0,7,,1
+343,Macedonia,MAC,Gruevski,2015,0,-888,-888,democracy,,,33,10,0,0,10,0,0,0,0,0,7,,1
+820,Malaysia,MAL,Mahatir Bin Mohammad,1995,0,1,0,dictatorship,,,0,0,27,27,15,0,0,1,2,0,7,,
+820,Malaysia,MAL,Mahatir Bin Mohammad,1996,0,1,0,dictatorship,,,0,0,28,28,16,0,0,1,2,0,7,,
+820,Malaysia,MAL,Mahatir Bin Mohammad,1997,0,1,0,dictatorship,,,0,0,29,29,17,0,0,1,2,0,7,,
+820,Malaysia,MAL,Mahatir Bin Mohammad,1998,0,1,0,dictatorship,,,0,0,30,30,18,0,0,1,2,0,7,,
+820,Malaysia,MAL,Mahatir Bin Mohammad,1999,0,1,0,dictatorship,,,0,0,31,31,19,0,0,1,2,0,7,,
+820,Malaysia,MAL,Mahatir Bin Mohammad,2000,0,1,0,dictatorship,,,0,0,32,32,20,0,0,1,2,0,7,,
+820,Malaysia,MAL,Mahatir Bin Mohammad,2001,0,1,0,dictatorship,,,0,0,33,33,21,0,0,1,1,0,7,,
+820,Malaysia,MAL,Mahatir Bin Mohammad,2002,0,1,0,dictatorship,,,0,0,34,34,22,0,0,1,1,0,7,,
+820,Malaysia,MAL,Mahatir Bin Mohammad,2003,0,1,0,dictatorship,,,0,0,35,35,23,0,0,1,1,0,7,,
+820,Malaysia,MAL,Ahmad Badawi,2003,0,1,0,dictatorship,,,0,0,36,36,1,0,1,1,0,0,7,,
+820,Malaysia,MAL,Ahmad Badawi,2004,0,1,0,dictatorship,,,0,0,37,37,2,0,0,1,0,0,7,,
+820,Malaysia,MAL,Ahmad Badawi,2005,0,1,0,dictatorship,,,0,0,38,38,3,1,1,1,0,0,7,,
+820,Malaysia,MAL,Ahmad Badawi,2006,0,1,0,dictatorship,,,0,0,39,39,4,0,1,1,0,0,7,,
+820,Malaysia,MAL,Ahmad Badawi,2007,0,1,0,dictatorship,,,0,0,40,40,5,0,0,1,0,0,7,,
+820,Malaysia,MAL,Ahmad Badawi,2008,0,1,0,dictatorship,,,0,0,41,41,6,0,0,1,1,0,7,,
+820,Malaysia,MAL,Ahmad Badawi,2009,0,1,0,dictatorship,,,0,0,42,42,7,1,0,1,1,0,7,,
+820,Malaysia,MAL,Najib Tun Razak,2009,0,-888,-888,dictatorship,,,0,0,43,43,1,0,0,1,1,0,7,,
+820,Malaysia,MAL,Najib Tun Razak,2010,0,-888,-888,dictatorship,,,0,0,44,44,2,0,0,1,1,0,7,,
+820,Malaysia,MAL,Najib Tun Razak,2011,0,-888,-888,dictatorship,,,0,0,45,45,3,0,1,1,1,0,7,,
+820,Malaysia,MAL,Najib Tun Razak,2012,0,-888,-888,dictatorship,,,0,0,46,46,4,0,0,1,1,0,7,,
+820,Malaysia,MAL,Najib Tun Razak,2013,0,-888,-888,dictatorship,,,0,0,47,47,5,1,0,1,1,0,7,,
+820,Malaysia,MAL,Najib Tun Razak,2014,0,-888,-888,dictatorship,,,0,0,48,48,6,0,0,1,1,0,7,,
+820,Malaysia,MAL,Najib Tun Razak,2015,0,-888,-888,dictatorship,,,0,0,49,49,7,0,0,1,1,0,7,,
+70,Mexico,MEX,Zedillo,1995,0,1,0,dictatorship,,,0,0,29,29,2,0,1,1,1,0,7,,
+70,Mexico,MEX,Zedillo,1996,0,1,0,dictatorship,,,0,0,30,30,3,0,0,1,1,0,7,,
+70,Mexico,MEX,Zedillo,1997,0,1,0,dictatorship,,,0,0,31,31,4,0,0,1,1,0,7,,
+70,Mexico,MEX,Zedillo,1998,0,1,0,dictatorship,,,0,0,32,32,5,0,1,1,1,0,7,,
+70,Mexico,MEX,Zedillo,1999,0,1,0,dictatorship,,,0,0,33,33,6,0,0,1,1,0,7,,
+70,Mexico,MEX,Zedillo,2000,0,1,0,dictatorship,,,0,0,34,34,7,0,0,1,1,0,7,,
+70,Mexico,MEX,Vicente Fox Quesada,2000,0,1,0,democracy,,,1,1,0,0,1,1,1,0,1,0,7,,0
+70,Mexico,MEX,Vicente Fox Quesada,2001,0,1,0,democracy,,,2,2,0,0,2,0,0,0,1,0,7,,0
+70,Mexico,MEX,Vicente Fox Quesada,2002,0,1,0,democracy,,,3,3,0,0,3,0,1,0,1,0,7,,0
+70,Mexico,MEX,Vicente Fox Quesada,2003,0,1,0,democracy,,,4,4,0,0,4,0,0,0,1,0,7,,0
+70,Mexico,MEX,Vicente Fox Quesada,2004,0,1,0,democracy,,,5,5,0,0,5,1,0,0,1,0,7,,0
+70,Mexico,MEX,Vicente Fox Quesada,2005,0,1,0,democracy,,,6,6,0,0,6,0,0,0,1,0,7,,0
+70,Mexico,MEX,Vicente Fox Quesada,2006,0,1,0,democracy,,,7,7,0,0,7,0,0,0,1,0,7,,0
+70,Mexico,MEX,Calderon,2006,0,1,0,democracy,,,8,1,0,0,1,0,0,0,0,0,7,,0
+70,Mexico,MEX,Calderon,2007,0,1,0,democracy,,,9,2,0,0,2,0,0,0,0,0,7,,0
+70,Mexico,MEX,Calderon,2008,0,1,0,democracy,,,10,3,0,0,3,0,0,0,0,0,7,,0
+70,Mexico,MEX,Calderon,2009,0,1,0,democracy,,,11,4,0,0,4,0,0,0,0,0,7,,0
+70,Mexico,MEX,Calderon,2010,0,1,0,democracy,,,12,5,0,0,5,0,0,0,0,0,7,,0
+70,Mexico,MEX,Calderon,2011,0,1,0,democracy,,,13,6,0,0,6,0,0,0,0,0,7,,0
+70,Mexico,MEX,Calderon,2012,0,1,0,democracy,,,14,7,0,0,7,0,0,0,0,0,7,,0
+70,Mexico,MEX,Enrique Pena Nieto,2012,0,-888,-888,democracy,,,15,1,0,0,1,0,0,0,0,0,7,,1
+70,Mexico,MEX,Enrique Pena Nieto,2013,0,-888,-888,democracy,,,16,2,0,0,2,0,0,0,0,0,7,,1
+70,Mexico,MEX,Enrique Pena Nieto,2014,0,-888,-888,democracy,,,17,3,0,0,3,0,0,0,0,0,7,,1
+70,Mexico,MEX,Enrique Pena Nieto,2015,0,-888,-888,democracy,,,18,4,0,0,4,0,0,0,0,0,7,,1
+359,Moldova,MLD,Snegur,1995,0,1,0,democracy,,,6,6,0,0,6,0,0,0,1,0,6,,1
+359,Moldova,MLD,Snegur,1996,0,1,0,democracy,,,7,7,0,0,7,0,0,0,1,0,6,,1
+359,Moldova,MLD,Snegur,1997,0,1,0,democracy,,,8,8,0,0,8,0,0,0,1,0,7,,0
+359,Moldova,MLD,Lucinschi,1997,0,1,0,democracy,,,9,1,0,0,1,0,0,0,1,0,6,,0
+359,Moldova,MLD,Lucinschi,1998,0,1,0,democracy,,,10,2,0,0,2,0,0,0,1,0,7,,0
+359,Moldova,MLD,Lucinschi,1999,0,1,0,democracy,,,11,3,0,0,3,0,0,0,1,0,7,,0
+359,Moldova,MLD,Lucinschi,2000,0,1,0,democracy,,,12,4,0,0,4,0,0,0,1,0,7,,0
+359,Moldova,MLD,Lucinschi,2001,0,1,0,democracy,,,13,5,0,0,5,0,0,0,0,0,7,,0
+359,Moldova,MLD,Tarlev,2001,0,1,0,democracy,,,14,1,0,0,1,0,0,0,0,0,7,,0
+359,Moldova,MLD,Tarlev,2002,0,1,0,democracy,,,15,2,0,0,2,0,0,0,0,0,7,,1
+359,Moldova,MLD,Tarlev,2003,0,1,0,democracy,,,16,3,0,0,3,0,0,0,0,0,7,,1
+359,Moldova,MLD,Tarlev,2004,0,1,0,democracy,,,17,4,0,0,4,0,0,0,0,0,7,,1
+359,Moldova,MLD,Tarlev,2005,0,1,0,democracy,,,18,5,0,0,5,0,0,0,0,0,7,1,1
+359,Moldova,MLD,Tarlev,2006,0,1,0,democracy,,,19,6,0,0,6,0,0,0,0,0,7,,1
+359,Moldova,MLD,Tarlev,2007,0,1,0,democracy,,,20,7,0,0,7,0,0,0,1,0,7,,1
+359,Moldova,MLD,Tarlev,2008,0,1,0,democracy,,,21,8,0,0,8,0,0,0,1,0,7,,1
+359,Moldova,MLD,Greceanii,2008,0,1,0,democracy,,,22,1,0,0,1,0,0,0,1,0,7,,1
+359,Moldova,MLD,Greceanii,2009,0,1,0,democracy,,,23,2,0,0,2,0,0,0,1,0,7,,1
+359,Moldova,MLD,Pirlog,2009,0,1,0,democracy,,,24,1,0,0,1,0,0,0,1,0,7,,1
+359,Moldova,MLD,Vlad Filat,2009,0,1,0,democracy,,,25,1,0,0,1,0,0,0,1,0,7,,0
+359,Moldova,MLD,Vlad Filat,2010,0,1,0,democracy,,,26,2,0,0,2,0,0,0,1,0,7,,0
+359,Moldova,MLD,Vlad Filat,2011,0,1,0,democracy,,,27,3,0,0,3,0,0,0,1,0,7,,0
+359,Moldova,MLD,Vlad Filat,2012,0,1,0,democracy,,,28,4,0,0,4,0,0,0,1,0,7,,0
+359,Moldova,MLD,Vlad Filat,2013,0,1,0,democracy,,,29,5,0,0,5,0,0,0,1,0,7,,0
+359,Moldova,MLD,Iurie Leanca,2013,0,1,0,democracy,,,30,1,0,0,1,0,0,0,1,0,7,,0
+359,Moldova,MLD,Iurie Leanca,2014,0,1,0,democracy,,,31,2,0,0,2,1,1,0,1,0,7,,0
+359,Moldova,MLD,Iurie Leanca,2015,0,1,0,democracy,,,32,3,0,0,3,0,0,0,1,0,7,,0
+359,Moldova,MLD,Chiril Gaburici,2015,0,1,0,democracy,,,33,1,0,0,1,0,0,0,1,0,7,,0
+359,Moldova,MLD,Natalia Gherman,2015,0,1,0,democracy,,,34,1,0,0,1,0,0,0,1,0,7,,0
+359,Moldova,MLD,Valeriu Strelet,2015,0,-888,-888,democracy,,,35,1,0,0,1,0,0,0,1,0,7,,0
+712,Mongolia,MON,Ochirbat,1995,0,1,0,democracy,,,6,6,0,0,6,0,0,0,1,0,6,,1
+712,Mongolia,MON,Ochirbat,1996,0,1,0,democracy,,,7,7,0,0,7,0,0,0,1,0,6,,1
+712,Mongolia,MON,Ochirbat,1997,0,1,0,democracy,,,8,8,0,0,8,0,0,0,1,0,6,,0
+712,Mongolia,MON,Bagabandi,1997,0,1,0,democracy,,,9,1,0,0,1,0,0,0,1,0,6,,0
+712,Mongolia,MON,Bagabandi,1998,0,1,0,democracy,,,10,2,0,0,2,0,0,0,1,0,6,,0
+712,Mongolia,MON,Bagabandi,1999,0,1,0,democracy,,,11,3,0,0,3,0,0,0,1,0,6,,0
+712,Mongolia,MON,Bagabandi,2000,0,1,0,democracy,,,12,4,0,0,4,0,0,0,1,0,6,,0
+712,Mongolia,MON,Bagabandi,2001,0,1,0,democracy,,,13,5,0,0,5,0,0,0,1,0,6,1,1
+712,Mongolia,MON,Bagabandi,2002,0,1,0,democracy,,,14,6,0,0,6,0,0,0,0,0,7,,1
+712,Mongolia,MON,Bagabandi,2003,0,1,0,democracy,,,15,7,0,0,7,0,0,0,0,0,7,,1
+712,Mongolia,MON,Bagabandi,2004,0,1,0,democracy,,,16,8,0,0,8,0,0,0,0,0,7,,1
+712,Mongolia,MON,Bagabandi,2005,0,1,0,democracy,,,17,9,0,0,9,0,0,0,0,0,7,,0
+712,Mongolia,MON,Enkhbayar,2005,0,1,0,democracy,,,18,1,0,0,1,0,0,0,0,0,7,,0
+712,Mongolia,MON,Enkhbayar,2006,0,1,0,democracy,,,19,2,0,0,2,0,0,0,0,0,7,,0
+712,Mongolia,MON,Enkhbayar,2007,0,1,0,democracy,,,20,3,0,0,3,0,0,0,0,0,7,,0
+712,Mongolia,MON,Enkhbayar,2008,0,1,0,democracy,,,21,4,0,0,4,0,0,0,0,0,7,,0
+712,Mongolia,MON,Enkhbayar,2009,0,1,0,democracy,,,22,5,0,0,5,0,0,0,0,0,7,,0
+712,Mongolia,MON,Elbegdorj,2009,0,-888,-888,democracy,,,23,1,0,0,1,0,0,0,0,0,7,,0
+712,Mongolia,MON,Elbegdorj,2010,0,-888,-888,democracy,,,24,2,0,0,2,0,0,0,0,0,7,,0
+712,Mongolia,MON,Elbegdorj,2011,0,-888,-888,democracy,,,25,3,0,0,3,0,0,0,0,0,7,,0
+712,Mongolia,MON,Elbegdorj,2012,0,-888,-888,democracy,,,26,4,0,0,4,0,0,0,0,0,7,,0
+712,Mongolia,MON,Elbegdorj,2013,0,-888,-888,democracy,,,27,5,0,0,5,0,0,0,0,0,7,1,0
+712,Mongolia,MON,Elbegdorj,2014,0,-888,-888,democracy,,,28,6,0,0,6,0,0,0,0,0,7,,0
+712,Mongolia,MON,Elbegdorj,2015,0,-888,-888,democracy,,,29,7,0,0,7,1,1,0,0,0,7,,0
+600,Morocco,MOR,Hassan II,1995,0,2,0,dictatorship,,,0,0,25,25,25,0,0,1,1,0,2,,
+600,Morocco,MOR,Hassan II,1996,0,2,0,dictatorship,,,0,0,26,26,26,0,0,1,1,0,2,,
+600,Morocco,MOR,Hassan II,1997,0,2,0,dictatorship,,,0,0,27,27,27,1,1,1,1,0,2,,
+600,Morocco,MOR,Hassan II,1998,0,2,0,dictatorship,,,0,0,28,28,28,0,0,1,0,0,2,,
+600,Morocco,MOR,Hassan II,1999,0,2,0,dictatorship,,,0,0,29,29,29,0,0,1,0,0,2,,
+600,Morocco,MOR,Muhammad VI,1999,0,-888,0,dictatorship,,,0,0,30,30,1,0,0,1,0,0,2,,
+600,Morocco,MOR,Muhammad VI,2000,0,-888,0,dictatorship,,,0,0,31,31,2,0,0,1,0,0,2,,
+600,Morocco,MOR,Muhammad VI,2001,0,-888,0,dictatorship,,,0,0,32,32,3,0,0,1,0,0,2,,
+600,Morocco,MOR,Muhammad VI,2002,0,-888,0,dictatorship,,,0,0,33,33,4,0,0,1,0,0,2,,
+600,Morocco,MOR,Muhammad VI,2003,0,-888,0,dictatorship,,,0,0,34,34,5,0,1,1,0,0,2,,
+600,Morocco,MOR,Muhammad VI,2004,0,-888,0,dictatorship,,,0,0,35,35,6,1,0,1,0,0,2,,
+600,Morocco,MOR,Muhammad VI,2005,0,-888,0,dictatorship,,,0,0,36,36,7,0,0,1,0,0,2,,
+600,Morocco,MOR,Muhammad VI,2006,0,-888,0,dictatorship,,,0,0,37,37,8,0,0,1,0,0,2,,
+600,Morocco,MOR,Muhammad VI,2007,0,-888,0,dictatorship,,,0,0,38,38,9,0,0,1,0,0,2,,
+600,Morocco,MOR,Muhammad VI,2008,0,-888,0,dictatorship,,,0,0,39,39,10,0,0,1,0,0,2,,
+600,Morocco,MOR,Muhammad VI,2009,0,-888,0,dictatorship,,,0,0,40,40,11,0,0,1,0,0,2,,
+600,Morocco,MOR,Muhammad VI,2010,0,-888,0,dictatorship,,,0,0,41,41,12,0,0,1,0,0,2,,
+600,Morocco,MOR,Muhammad VI,2011,0,-888,0,dictatorship,,,0,0,42,42,13,0,0,1,0,0,2,,
+600,Morocco,MOR,Muhammad VI,2012,0,-888,0,dictatorship,,,0,0,43,43,14,0,0,1,1,0,2,,
+600,Morocco,MOR,Muhammad VI,2013,0,-888,0,dictatorship,,,0,0,44,44,15,0,0,1,1,0,2,,
+600,Morocco,MOR,Muhammad VI,2014,0,-888,0,dictatorship,,,0,0,45,45,16,0,0,1,1,0,2,,
+600,Morocco,MOR,Muhammad VI,2015,0,-888,0,dictatorship,,,0,0,46,46,17,0,0,1,1,0,2,,
+565,Namibia,NAM,Nujoma,1995,0,1,0,dictatorship,,,0,0,6,6,6,0,0,1,1,0,6,,
+565,Namibia,NAM,Nujoma,1996,0,1,0,dictatorship,,,0,0,7,7,7,0,0,1,1,0,6,,
+565,Namibia,NAM,Nujoma,1997,0,1,0,dictatorship,,,0,0,8,8,8,0,0,1,1,0,6,,
+565,Namibia,NAM,Nujoma,1998,0,1,0,dictatorship,,,0,0,9,9,9,0,0,1,1,0,6,,
+565,Namibia,NAM,Nujoma,1999,0,1,0,dictatorship,,,0,0,10,10,10,0,0,1,1,0,6,,
+565,Namibia,NAM,Nujoma,2000,0,1,0,dictatorship,,,0,0,11,11,11,0,0,1,0,0,6,,
+565,Namibia,NAM,Nujoma,2001,0,1,0,dictatorship,,,0,0,12,12,12,0,0,1,0,0,6,,
+565,Namibia,NAM,Nujoma,2002,0,1,0,dictatorship,,,0,0,13,13,13,0,0,1,0,0,6,,
+565,Namibia,NAM,Nujoma,2003,0,1,0,dictatorship,,,0,0,14,14,14,0,0,1,1,0,6,,
+565,Namibia,NAM,Nujoma,2004,0,1,0,dictatorship,,,0,0,15,15,15,0,0,1,1,0,6,,
+565,Namibia,NAM,Nujoma,2005,0,1,0,dictatorship,,,0,0,16,16,16,0,1,1,0,0,6,,
+565,Namibia,NAM,Pohamba,2005,0,1,0,dictatorship,,,0,0,16,16,1,0,0,1,0,0,6,,
+565,Namibia,NAM,Pohamba,2006,0,1,0,dictatorship,,,0,0,17,17,2,1,0,1,0,0,6,,
+565,Namibia,NAM,Pohamba,2007,0,1,0,dictatorship,,,0,0,18,18,3,0,0,1,0,0,6,,
+565,Namibia,NAM,Pohamba,2008,0,1,0,dictatorship,,,0,0,19,19,4,0,0,1,0,0,6,,
+565,Namibia,NAM,Pohamba,2009,0,1,0,dictatorship,,,0,0,20,20,5,0,0,1,0,0,6,,
+565,Namibia,NAM,Pohamba,2010,0,1,0,dictatorship,,,0,0,21,21,6,0,0,1,0,0,6,,
+565,Namibia,NAM,Pohamba,2011,0,1,0,dictatorship,,,0,0,22,22,7,0,0,1,0,0,6,,
+565,Namibia,NAM,Pohamba,2012,0,1,0,dictatorship,,,0,0,23,23,8,0,0,1,0,0,6,,
+565,Namibia,NAM,Pohamba,2013,0,1,0,dictatorship,,,0,0,24,24,9,0,0,1,0,0,6,,
+565,Namibia,NAM,Pohamba,2014,0,1,0,dictatorship,,,0,0,25,25,10,0,0,1,0,0,6,,
+565,Namibia,NAM,Pohamba,2015,0,1,0,dictatorship,,,0,0,26,26,11,0,0,1,0,0,6,,
+565,Namibia,NAM,Hage Geingob,2015,0,-888,-888,dictatorship,,,0,0,27,27,1,0,0,1,0,0,6,,
+790,Nepal,NEP,Man Mohan Adhilari,1995,0,1,0,democracy,,,6,2,0,0,2,0,0,0,1,0,7,,1
+790,Nepal,NEP,Sher Bahadur Deuba,1995,0,1,0,democracy,,,7,1,0,0,1,0,0,0,1,0,7,,0
+790,Nepal,NEP,Sher Bahadur Deuba,1996,0,1,0,democracy,,,8,2,0,0,2,0,0,0,1,0,7,,0
+790,Nepal,NEP,Sher Bahadur Deuba,1997,0,1,0,democracy,,,9,3,0,0,3,0,0,0,1,0,7,,0
+790,Nepal,NEP,Lokendra Bahadur Chand,1997,0,1,0,democracy,,,10,1,0,0,1,0,0,0,1,0,7,,0
+790,Nepal,NEP,Surya  Bahadur Thapa,1997,0,1,0,democracy,,,11,1,0,0,1,0,0,0,1,0,7,,0
+790,Nepal,NEP,Surya  Bahadur Thapa,1998,0,1,0,democracy,,,12,2,0,0,2,0,0,0,1,0,7,,0
+790,Nepal,NEP,Girija Prasad Koirala,1998,0,1,0,democracy,,,13,1,0,0,1,0,0,0,1,0,7,,0
+790,Nepal,NEP,Girija Prasad Koirala,1999,0,1,0,democracy,,,14,2,0,0,2,0,0,0,1,0,7,,0
+790,Nepal,NEP,Krishna Prasad Bhatterai,1999,0,1,0,democracy,,,15,1,0,0,1,0,0,0,1,0,7,,0
+790,Nepal,NEP,Krishna Prasad Bhatterai,2000,0,1,0,democracy,,,16,2,0,0,2,0,0,0,1,0,7,,1
+790,Nepal,NEP,Girija Prasad Koirala,2000,0,1,0,democracy,,,17,1,0,0,1,0,0,0,1,0,7,,1
+790,Nepal,NEP,Girija Prasad Koirala,2001,0,1,0,democracy,,,18,2,0,0,2,0,0,0,0,0,7,,1
+790,Nepal,NEP,Sher Bahdur Deuba,2001,0,1,0,democracy,,,19,1,0,0,1,0,0,0,0,0,7,,1
+790,Nepal,NEP,Sher Bahdur Deuba,2002,0,1,0,no authority,,,0,0,0,0,2,0,0,2,2,0,7,,1
+790,Nepal,NEP,Lokendra Bahadur Chand,2002,0,1,0,no authority,,,0,0,0,0,1,0,0,2,2,0,7,,
+790,Nepal,NEP,Lokendra Bahadur Chand,2003,0,1,0,no authority,,,0,0,0,0,2,0,0,2,2,0,7,,
+790,Nepal,NEP,Surya Bahadur Thapa,2003,0,1,0,no authority,,,0,0,0,0,1,0,0,2,2,0,7,,
+790,Nepal,NEP,Surya Bahadur Thapa,2004,0,1,0,no authority,,,0,0,0,0,2,0,0,2,2,0,7,,
+790,Nepal,NEP,Sher Bahdur Deuba,2004,0,1,0,no authority,,,0,0,0,0,1,0,0,2,2,0,7,,
+790,Nepal,NEP,Sher Bahdur Deuba,2005,0,1,0,no authority,,,0,0,0,0,2,0,0,2,2,0,7,,
+790,Nepal,NEP,Gyanendra,2005,0,3,2,no authority,,,0,0,0,0,1,0,0,2,2,0,7,,
+790,Nepal,NEP,Gyanendra,2006,0,3,2,no authority,,,0,0,0,0,2,0,0,2,2,0,7,,
+790,Nepal,NEP,Girija Prasad Koirala,2006,0,1,0,democracy,,,1,1,0,0,1,0,1,0,2,0,7,,0
+790,Nepal,NEP,Girija Prasad Koirala,2007,0,1,0,democracy,,,2,2,0,0,2,0,0,0,2,0,7,,0
+790,Nepal,NEP,Girija Prasad Koirala,2008,0,1,0,democracy,,,3,3,0,0,3,0,0,0,2,0,7,,0
+790,Nepal,NEP,Prachanda,2008,0,1,0,democracy,,,4,1,0,0,1,0,0,0,2,0,7,,0
+790,Nepal,NEP,Prachanda,2009,0,1,0,democracy,,,5,2,0,0,2,0,0,0,2,0,7,,0
+790,Nepal,NEP,Madhav Kumar Nepal,2009,0,1,0,democracy,,,6,1,0,0,1,1,0,0,2,0,7,,0
+790,Nepal,NEP,Madhav Kumar Nepal,2010,0,1,0,democracy,,,7,2,0,0,2,0,0,0,2,0,7,,0
+790,Nepal,NEP,Madhav Kumar Nepal,2011,0,1,0,democracy,,,8,3,0,0,3,0,0,0,2,0,7,,0
+790,Nepal,NEP,Nath Khanal,2011,0,1,0,democracy,,,9,1,0,0,1,0,0,0,2,0,7,,0
+790,Nepal,NEP,Bhattarai,2011,0,1,0,democracy,,,10,1,0,0,1,0,0,0,2,0,7,,0
+790,Nepal,NEP,Bhattarai,2012,0,1,0,democracy,,,11,2,0,0,2,0,0,0,2,0,7,,0
+790,Nepal,NEP,Bhattarai,2013,0,1,0,democracy,,,12,3,0,0,3,0,0,0,2,0,7,,0
+790,Nepal,NEP,Khil Raj Regmi,2013,0,1,0,democracy,,,13,1,0,0,1,0,0,0,2,0,7,,0
+790,Nepal,NEP,Khil Raj Regmi,2014,0,1,0,democracy,,,14,2,0,0,2,0,0,0,2,0,7,,NA
+790,Nepal,NEP,Sushil Koirala,2014,0,1,0,democracy,,,15,1,0,0,1,0,0,0,2,0,7,,NA
+790,Nepal,NEP,Sushil Koirala,2015,0,1,0,democracy,,,16,2,0,0,2,0,0,0,2,0,7,,0
+790,Nepal,NEP,Khadga Prasad Sharma Oli,2015,0,-888,-888,democracy,,,17,1,0,0,1,0,0,0,2,0,7,,0
+93,Nicaragua,NIC,Violeta Chamorro,1995,0,1,0,democracy,,,5,5,0,0,6,0,0,0,1,0,7,,0
+93,Nicaragua,NIC,Violeta Chamorro,1996,0,1,0,democracy,,,6,6,0,0,7,0,0,0,1,0,7,,0
+93,Nicaragua,NIC,Violeta Chamorro,1997,0,1,0,democracy,,,7,7,0,0,8,0,0,0,1,0,7,,0
+93,Nicaragua,NIC,Aleman,1997,0,1,0,democracy,,,8,1,0,0,1,0,0,0,1,0,7,,0
+93,Nicaragua,NIC,Aleman,1998,0,1,0,democracy,,,9,2,0,0,2,0,0,0,1,0,7,,0
+93,Nicaragua,NIC,Aleman,1999,0,1,0,democracy,,,10,3,0,0,3,0,0,0,1,0,7,,0
+93,Nicaragua,NIC,Aleman,2000,0,1,0,democracy,,,11,4,0,0,4,0,0,0,0,0,7,,0
+93,Nicaragua,NIC,Aleman,2001,0,1,0,democracy,,,12,5,0,0,5,0,0,0,0,0,7,,0
+93,Nicaragua,NIC,Aleman,2002,0,1,0,democracy,,,13,6,0,0,6,0,0,0,0,0,7,,0
+93,Nicaragua,NIC,Enrique Bolanos,2002,0,1,0,democracy,,,14,1,0,0,1,0,0,0,0,0,7,,1
+93,Nicaragua,NIC,Enrique Bolanos,2003,0,1,0,democracy,,,15,2,0,0,2,0,0,0,0,0,7,,1
+93,Nicaragua,NIC,Enrique Bolanos,2004,0,1,0,democracy,,,16,3,0,0,3,0,1,0,0,0,7,,1
+93,Nicaragua,NIC,Enrique Bolanos,2005,0,1,0,democracy,,,17,4,0,0,4,0,0,0,0,0,7,,1
+93,Nicaragua,NIC,Enrique Bolanos,2006,0,1,0,democracy,,,18,5,0,0,5,1,1,0,0,0,7,,1
+93,Nicaragua,NIC,Enrique Bolanos,2007,0,1,0,democracy,,,19,6,0,0,6,0,0,0,0,0,7,,0
+93,Nicaragua,NIC,Daniel Ortega,2007,0,-888,0,democracy,,,20,1,0,0,1,0,0,0,0,0,7,,0
+93,Nicaragua,NIC,Daniel Ortega,2008,0,-888,0,democracy,,,21,2,0,0,2,0,0,0,0,0,7,,0
+93,Nicaragua,NIC,Daniel Ortega,2009,0,-888,0,democracy,,,22,3,0,0,3,0,0,0,0,0,7,,0
+93,Nicaragua,NIC,Daniel Ortega,2010,0,-888,0,democracy,,,23,4,0,0,4,0,0,0,0,0,7,,0
+93,Nicaragua,NIC,Daniel Ortega,2011,0,-888,0,democracy,,,24,5,0,0,5,0,0,0,0,0,7,1,0
+93,Nicaragua,NIC,Daniel Ortega,2012,0,-888,0,democracy,,,25,6,0,0,6,1,1,0,0,0,7,,0
+93,Nicaragua,NIC,Daniel Ortega,2013,0,-888,0,democracy,,,26,7,0,0,7,0,0,0,0,0,7,,0
+93,Nicaragua,NIC,Daniel Ortega,2014,0,-888,0,democracy,,,27,8,0,0,8,0,0,0,0,0,7,,0
+93,Nicaragua,NIC,Daniel Ortega,2015,0,-888,-888,democracy,,,28,9,0,0,9,1,1,0,1,0,7,,0
+698,Oman,OMA,Qabus Bin Said,1995,1,-888,0,dictatorship,,,0,0,25,25,25,0,0,1,1,0,2,,
+698,Oman,OMA,Qabus Bin Said,1996,1,-888,0,dictatorship,,,0,0,26,26,26,0,0,1,1,0,2,,
+698,Oman,OMA,Qabus Bin Said,1997,1,-888,0,dictatorship,,,0,0,27,27,27,0,0,1,1,0,2,,
+698,Oman,OMA,Qabus Bin Said,1998,1,-888,0,dictatorship,,,0,0,28,28,28,0,0,1,1,0,2,,
+698,Oman,OMA,Qabus Bin Said,1999,1,-888,0,dictatorship,,,0,0,29,29,29,0,0,1,1,0,2,,
+698,Oman,OMA,Qabus Bin Said,2000,1,-888,0,dictatorship,,,0,0,30,30,30,0,0,1,1,0,2,,
+698,Oman,OMA,Qabus Bin Said,2001,1,-888,0,dictatorship,,,0,0,31,31,31,0,0,1,1,0,2,,
+698,Oman,OMA,Qabus Bin Said,2002,1,-888,0,dictatorship,,,0,0,32,32,32,0,1,1,1,0,2,,
+698,Oman,OMA,Qabus Bin Said,2003,1,-888,0,dictatorship,,,0,0,33,33,33,0,0,1,1,0,2,,
+698,Oman,OMA,Qabus Bin Said,2004,1,-888,0,dictatorship,,,0,0,34,34,34,0,0,1,1,0,2,,
+698,Oman,OMA,Qabus Bin Said,2005,1,-888,0,dictatorship,,,0,0,35,35,35,0,1,1,2,0,2,,
+698,Oman,OMA,Qabus Bin Said,2006,1,-888,0,dictatorship,,,0,0,36,36,36,1,1,1,2,0,2,,
+698,Oman,OMA,Qabus Bin Said,2007,1,-888,0,dictatorship,,,0,0,37,37,37,0,1,1,2,0,2,,
+698,Oman,OMA,Qabus Bin Said,2008,1,-888,0,dictatorship,,,0,0,38,38,38,0,0,1,2,0,2,,
+698,Oman,OMA,Qabus Bin Said,2009,1,-888,0,dictatorship,,,0,0,39,39,39,1,0,1,2,0,2,,
+698,Oman,OMA,Qabus Bin Said,2010,1,-888,0,dictatorship,,,0,0,40,40,40,0,0,1,2,0,2,,
+698,Oman,OMA,Qabus Bin Said,2011,1,-888,0,dictatorship,,,0,0,41,41,41,0,0,1,2,0,2,,
+698,Oman,OMA,Qabus Bin Said,2012,1,-888,0,dictatorship,,,0,0,42,42,42,0,0,1,2,0,2,,
+698,Oman,OMA,Qabus Bin Said,2013,1,-888,0,dictatorship,,,0,0,43,43,43,0,0,1,2,0,2,,
+698,Oman,OMA,Qabus Bin Said,2014,1,-888,0,dictatorship,,,0,0,44,44,44,0,0,1,2,0,2,,
+698,Oman,OMA,Qabus Bin Said,2015,1,-888,0,dictatorship,,,0,0,45,45,45,0,0,1,2,0,2,,
+95,Panama,PAN,Balladares,1995,0,1,0,democracy,,,7,2,0,0,2,0,0,0,3,0,7,,0
+95,Panama,PAN,Balladares,1996,0,1,0,democracy,,,8,3,0,0,3,0,0,0,3,0,7,,0
+95,Panama,PAN,Balladares,1997,0,1,0,democracy,,,9,4,0,0,4,0,0,0,3,0,7,,0
+95,Panama,PAN,Balladares,1998,0,1,0,democracy,,,10,5,0,0,5,0,0,0,3,0,7,,0
+95,Panama,PAN,Balladares,1999,0,1,0,democracy,,,11,6,0,0,6,0,0,0,2,0,7,,0
+95,Panama,PAN,Mireya Moscoso,1999,0,1,0,democracy,,,12,1,0,0,1,0,0,0,2,0,7,,0
+95,Panama,PAN,Mireya Moscoso,2000,0,1,0,democracy,,,13,2,0,0,2,0,1,0,2,1,7,,0
+95,Panama,PAN,Mireya Moscoso,2001,0,1,0,democracy,,,14,3,0,0,3,0,0,0,2,1,7,,0
+95,Panama,PAN,Mireya Moscoso,2002,0,1,0,democracy,,,15,4,0,0,4,1,1,0,2,1,7,,0
+95,Panama,PAN,Mireya Moscoso,2003,0,1,0,democracy,,,16,5,0,0,5,1,0,0,2,1,7,,0
+95,Panama,PAN,Mireya Moscoso,2004,0,1,0,democracy,,,17,6,0,0,6,0,1,0,2,1,7,,0
+95,Panama,PAN,Martin Torrijos,2004,0,1,0,democracy,,,18,1,0,0,1,0,0,0,2,1,7,,0
+95,Panama,PAN,Martinelli,2005,0,1,0,democracy,,,19,1,0,0,1,0,0,0,1,0,7,,0
+95,Panama,PAN,Martinelli,2006,0,1,0,democracy,,,20,2,0,0,2,1,1,0,1,0,7,,0
+95,Panama,PAN,Martinelli,2007,0,1,0,democracy,,,21,3,0,0,3,1,0,0,1,0,7,,0
+95,Panama,PAN,Martinelli,2008,0,1,0,democracy,,,22,4,0,0,4,0,0,0,1,0,7,,0
+95,Panama,PAN,Martinelli,2009,0,1,0,democracy,,,23,5,0,0,5,0,0,0,1,0,7,1,0
+95,Panama,PAN,Martinelli,2010,0,1,0,democracy,,,24,6,0,0,6,0,0,0,0,0,7,,0
+95,Panama,PAN,Martinelli,2011,0,1,0,democracy,,,25,7,0,0,7,0,0,0,0,0,7,,0
+95,Panama,PAN,Martinelli,2012,0,1,0,democracy,,,26,8,0,0,8,0,1,0,0,0,7,,0
+95,Panama,PAN,Martinelli,2013,0,1,0,democracy,,,27,9,0,0,9,0,0,0,0,0,7,,0
+95,Panama,PAN,Martinelli,2014,0,1,0,democracy,,,28,10,0,0,10,0,0,0,0,0,7,,0
+95,Panama,PAN,Varela Rodriguez,2014,0,1,0,democracy,,,29,1,0,0,1,0,1,0,0,0,7,,0
+95,Panama,PAN,Varela Rodriguez,2015,0,1,0,democracy,,,30,2,0,0,2,0,0,0,0,0,7,,0
+150,Paraguay,PAR,Wasmosy Monti,1995,0,1,0,dictatorship,,,0,0,3,3,3,0,0,0,2,0,7,,
+150,Paraguay,PAR,Wasmosy Monti,1996,0,1,0,dictatorship,,,0,0,4,4,4,0,0,0,2,0,7,,
+150,Paraguay,PAR,Wasmosy Monti,1997,0,1,0,dictatorship,,,0,0,5,5,5,0,0,0,2,0,7,,
+150,Paraguay,PAR,Wasmosy Monti,1998,0,1,0,dictatorship,,,0,0,6,6,6,0,0,0,2,0,7,,
+150,Paraguay,PAR,Cubas Grau,1998,0,1,0,dictatorship,,,0,0,7,1,1,0,0,0,2,0,7,,1
+150,Paraguay,PAR,Cubas Grau,1999,0,1,0,dictatorship,,,0,0,8,2,2,0,0,0,2,0,7,,1
+150,Paraguay,PAR,Gonzalez Macchi,1999,0,1,0,dictatorship,,,0,0,9,1,1,0,0,0,2,0,7,,1
+150,Paraguay,PAR,Gonzalez Macchi,2000,0,1,0,dictatorship,,,0,0,10,2,2,0,0,0,3,0,7,,1
+150,Paraguay,PAR,Gonzalez Macchi,2001,0,1,0,dictatorship,,,0,0,11,3,3,0,0,0,3,0,7,,1
+150,Paraguay,PAR,Gonzalez Macchi,2002,0,1,0,dictatorship,,,0,0,12,4,4,0,0,0,2,0,7,,1
+150,Paraguay,PAR,Gonzalez Macchi,2003,0,1,0,dictatorship,,,0,0,13,5,5,0,0,0,2,0,7,,1
+150,Paraguay,PAR,Nicanor Duarte Frutos,2003,0,1,0,dictatorship,,,0,0,14,1,1,0,0,0,2,0,7,,1
+150,Paraguay,PAR,Nicanor Duarte Frutos,2004,0,1,0,dictatorship,,,0,0,15,2,2,0,1,0,2,0,7,,0
+150,Paraguay,PAR,Nicanor Duarte Frutos,2005,0,1,0,dictatorship,,,0,0,16,3,3,0,0,0,2,0,7,,0
+150,Paraguay,PAR,Nicanor Duarte Frutos,2006,0,1,0,dictatorship,,,0,0,17,4,4,0,1,0,2,0,7,,0
+150,Paraguay,PAR,Nicanor Duarte Frutos,2007,0,1,0,dictatorship,,,0,0,18,5,5,1,0,0,2,0,7,,0
+150,Paraguay,PAR,Nicanor Duarte Frutos,2008,0,1,0,dictatorship,,,0,0,19,6,6,0,0,0,2,0,7,,0
+150,Paraguay,PAR,Fernando Lugo,2008,0,1,0,dictatorship,,,0,0,20,1,1,0,0,0,2,0,7,,0
+150,Paraguay,PAR,Fernando Lugo,2009,0,1,0,dictatorship,,,0,0,21,2,2,0,0,0,2,0,7,,0
+150,Paraguay,PAR,Fernando Lugo,2010,0,1,0,dictatorship,,,0,0,22,3,3,0,0,0,1,0,7,,0
+150,Paraguay,PAR,Fernando Lugo,2011,0,1,0,dictatorship,,,0,0,23,4,4,0,0,0,1,0,7,,0
+150,Paraguay,PAR,Fernando Lugo,2012,0,1,0,dictatorship,,,0,0,24,5,5,0,0,0,1,0,7,,0
+150,Paraguay,PAR,Federico Franco,2012,0,1,0,dictatorship,,,0,0,25,1,1,0,0,0,1,0,7,,0
+150,Paraguay,PAR,Federico Franco,2013,0,1,0,dictatorship,,,0,0,26,2,2,0,0,0,1,0,7,,0
+150,Paraguay,PAR,Horacio Cartes,2013,0,-888,-888,dictatorship,,,27,1,0,0,1,0,0,0,1,0,7,,1
+150,Paraguay,PAR,Horacio Cartes,2014,0,-888,-888,dictatorship,,,28,2,0,0,2,0,0,0,1,0,7,,1
+150,Paraguay,PAR,Horacio Cartes,2015,0,-888,-888,dictatorship,,,29,3,0,0,3,0,0,0,1,0,7,,1
+135,Peru,PER,Fujimori,1995,0,1,0,dictatorship,,,0,0,3,3,6,0,0,1,2,0,7,,
+135,Peru,PER,Fujimori,1996,0,1,0,dictatorship,,,0,0,4,4,7,0,0,1,2,0,7,,
+135,Peru,PER,Fujimori,1997,0,1,0,dictatorship,,,0,0,5,5,8,0,0,1,2,0,7,,
+135,Peru,PER,Fujimori,1998,0,1,0,dictatorship,,,0,0,6,6,9,0,0,1,2,0,7,,
+135,Peru,PER,Fujimori,1999,0,1,0,dictatorship,,,0,0,7,7,10,0,0,1,2,0,7,,
+135,Peru,PER,Fujimori,2000,0,1,0,dictatorship,,,0,0,8,8,11,0,0,1,2,0,7,,
+135,Peru,PER,Valentin Paniagua,2000,0,1,0,dictatorship,,,0,0,9,9,1,0,0,1,2,0,7,,
+135,Peru,PER,Valentin Paniagua,2001,0,1,0,dictatorship,,,0,0,10,10,2,0,0,1,2,0,7,,
+135,Peru,PER,Alejandro Toledo,2001,0,1,0,dictatorship,,,0,0,11,11,1,0,0,1,2,0,7,,
+135,Peru,PER,Alejandro Toledo,2002,0,1,0,democracy,,,1,1,0,0,2,0,0,0,2,0,7,,0
+135,Peru,PER,Alejandro Toledo,2003,0,1,0,democracy,,,2,2,0,0,3,0,1,0,2,0,7,,0
+135,Peru,PER,Alejandro Toledo,2004,0,1,0,democracy,,,3,3,0,0,4,0,0,0,2,0,7,,0
+135,Peru,PER,Alejandro Toledo,2005,0,1,0,democracy,,,4,4,0,0,5,1,0,0,2,0,7,,0
+135,Peru,PER,Alejandro Toledo,2006,0,1,0,democracy,,,5,5,0,0,6,1,0,0,2,0,7,,0
+135,Peru,PER,Garcia Perez,2006,0,1,0,democracy,,,6,1,0,0,1,0,1,0,1,0,7,,0
+135,Peru,PER,Garcia Perez,2007,0,1,0,democracy,,,7,2,0,0,2,0,1,0,1,0,7,,0
+135,Peru,PER,Garcia Perez,2008,0,1,0,democracy,,,8,3,0,0,3,1,0,0,1,0,7,,0
+135,Peru,PER,Garcia Perez,2009,0,1,0,democracy,,,9,4,0,0,4,0,1,0,1,0,7,,0
+135,Peru,PER,Garcia Perez,2010,0,1,0,democracy,,,10,5,0,0,5,1,0,0,1,0,7,,0
+135,Peru,PER,Garcia Perez,2011,0,1,0,democracy,,,11,6,0,0,6,1,0,0,0,0,7,,0
+135,Peru,PER,Ollanta Humala,2011,0,-888,0,democracy,,,12,1,0,0,1,0,0,0,0,0,7,,0
+135,Peru,PER,Ollanta Humala,2012,0,-888,0,democracy,,,13,2,0,0,2,0,0,0,0,0,7,,0
+135,Peru,PER,Ollanta Humala,2013,0,-888,0,democracy,,,14,3,0,0,3,0,0,0,0,0,7,,0
+135,Peru,PER,Ollanta Humala,2014,0,-888,0,democracy,,,15,4,0,0,4,0,0,0,0,0,7,,0
+135,Peru,PER,Ollanta Humala,2015,0,-888,0,democracy,,,16,5,0,0,5,0,0,0,0,0,7,,0
+840,Philippines,PHI,Ramos,1995,0,1,0,democracy,,,4,4,0,0,4,0,0,0,3,0,7,,1
+840,Philippines,PHI,Ramos,1996,0,1,0,democracy,,,5,5,0,0,5,0,0,0,3,0,7,,1
+840,Philippines,PHI,Ramos,1997,0,1,0,democracy,,,6,6,0,0,6,0,0,0,2,0,7,,1
+840,Philippines,PHI,Ramos,1998,0,1,0,democracy,,,7,7,0,0,7,0,0,0,2,0,7,,1
+840,Philippines,PHI,Estrada,1998,0,1,0,democracy,,,8,1,0,0,1,0,0,0,2,0,7,,1
+840,Philippines,PHI,Estrada,1999,0,1,0,democracy,,,9,2,0,0,2,0,0,0,2,0,7,,0
+840,Philippines,PHI,Estrada,2000,0,1,0,democracy,,,10,3,0,0,3,0,0,0,2,0,7,,0
+840,Philippines,PHI,Estrada,2001,0,1,0,democracy,,,11,4,0,0,4,0,0,0,2,0,7,,0
+840,Philippines,PHI,Gloria Macapagal-Arroyo,2001,0,1,0,democracy,,,12,1,0,0,1,0,0,0,2,0,7,,0
+840,Philippines,PHI,Gloria Macapagal-Arroyo,2002,0,1,0,democracy,,,13,2,0,0,2,0,1,0,2,0,7,,0
+840,Philippines,PHI,Gloria Macapagal-Arroyo,2003,0,1,0,democracy,,,14,3,0,0,3,0,0,0,2,0,7,,0
+840,Philippines,PHI,Gloria Macapagal-Arroyo,2004,0,1,0,democracy,,,15,4,0,0,4,0,0,0,2,0,7,,0
+840,Philippines,PHI,Gloria Macapagal-Arroyo,2005,0,1,0,democracy,,,16,5,0,0,5,0,0,0,2,0,7,,0
+840,Philippines,PHI,Gloria Macapagal-Arroyo,2006,0,1,0,democracy,,,17,6,0,0,6,1,0,0,2,0,7,,0
+840,Philippines,PHI,Gloria Macapagal-Arroyo,2007,0,1,0,democracy,,,18,7,0,0,7,0,0,0,2,0,7,,0
+840,Philippines,PHI,Gloria Macapagal-Arroyo,2008,0,1,0,democracy,,,19,8,0,0,8,0,0,0,2,0,7,,0
+840,Philippines,PHI,Gloria Macapagal-Arroyo,2009,0,1,0,democracy,,,20,9,0,0,9,0,0,0,2,0,7,,0
+840,Philippines,PHI,Gloria Macapagal-Arroyo,2010,0,1,0,democracy,,,21,10,0,0,10,0,0,0,2,0,7,,0
+840,Philippines,PHI,Benigno Aquino III,2010,0,-888,-888,democracy,,,22,1,0,0,1,0,0,0,2,0,7,,0
+840,Philippines,PHI,Benigno Aquino III,2011,0,-888,-888,democracy,,,23,2,0,0,2,0,0,0,2,0,7,,0
+840,Philippines,PHI,Benigno Aquino III,2012,0,-888,-888,democracy,,,24,3,0,0,3,0,0,0,2,0,7,,0
+840,Philippines,PHI,Benigno Aquino III,2013,0,-888,-888,democracy,,,25,4,0,0,4,0,0,0,2,0,7,,0
+840,Philippines,PHI,Benigno Aquino III,2014,0,-888,-888,democracy,,,26,5,0,0,5,0,0,0,2,0,7,,0
+840,Philippines,PHI,Benigno Aquino III,2015,0,-888,-888,democracy,,,27,6,0,0,6,0,1,0,2,0,7,,0
+290,Poland,POL,Walesa,1995,0,1,0,democracy,,,4,4,0,0,6,0,0,0,1,0,7,,0
+290,Poland,POL,Kwasniewski,1995,0,1,0,democracy,,,5,1,0,0,1,0,0,0,1,0,7,,1
+290,Poland,POL,Kwasniewski,1996,0,1,0,democracy,,,6,2,0,0,2,0,0,0,1,0,7,,1
+290,Poland,POL,Kwasniewski,1997,0,1,0,democracy,,,7,3,0,0,3,1,0,0,1,0,7,,1
+290,Poland,POL,Kwasniewski,1998,0,1,0,democracy,,,8,4,0,0,4,0,0,0,1,1,7,,1
+290,Poland,POL,Kwasniewski,1999,0,1,0,democracy,,,9,5,0,0,5,0,0,0,1,1,7,1,1
+290,Poland,POL,Kwasniewski,2000,0,1,0,democracy,,,10,6,0,0,6,0,0,0,1,1,7,,1
+290,Poland,POL,Kwasniewski,2001,0,1,0,democracy,,,11,7,0,0,7,0,0,0,0,1,7,,1
+290,Poland,POL,Kwasniewski,2002,0,1,0,democracy,,,12,8,0,0,8,0,0,0,0,0,7,,0
+290,Poland,POL,Kwasniewski,2003,0,1,0,democracy,,,13,9,0,0,9,0,0,0,0,0,7,,0
+290,Poland,POL,Kwasniewski,2004,0,1,0,democracy,,,14,10,0,0,10,0,0,0,0,0,7,,0
+290,Poland,POL,Kwasniewski,2005,0,1,0,democracy,,,15,11,0,0,11,0,0,0,0,0,7,,0
+290,Poland,POL,Kaczynski,2005,0,1,0,democracy,,,16,1,0,0,1,0,0,0,0,0,7,,0
+290,Poland,POL,Kaczynski,2006,0,1,0,democracy,,,17,2,0,0,2,0,0,0,0,0,7,,0
+290,Poland,POL,Kaczynski,2007,0,1,0,democracy,,,18,3,0,0,3,0,0,0,0,0,7,,0
+290,Poland,POL,Kaczynski,2008,0,1,0,democracy,,,19,4,0,0,4,0,0,0,0,0,7,,0
+290,Poland,POL,Kaczynski,2009,0,1,0,democracy,,,20,5,0,0,5,0,0,0,0,0,7,,0
+290,Poland,POL,Kaczynski,2010,0,1,0,democracy,,,21,6,0,0,6,0,0,0,0,0,7,,0
+290,Poland,POL,Komorowski,2010,0,2,0,democracy,,,22,1,0,0,1,0,0,0,0,0,7,,0
+290,Poland,POL,Borusewicz,2010,0,1,0,democracy,,,23,1,0,0,1,0,0,0,0,0,7,,0
+290,Poland,POL,Schetyna,2010,0,1,0,democracy,,,24,1,0,0,1,0,0,0,0,0,7,,0
+290,Poland,POL,Komorowski,2010,0,-888,-888,democracy,,,25,1,0,0,1,0,0,0,0,0,7,,0
+290,Poland,POL,Komorowski,2011,0,-888,-888,democracy,,,26,1,0,0,2,0,0,0,0,0,7,,0
+290,Poland,POL,Komorowski,2012,0,-888,-888,democracy,,,27,1,0,0,3,0,0,0,0,0,7,,0
+290,Poland,POL,Komorowski,2013,0,-888,-888,democracy,,,28,1,0,0,4,0,0,0,0,0,7,,0
+290,Poland,POL,Komorowski,2014,0,-888,-888,democracy,,,29,1,0,0,5,0,0,0,0,0,7,,0
+290,Poland,POL,Komorowski,2015,0,-888,-888,democracy,,,30,1,0,0,6,0,0,0,0,0,7,,0
+235,Portugal,POR,Soares,1995,0,1,0,democracy,,,20,1,0,0,10,0,0,0,0,0,7,,0
+235,Portugal,POR,Soares,1996,0,1,0,democracy,,,21,1,0,0,11,0,0,0,0,0,7,,0
+235,Portugal,POR,Sampaio,1996,0,1,0,democracy,,,22,1,0,0,1,0,0,0,0,0,7,,0
+235,Portugal,POR,Sampaio,1997,0,1,0,democracy,,,23,1,0,0,2,0,0,0,0,0,7,,0
+235,Portugal,POR,Sampaio,1998,0,1,0,democracy,,,24,1,0,0,3,0,0,0,0,0,7,,0
+235,Portugal,POR,Sampaio,1999,0,1,0,democracy,,,25,1,0,0,4,0,0,0,0,0,7,,0
+235,Portugal,POR,Sampaio,2000,0,1,0,democracy,,,26,1,0,0,5,0,0,0,0,0,7,,0
+235,Portugal,POR,Sampaio,2001,0,1,0,democracy,,,27,1,0,0,6,0,0,0,0,0,7,,0
+235,Portugal,POR,Sampaio,2002,0,1,0,democracy,,,28,1,0,0,7,0,0,0,0,0,7,1,0
+235,Portugal,POR,Sampaio,2003,0,1,0,democracy,,,29,1,0,0,8,0,0,0,0,0,7,,0
+235,Portugal,POR,Sampaio,2004,0,1,0,democracy,,,30,1,0,0,9,0,0,0,0,0,7,,0
+235,Portugal,POR,Sampaio,2005,0,1,0,democracy,,,31,1,0,0,10,0,0,0,0,0,7,,0
+235,Portugal,POR,Sampaio,2006,0,1,0,democracy,,,32,1,0,0,11,0,0,0,0,0,7,,0
+235,Portugal,POR,Cavaco Silva,2006,0,-888,-888,democracy,,,33,1,0,0,1,0,0,0,0,0,7,,1
+235,Portugal,POR,Cavaco Silva,2007,0,-888,-888,democracy,,,34,1,0,0,2,0,0,0,0,0,7,,1
+235,Portugal,POR,Cavaco Silva,2008,0,-888,-888,democracy,,,35,1,0,0,3,0,0,0,0,0,7,,1
+235,Portugal,POR,Cavaco Silva,2009,0,-888,-888,democracy,,,36,1,0,0,4,0,0,0,0,0,7,1,1
+235,Portugal,POR,Cavaco Silva,2010,0,-888,-888,democracy,,,37,1,0,0,5,0,0,0,0,0,7,,1
+235,Portugal,POR,Cavaco Silva,2011,0,-888,-888,democracy,,,38,1,0,0,6,0,0,0,0,0,7,,1
+235,Portugal,POR,Cavaco Silva,2012,0,-888,-888,democracy,,,39,1,0,0,7,0,0,0,0,0,7,,1
+235,Portugal,POR,Cavaco Silva,2013,0,-888,-888,democracy,,,40,1,0,0,8,0,0,0,0,0,7,,1
+235,Portugal,POR,Cavaco Silva,2014,0,-888,-888,democracy,,,41,1,0,0,9,0,0,0,0,0,7,,1
+235,Portugal,POR,Cavaco Silva,2015,0,-888,-888,democracy,,,42,1,0,0,10,0,0,0,0,0,7,,1
+694,Qatar,QAT,Khalifah Ath-Thani,1995,1,3,8,dictatorship,,,0,1,26,26,24,0,0,1,1,0,2,,
+694,Qatar,QAT,Hamad ibn Khalifah Al Thani,1995,1,1,0,dictatorship,,,0,1,27,1,1,0,0,1,1,0,2,,
+694,Qatar,QAT,Hamad ibn Khalifah Al Thani,1996,1,1,0,dictatorship,,,0,1,28,2,2,0,0,1,1,0,2,,
+694,Qatar,QAT,Hamad ibn Khalifah Al Thani,1997,1,1,0,dictatorship,,,0,1,29,3,3,0,0,1,1,0,2,,
+694,Qatar,QAT,Hamad ibn Khalifah Al Thani,1998,1,1,0,dictatorship,,,0,1,30,4,4,0,0,1,1,0,2,,
+694,Qatar,QAT,Hamad ibn Khalifah Al Thani,1999,1,1,0,dictatorship,,,0,1,31,5,5,0,0,1,1,0,2,,
+694,Qatar,QAT,Hamad ibn Khalifah Al Thani,2000,1,1,0,dictatorship,,,0,1,32,6,6,0,0,1,1,0,2,,
+694,Qatar,QAT,Hamad ibn Khalifah Al Thani,2001,1,1,0,dictatorship,,,0,1,33,7,7,0,0,1,1,0,2,,
+694,Qatar,QAT,Hamad ibn Khalifah Al Thani,2002,1,1,0,dictatorship,,,0,1,34,8,8,0,1,1,1,0,2,,
+694,Qatar,QAT,Hamad ibn Khalifah Al Thani,2003,1,1,0,dictatorship,,,0,1,35,9,9,0,0,1,1,0,2,,
+694,Qatar,QAT,Hamad ibn Khalifah Al Thani,2004,1,1,0,dictatorship,,,0,1,36,10,10,0,0,1,1,0,2,,
+694,Qatar,QAT,Hamad ibn Khalifah Al Thani,2005,1,1,0,dictatorship,,,0,1,37,11,11,0,0,1,1,0,2,,
+694,Qatar,QAT,Hamad ibn Khalifah Al Thani,2006,1,1,0,dictatorship,,,0,1,38,12,12,0,1,1,1,0,2,,
+694,Qatar,QAT,Hamad ibn Khalifah Al Thani,2007,1,1,0,dictatorship,,,0,1,39,13,13,0,1,1,1,0,2,,
+694,Qatar,QAT,Hamad ibn Khalifah Al Thani,2008,1,1,0,dictatorship,,,0,1,40,14,14,0,0,1,2,0,2,,
+694,Qatar,QAT,Hamad ibn Khalifah Al Thani,2009,1,1,0,dictatorship,,,0,1,41,15,15,1,0,1,2,0,2,,
+694,Qatar,QAT,Hamad ibn Khalifah Al Thani,2010,1,1,0,dictatorship,,,0,1,42,16,16,0,0,1,2,0,2,,
+694,Qatar,QAT,Hamad ibn Khalifah Al Thani,2011,1,1,0,dictatorship,,,0,1,43,17,17,0,0,1,2,0,2,,
+694,Qatar,QAT,Hamad ibn Khalifah Al Thani,2012,1,1,0,dictatorship,,,0,1,44,18,18,0,0,1,1,0,2,,
+694,Qatar,QAT,Hamad ibn Khalifah Al Thani,2013,1,1,0,dictatorship,,,0,1,45,19,19,0,0,1,0,0,2,,
+694,Qatar,QAT,Tamim ibn Hamad Al Thani,2013,1,-888,-888,dictatorship,,,0,1,46,1,1,0,0,1,0,0,2,,
+694,Qatar,QAT,Tamim ibn Hamad Al Thani,2014,1,-888,-888,dictatorship,,,0,1,47,2,2,0,0,1,0,0,2,,
+694,Qatar,QAT,Tamim ibn Hamad Al Thani,2015,1,-888,-888,dictatorship,,,0,1,48,3,3,0,0,1,0,0,2,,
+360,Romania,RUM,Vacariou,1995,0,1,0,democracy,,,7,1,0,0,4,0,0,0,2,0,7,,0
+360,Romania,RUM,Vacariou,1996,0,1,0,democracy,,,8,1,0,0,5,0,0,0,2,0,7,,0
+360,Romania,RUM,Ciorbea,1996,0,1,0,democracy,,,9,1,0,0,1,0,0,0,2,0,7,,0
+360,Romania,RUM,Ciorbea,1997,0,1,0,democracy,,,10,1,0,0,2,0,0,0,2,0,7,,0
+360,Romania,RUM,Ciorbea,1998,0,1,0,democracy,,,11,1,0,0,3,0,0,0,2,0,7,,0
+360,Romania,RUM,Dejeu,1998,0,1,0,democracy,,,12,1,0,0,1,0,0,0,2,0,7,,0
+360,Romania,RUM,Vasile,1998,0,1,0,democracy,,,13,1,0,0,1,0,0,0,2,0,7,,0
+360,Romania,RUM,Vasile,1999,0,1,0,democracy,,,14,1,0,0,2,0,0,0,2,0,7,,0
+360,Romania,RUM,Athanasiu,1999,0,1,0,democracy,,,15,1,0,0,1,0,0,0,2,0,7,,0
+360,Romania,RUM,Isarescu,1999,0,1,0,democracy,,,16,1,0,0,1,0,0,0,2,0,7,,0
+360,Romania,RUM,Isarescu,2000,0,1,0,democracy,,,17,1,0,0,2,0,0,0,2,0,7,,0
+360,Romania,RUM,A. Nastase,2000,0,1,0,democracy,,,18,1,0,0,1,0,0,0,2,0,7,,0
+360,Romania,RUM,A. Nastase,2001,0,1,0,democracy,,,19,1,0,0,2,1,1,0,2,0,7,,0
+360,Romania,RUM,A. Nastase,2002,0,1,0,democracy,,,20,1,0,0,3,0,0,0,2,0,7,,0
+360,Romania,RUM,A. Nastase,2003,0,1,0,democracy,,,21,1,0,0,4,0,0,0,2,0,7,,0
+360,Romania,RUM,A. Nastase,2004,0,1,0,democracy,,,22,1,0,0,5,0,0,0,1,0,7,,0
+360,Romania,RUM,Eugen Bejinariu,2004,0,1,0,democracy,,,23,1,0,0,1,0,0,0,1,0,7,,0
+360,Romania,RUM,Traian Basescu,2004,0,1,0,democracy,,,24,1,0,0,1,0,0,0,1,0,7,,0
+360,Romania,RUM,Traian Basescu,2005,0,1,0,democracy,,,25,1,0,0,2,0,0,0,1,0,7,,0
+360,Romania,RUM,Traian Basescu,2006,0,1,0,democracy,,,26,1,0,0,3,0,0,0,0,0,7,,0
+360,Romania,RUM,Traian Basescu,2007,0,1,0,democracy,,,27,1,0,0,4,0,0,0,0,0,7,,0
+360,Romania,RUM,Vacariou,2007,0,1,0,democracy,,,28,1,0,0,1,0,0,0,0,0,7,,0
+360,Romania,RUM,Traian Basescu,2007,0,1,0,democracy,,,29,1,0,0,1,0,0,0,0,0,7,,0
+360,Romania,RUM,Traian Basescu,2008,0,1,0,democracy,,,30,1,0,0,2,0,0,0,0,0,7,,0
+360,Romania,RUM,Traian Basescu,2009,0,1,0,democracy,,,31,1,0,0,3,0,0,0,0,0,7,,0
+360,Romania,RUM,Traian Basescu,2010,0,1,0,democracy,,,32,1,0,0,4,0,0,0,0,0,7,,0
+360,Romania,RUM,Traian Basescu,2011,0,1,0,democracy,,,33,1,0,0,5,0,0,0,0,0,7,,0
+360,Romania,RUM,Traian Basescu,2012,0,1,0,democracy,,,34,1,0,0,6,0,0,0,0,0,7,,0
+360,Romania,RUM,Crin Antonescu,2012,0,1,0,democracy,,,35,1,0,0,1,0,0,0,0,0,7,,0
+360,Romania,RUM,Traian Basescu,2012,0,-888,-888,democracy,,,36,1,0,0,1,0,0,0,0,0,7,,0
+360,Romania,RUM,Traian Basescu,2013,0,-888,-888,democracy,,,37,1,0,0,2,0,0,0,0,0,7,,0
+360,Romania,RUM,Traian Basescu,2014,0,-888,-888,democracy,,,38,1,0,0,3,0,0,0,0,0,7,,0
+365,Russia,RUS,Yeltsin,1995,0,1,0,democracy,,,4,1,0,0,5,0,0,0,2,0,7,,NA
+365,Russia,RUS,Yeltsin,1996,0,1,0,democracy,,,5,1,0,0,6,0,0,0,2,0,7,,NA
+365,Russia,RUS,Yeltsin,1997,0,1,0,democracy,,,6,1,0,0,7,0,0,0,2,0,7,,NA
+365,Russia,RUS,Yeltsin,1998,0,1,0,democracy,,,7,1,0,0,8,0,0,0,2,0,7,,NA
+365,Russia,RUS,Yeltsin,1999,0,1,0,democracy,,,8,1,0,0,9,0,0,0,2,0,7,,NA
+365,Russia,RUS,Putin,2000,0,-888,-888,dictatorship,,,9,1,0,0,1,0,0,0,2,0,7,,NA
+365,Russia,RUS,Putin,2001,0,-888,-888,dictatorship,,,10,1,0,0,2,0,0,0,2,0,7,,NA
+365,Russia,RUS,Putin,2002,0,-888,-888,dictatorship,,,11,1,0,0,3,0,0,0,2,0,7,,NA
+365,Russia,RUS,Putin,2003,0,-888,-888,dictatorship,,,12,1,0,0,4,0,0,0,2,0,7,,NA
+365,Russia,RUS,Putin,2004,0,-888,-888,dictatorship,,,13,1,0,0,5,0,0,0,2,0,7,,NA
+365,Russia,RUS,Putin,2005,0,-888,-888,dictatorship,,,0,1,1,1,6,0,0,1,2,0,7,,
+365,Russia,RUS,Putin,2006,0,-888,-888,dictatorship,,,0,1,2,2,7,0,0,1,2,0,7,,
+365,Russia,RUS,Putin,2007,0,-888,-888,dictatorship,,,0,1,3,3,8,0,0,1,1,0,7,,
+365,Russia,RUS,Putin,2008,0,-888,-888,dictatorship,,,0,1,4,4,9,0,0,1,1,0,7,,
+365,Russia,RUS,Putin,2009,0,-888,-888,dictatorship,,,0,1,5,5,10,0,0,1,1,0,7,,
+365,Russia,RUS,Putin,2010,0,-888,-888,dictatorship,,,0,1,6,6,11,0,1,1,0,0,7,,
+365,Russia,RUS,Putin,2011,0,-888,-888,dictatorship,,,0,1,7,7,12,0,1,1,0,0,7,,
+365,Russia,RUS,Putin,2012,0,-888,-888,dictatorship,,,0,1,8,8,13,0,0,1,0,0,7,,
+365,Russia,RUS,Putin,2013,0,-888,-888,dictatorship,,,0,1,9,9,14,0,0,1,0,0,7,,
+365,Russia,RUS,Putin,2014,0,-888,-888,dictatorship,,,0,1,10,10,15,0,0,1,1,0,7,,
+365,Russia,RUS,Putin,2015,0,-888,-888,dictatorship,,,0,1,11,11,16,0,0,1,1,0,7,,
+670,Saudi Arabia,SAU,Fahd,1995,0,2.1,0,dictatorship,,,0,1,27,22,14,0,0,1,1,NA,2,,
+670,Saudi Arabia,SAU,Fahd,1996,0,2.1,0,dictatorship,,,0,1,28,23,15,0,0,1,1,NA,2,,
+670,Saudi Arabia,SAU,Abdullah,1996,0,2,0,dictatorship,,,0,1,29,24,1,0,0,1,1,NA,2,,
+670,Saudi Arabia,SAU,Abdullah,1997,0,2,0,dictatorship,,,0,1,30,25,2,0,0,1,1,NA,2,,
+670,Saudi Arabia,SAU,Abdullah,1998,0,2,0,dictatorship,,,0,1,31,26,3,0,0,1,1,NA,2,,
+670,Saudi Arabia,SAU,Abdullah,1999,0,2,0,dictatorship,,,0,1,32,27,4,0,0,1,1,NA,2,,
+670,Saudi Arabia,SAU,Abdullah,2000,0,2,0,dictatorship,,,0,1,33,28,5,0,0,1,1,NA,2,,
+670,Saudi Arabia,SAU,Abdullah,2001,0,2,0,dictatorship,,,0,1,34,29,6,0,0,1,1,NA,2,,
+670,Saudi Arabia,SAU,Abdullah,2002,0,2,0,dictatorship,,,0,1,35,30,7,0,1,1,1,NA,2,,
+670,Saudi Arabia,SAU,Abdullah,2003,0,2,0,dictatorship,,,0,1,36,31,8,0,0,1,1,NA,2,,
+670,Saudi Arabia,SAU,Abdullah,2004,0,2,0,dictatorship,,,0,1,37,32,9,0,0,1,1,NA,2,,
+670,Saudi Arabia,SAU,Abdullah,2005,0,2,0,dictatorship,,,0,1,38,33,10,0,0,1,0,NA,2,,
+670,Saudi Arabia,SAU,Abdullah,2006,0,2,0,dictatorship,,,0,1,39,34,11,0,1,1,0,NA,2,,
+670,Saudi Arabia,SAU,Abdullah,2007,0,2,0,dictatorship,,,0,1,40,35,12,0,1,1,0,NA,2,,
+670,Saudi Arabia,SAU,Abdullah,2008,0,2,0,dictatorship,,,0,1,41,36,13,0,0,1,1,NA,2,,
+670,Saudi Arabia,SAU,Abdullah,2009,0,2,0,dictatorship,,,0,1,42,37,14,1,0,1,1,NA,2,,
+670,Saudi Arabia,SAU,Abdullah,2010,0,2,0,dictatorship,,,0,1,43,38,15,0,0,1,1,NA,2,,
+670,Saudi Arabia,SAU,Abdullah,2011,0,2,0,dictatorship,,,0,1,44,39,16,0,0,1,1,NA,2,,
+670,Saudi Arabia,SAU,Abdullah,2012,0,2,0,dictatorship,,,0,1,45,40,17,0,0,1,1,NA,2,,
+670,Saudi Arabia,SAU,Abdullah,2013,0,2,0,dictatorship,,,0,1,46,41,18,0,0,1,1,NA,2,,
+670,Saudi Arabia,SAU,Abdullah,2014,0,2,0,dictatorship,,,0,1,47,42,19,0,0,1,0,NA,2,,
+670,Saudi Arabia,SAU,Abdullah,2015,0,2,0,dictatorship,,,0,1,48,43,20,0,0,1,1,NA,2,,
+670,Saudi Arabia,SAU,Salman bin Abdulaziz Al Saud,2015,0,-888,-888,dictatorship,,,0,1,49,44,1,0,0,1,1,NA,2,,
+317,Slovak Republic,SLO,Meciar,1995,0,1,0,democracy,,,5,1,0,0,2,0,0,0,1,0,7,,1
+317,Slovak Republic,SLO,Meciar,1996,0,1,0,democracy,,,6,1,0,0,3,1,1,0,1,0,7,,1
+317,Slovak Republic,SLO,Meciar,1997,0,1,0,democracy,,,7,1,0,0,4,0,0,0,1,0,7,,1
+317,Slovak Republic,SLO,Meciar,1998,0,1,0,democracy,,,8,1,0,0,5,0,0,0,1,0,7,,1
+317,Slovak Republic,SLO,Dzurinda,1998,0,1,0,democracy,,,9,1,0,0,1,0,0,0,1,0,7,,1
+317,Slovak Republic,SLO,Dzurinda,1999,0,1,0,democracy,,,10,1,0,0,2,0,0,0,1,0,7,,0
+317,Slovak Republic,SLO,Dzurinda,2000,0,1,0,democracy,,,11,1,0,0,3,0,0,0,1,0,7,,0
+317,Slovak Republic,SLO,Dzurinda,2001,0,1,0,democracy,,,12,1,0,0,4,0,0,0,1,0,7,,0
+317,Slovak Republic,SLO,Dzurinda,2002,0,1,0,democracy,,,13,1,0,0,5,0,0,0,1,0,7,,0
+317,Slovak Republic,SLO,Dzurinda,2003,0,1,0,democracy,,,14,1,0,0,6,0,0,0,0,0,7,,0
+317,Slovak Republic,SLO,Dzurinda,2004,0,1,0,democracy,,,15,1,0,0,7,0,0,0,0,0,7,,0
+317,Slovak Republic,SLO,Dzurinda,2005,0,1,0,democracy,,,16,1,0,0,8,0,0,0,0,0,7,,0
+317,Slovak Republic,SLO,Dzurinda,2006,0,1,0,democracy,,,17,1,0,0,9,0,0,0,0,0,7,,0
+317,Slovak Republic,SLO,Fico,2006,0,1,0,democracy,,,18,1,0,0,1,0,0,0,0,0,7,,0
+317,Slovak Republic,SLO,Fico,2007,0,1,0,democracy,,,19,1,0,0,2,0,0,0,0,0,7,,0
+317,Slovak Republic,SLO,Fico,2008,0,1,0,democracy,,,20,1,0,0,3,0,0,0,0,0,7,,0
+317,Slovak Republic,SLO,Fico,2009,0,1,0,democracy,,,21,1,0,0,4,0,0,0,0,0,7,,0
+317,Slovak Republic,SLO,Fico,2010,0,1,0,democracy,,,22,1,0,0,5,0,0,0,0,0,7,,0
+317,Slovak Republic,SLO,Radicova,2010,0,1,0,democracy,,,23,1,0,0,1,0,0,0,0,0,7,,0
+317,Slovak Republic,SLO,Radicova,2011,0,1,0,democracy,,,24,1,0,0,2,0,0,0,0,0,7,,0
+317,Slovak Republic,SLO,Radicova,2012,0,1,0,democracy,,,25,1,0,0,3,0,0,0,0,0,7,,0
+317,Slovak Republic,SLO,Fico,2012,0,-888,-888,democracy,,,26,1,0,0,1,0,0,0,0,0,7,,0
+317,Slovak Republic,SLO,Fico,2013,0,-888,-888,democracy,,,27,1,0,0,2,0,0,0,0,0,7,,0
+317,Slovak Republic,SLO,Fico,2014,0,-888,-888,democracy,,,28,1,0,0,3,0,0,0,0,0,7,,0
+317,Slovak Republic,SLO,Fico,2015,0,-888,-888,democracy,,,29,1,0,0,4,0,0,0,0,0,7,,0
+349,Slovenia,SLV,Drnovsek,1995,0,1,0,democracy,,,8,1,0,0,4,1,1,0,1,0,7,,0
+349,Slovenia,SLV,Drnovsek,1996,0,1,0,democracy,,,9,1,0,0,5,1,0,0,1,0,7,1,0
+349,Slovenia,SLV,Drnovsek,1997,0,1,0,democracy,,,10,1,0,0,6,0,0,0,1,0,7,,0
+349,Slovenia,SLV,Drnovsek,1998,0,1,0,democracy,,,11,1,0,0,7,1,1,0,1,0,7,,0
+349,Slovenia,SLV,Drnovsek,1999,0,1,0,democracy,,,12,1,0,0,8,0,0,0,1,0,7,,0
+349,Slovenia,SLV,Drnovsek,2000,0,1,0,democracy,,,13,1,0,0,9,0,0,0,1,0,7,,0
+349,Slovenia,SLV,Bajuk,2000,0,1,0,democracy,,,14,1,0,0,1,0,0,0,1,0,7,,0
+349,Slovenia,SLV,Drnovsek,2000,0,1,0,democracy,,,15,1,0,0,1,0,0,0,0,0,7,,0
+349,Slovenia,SLV,Drnovsek,2001,0,1,0,democracy,,,16,1,0,0,2,0,0,0,0,0,7,,0
+349,Slovenia,SLV,Drnovsek,2002,0,1,0,democracy,,,17,1,0,0,3,0,0,0,0,0,7,,0
+349,Slovenia,SLV,Anton Rop,2002,0,1,0,democracy,,,18,1,0,0,1,0,0,0,0,0,7,,0
+349,Slovenia,SLV,Anton Rop,2003,0,1,0,democracy,,,19,1,0,0,2,0,0,0,0,0,7,,0
+349,Slovenia,SLV,Anton Rop,2004,0,1,0,democracy,,,20,1,0,0,3,0,0,0,0,0,7,,0
+349,Slovenia,SLV,Janez Jansa,2004,0,1,0,democracy,,,21,1,0,0,1,0,0,0,0,0,7,,0
+349,Slovenia,SLV,Janez Jansa,2005,0,1,0,democracy,,,22,1,0,0,2,0,0,0,0,0,7,,0
+349,Slovenia,SLV,Janez Jansa,2006,0,1,0,democracy,,,23,1,0,0,3,0,0,0,0,0,7,,0
+349,Slovenia,SLV,Janez Jansa,2007,0,1,0,democracy,,,24,1,0,0,4,0,0,0,0,0,7,,0
+349,Slovenia,SLV,Janez Jansa,2008,0,1,0,democracy,,,25,1,0,0,5,0,0,0,0,0,7,,0
+349,Slovenia,SLV,Borut Pahor,2008,0,1,0,democracy,,,26,1,0,0,1,0,0,0,0,0,7,,0
+349,Slovenia,SLV,Borut Pahor,2009,0,1,0,democracy,,,27,1,0,0,2,0,0,0,0,0,7,,0
+349,Slovenia,SLV,Borut Pahor,2010,0,1,0,democracy,,,28,1,0,0,3,0,0,0,0,0,7,,0
+349,Slovenia,SLV,Borut Pahor,2011,0,1,0,democracy,,,29,1,0,0,4,0,0,0,0,0,7,,0
+349,Slovenia,SLV,Borut Pahor,2012,0,1,0,democracy,,,30,1,0,0,5,0,0,0,0,0,7,,0
+349,Slovenia,SLV,Janez Jansa,2012,0,1,0,democracy,,,31,1,0,0,1,0,0,0,0,0,7,,0
+349,Slovenia,SLV,Janez Jansa,2013,0,1,0,democracy,,,32,1,0,0,2,0,0,0,0,0,7,,0
+349,Slovenia,SLV,Bratusek,2013,0,1,0,democracy,,,33,1,0,0,1,0,0,0,0,0,7,,0
+349,Slovenia,SLV,Bratusek,2014,0,1,0,democracy,,,34,1,0,0,2,0,0,0,0,0,7,,0
+349,Slovenia,SLV,Cerar,2014,0,-888,-888,democracy,,,35,1,0,0,1,0,0,0,0,0,7,,0
+349,Slovenia,SLV,Cerar,2015,0,-888,-888,democracy,,,36,1,0,0,2,0,0,0,0,0,7,,0
+560,South Africa,SAF,Mandela,1995,0,1,0,democracy,,,2,1,0,0,2,0,1,0,2,0,7,,1
+560,South Africa,SAF,Mandela,1996,0,1,0,democracy,,,3,1,0,0,3,0,0,0,2,0,7,,1
+560,South Africa,SAF,Mandela,1997,0,1,0,democracy,,,4,1,0,0,4,0,0,0,2,0,7,,1
+560,South Africa,SAF,Mandela,1998,0,1,0,democracy,,,5,1,0,0,5,0,0,0,1,0,7,,1
+560,South Africa,SAF,Mandela,1999,0,1,0,democracy,,,6,1,0,0,6,1,0,0,1,0,7,,1
+560,South Africa,SAF,Mbeki,1999,0,1,0,democracy,,,7,1,0,0,1,0,0,0,1,0,7,,1
+560,South Africa,SAF,Mbeki,2000,0,1,0,democracy,,,8,1,0,0,2,0,0,0,1,0,7,,1
+560,South Africa,SAF,Mbeki,2001,0,1,0,democracy,,,9,1,0,0,3,0,0,0,1,0,7,,1
+560,South Africa,SAF,Mbeki,2002,0,1,0,democracy,,,10,1,0,0,4,0,0,0,1,0,7,,1
+560,South Africa,SAF,Mbeki,2003,0,1,0,democracy,,,11,1,0,0,5,0,0,0,1,0,7,,1
+560,South Africa,SAF,Mbeki,2004,0,1,0,democracy,,,12,1,0,0,6,0,0,0,0,0,7,,1
+560,South Africa,SAF,Mbeki,2005,0,1,0,democracy,,,13,1,0,0,7,0,1,0,0,0,7,,1
+560,South Africa,SAF,Mbeki,2006,0,1,0,democracy,,,14,1,0,0,8,1,0,0,0,0,7,,1
+560,South Africa,SAF,Mbeki,2007,0,1,0,democracy,,,15,1,0,0,9,0,0,0,0,0,7,,1
+560,South Africa,SAF,Mbeki,2008,0,1,0,democracy,,,16,1,0,0,10,0,0,0,0,0,7,,1
+560,South Africa,SAF,Motlanthe,2008,0,1,0,democracy,,,17,1,0,0,1,0,0,0,0,0,7,,1
+560,South Africa,SAF,Motlanthe,2009,0,1,0,democracy,,,18,1,0,0,2,0,0,0,0,0,7,,1
+560,South Africa,SAF,Zuma,2009,0,-888,-888,democracy,,,19,1,0,0,1,0,0,0,0,0,7,,1
+560,South Africa,SAF,Zuma,2010,0,-888,-888,democracy,,,20,1,0,0,2,0,0,0,0,0,7,,1
+560,South Africa,SAF,Zuma,2011,0,-888,-888,democracy,,,21,1,0,0,3,0,0,0,0,0,7,,1
+560,South Africa,SAF,Zuma,2012,0,-888,-888,democracy,,,22,1,0,0,4,0,0,0,1,0,7,,1
+560,South Africa,SAF,Zuma,2013,0,-888,-888,democracy,,,23,1,0,0,5,0,0,0,1,0,7,,1
+560,South Africa,SAF,Zuma,2014,0,-888,-888,democracy,,,24,1,0,0,6,0,0,0,1,0,7,,1
+560,South Africa,SAF,Zuma,2015,0,-888,-888,democracy,,,25,1,0,0,7,0,0,0,1,0,7,,1
+572,Swaziland,SWA,Mswati,1995,0,-888,0,dictatorship,,,0,1,28,10,10,0,0,1,2,0,2,,
+572,Swaziland,SWA,Mswati,1996,0,-888,0,dictatorship,,,0,1,29,11,11,0,0,1,2,0,2,,
+572,Swaziland,SWA,Mswati,1997,0,-888,0,dictatorship,,,0,1,30,12,12,0,0,1,2,0,2,,
+572,Swaziland,SWA,Mswati,1998,0,-888,0,dictatorship,,,0,1,31,13,13,0,0,1,1,0,2,,
+572,Swaziland,SWA,Mswati,1999,0,-888,0,dictatorship,,,0,1,32,14,14,0,0,1,1,0,2,,
+572,Swaziland,SWA,Mswati,2000,0,-888,0,dictatorship,,,0,1,33,15,15,0,0,1,1,0,2,,
+572,Swaziland,SWA,Mswati,2001,0,-888,0,dictatorship,,,0,1,34,16,16,0,0,1,1,0,2,,
+572,Swaziland,SWA,Mswati,2002,0,-888,0,dictatorship,,,0,1,35,17,17,0,0,1,1,0,2,,
+572,Swaziland,SWA,Mswati,2003,0,-888,0,dictatorship,,,0,1,36,18,18,0,0,1,1,0,2,,
+572,Swaziland,SWA,Mswati,2004,0,-888,0,dictatorship,,,0,1,37,19,19,0,0,1,1,0,2,,
+572,Swaziland,SWA,Mswati,2005,0,-888,0,dictatorship,,,0,1,38,20,20,0,1,1,1,0,2,,
+572,Swaziland,SWA,Mswati,2006,0,-888,0,dictatorship,,,0,1,39,21,21,1,0,1,1,0,2,,
+572,Swaziland,SWA,Mswati,2007,0,-888,0,dictatorship,,,0,1,40,22,22,0,0,1,1,0,2,,
+572,Swaziland,SWA,Mswati,2008,0,-888,0,dictatorship,,,0,1,41,23,23,0,0,1,1,0,2,,
+572,Swaziland,SWA,Mswati,2009,0,-888,0,dictatorship,,,0,1,42,24,24,0,0,1,1,0,2,,
+572,Swaziland,SWA,Mswati,2010,0,-888,0,dictatorship,,,0,1,43,25,25,0,0,1,1,0,2,,
+572,Swaziland,SWA,Mswati,2011,0,-888,0,dictatorship,,,0,1,44,26,26,0,0,1,1,0,2,,
+572,Swaziland,SWA,Mswati,2012,0,-888,0,dictatorship,,,0,1,45,27,27,0,0,1,1,0,2,,
+572,Swaziland,SWA,Mswati,2013,0,-888,0,dictatorship,,,0,1,46,28,28,0,0,1,1,0,2,,
+572,Swaziland,SWA,Mswati,2014,0,-888,0,dictatorship,,,0,1,47,29,29,0,0,1,1,0,2,,
+572,Swaziland,SWA,Mswati,2015,0,-888,0,dictatorship,,,0,1,48,30,30,0,0,1,1,0,2,,
+652,Syria,SYR,Al-Assad H.,1995,0,2,0,dictatorship,,,0,1,26,26,26,0,0,1,2,0,3,,
+652,Syria,SYR,Al-Assad H.,1996,0,2,0,dictatorship,,,0,1,27,27,27,0,0,1,2,0,3,,
+652,Syria,SYR,Al-Assad H.,1997,0,2,0,dictatorship,,,0,1,28,28,28,0,1,1,2,0,3,,
+652,Syria,SYR,Al-Assad H.,1998,0,2,0,dictatorship,,,0,1,29,29,29,0,0,1,2,0,3,,
+652,Syria,SYR,Al-Assad H.,1999,0,2,0,dictatorship,,,0,1,30,30,30,0,0,1,2,0,3,,
+652,Syria,SYR,Al-Assad H.,2000,0,2,0,dictatorship,,,0,1,31,31,31,0,0,1,1,0,3,,
+652,Syria,SYR,Bashar al-Assad,2000,0,-888,0,dictatorship,,,0,1,32,32,1,0,0,1,1,0,3,,
+652,Syria,SYR,Bashar al-Assad,2001,0,-888,0,dictatorship,,,0,1,33,33,2,0,0,1,1,0,3,,
+652,Syria,SYR,Bashar al-Assad,2002,0,-888,0,dictatorship,,,0,1,34,34,3,0,0,1,0,0,3,,
+652,Syria,SYR,Bashar al-Assad,2003,0,-888,0,dictatorship,,,0,1,35,35,4,0,0,1,0,0,3,,
+652,Syria,SYR,Bashar al-Assad,2004,0,-888,0,dictatorship,,,0,1,36,36,5,1,0,1,0,0,3,,
+652,Syria,SYR,Bashar al-Assad,2005,0,-888,0,dictatorship,,,0,1,37,37,6,0,0,1,0,0,3,,
+652,Syria,SYR,Bashar al-Assad,2006,0,-888,0,dictatorship,,,0,1,38,38,7,0,0,1,0,0,3,,
+652,Syria,SYR,Bashar al-Assad,2007,0,-888,0,dictatorship,,,0,1,39,39,8,0,0,1,0,0,3,,
+652,Syria,SYR,Bashar al-Assad,2008,0,-888,0,dictatorship,,,0,1,40,40,9,0,0,1,0,0,3,,
+652,Syria,SYR,Bashar al-Assad,2009,0,-888,0,dictatorship,,,0,1,41,41,10,0,0,1,0,0,3,,
+652,Syria,SYR,Bashar al-Assad,2010,0,-888,0,dictatorship,,,0,1,42,42,11,0,0,1,0,0,3,,
+652,Syria,SYR,Bashar al-Assad,2011,0,-888,0,dictatorship,,,0,1,43,43,12,0,0,1,0,0,3,,
+652,Syria,SYR,Bashar al-Assad,2012,0,-888,0,dictatorship,,,0,1,44,44,13,0,0,1,1,0,3,,
+652,Syria,SYR,Bashar al-Assad,2013,0,-888,0,dictatorship,,,0,1,45,45,14,0,0,1,2,0,3,,
+652,Syria,SYR,Bashar al-Assad,2014,0,-888,0,dictatorship,,,0,1,46,46,15,0,0,1,3,0,3,,
+652,Syria,SYR,Bashar al-Assad,2015,0,-888,0,dictatorship,,,0,1,47,47,16,0,0,1,3,0,3,,
+800,Thailand,THI,Leekpai,1995,0,1,0,democracy,,,4,1,0,0,4,0,0,0,2,0,7,,0
+800,Thailand,THI,Silpa-Archa,1995,0,1,0,democracy,,,5,1,0,0,1,0,0,0,2,0,7,,0
+800,Thailand,THI,Silpa-Archa,1996,0,1,0,democracy,,,6,1,0,0,2,0,0,0,2,0,7,,0
+800,Thailand,THI,Chavalit Yongchaiyudh,1996,0,1,0,democracy,,,7,1,0,0,1,0,0,0,2,0,7,,0
+800,Thailand,THI,Chavalit Yongchaiyudh,1997,0,1,0,democracy,,,8,1,0,0,2,0,0,0,2,0,7,,0
+800,Thailand,THI,Leekpai,1997,0,1,0,democracy,,,9,1,0,0,1,0,0,0,2,0,7,,0
+800,Thailand,THI,Leekpai,1998,0,1,0,democracy,,,10,1,0,0,2,0,0,0,2,0,7,,0
+800,Thailand,THI,Leekpai,1999,0,1,0,democracy,,,11,1,0,0,3,0,0,0,2,0,7,,0
+800,Thailand,THI,Leekpai,2000,0,1,0,democracy,,,12,1,0,0,4,0,0,0,2,0,7,,0
+800,Thailand,THI,Leekpai,2001,0,1,0,democracy,,,13,1,0,0,5,0,0,0,2,0,7,,0
+800,Thailand,THI,Thaksin Shinawatra,2001,0,3,6,democracy,,,14,1,0,0,1,0,0,0,1,0,7,,0
+800,Thailand,THI,Thaksin Shinawatra,2002,0,3,6,democracy,,,15,1,0,0,2,0,1,0,1,0,7,,0
+800,Thailand,THI,Thaksin Shinawatra,2003,0,3,6,democracy,,,16,1,0,0,3,0,1,0,1,0,7,,0
+800,Thailand,THI,Thaksin Shinawatra,2004,0,3,6,democracy,,,17,1,0,0,4,0,1,0,1,0,7,,0
+800,Thailand,THI,Thaksin Shinawatra,2005,0,3,6,democracy,,,18,1,0,0,5,1,1,0,1,0,7,,0
+800,Thailand,THI,Thaksin Shinawatra,2006,0,3,6,democracy,,,19,1,0,0,6,0,0,0,1,0,7,,0
+800,Thailand,THI,Chulanont,2006,0,1,0,democracy,,,20,1,0,0,1,0,0,0,1,0,6,,0
+800,Thailand,THI,Chulanont,2007,0,1,0,democracy,,,21,1,0,0,2,1,0,0,1,NA,2,,0
+800,Thailand,THI,Chulanont,2008,0,1,0,democracy,,,22,1,0,0,3,0,0,0,1,0,7,,0
+800,Thailand,THI,Sundaravej,2008,0,1,0,democracy,,,23,1,0,0,1,0,0,0,1,0,7,,0
+800,Thailand,THI,Wongsawat,2008,0,1,0,democracy,,,24,1,0,0,1,0,0,0,1,0,7,,0
+800,Thailand,THI,Chanweerakul,2008,0,1,0,democracy,,,25,1,0,0,1,0,0,0,1,0,7,,0
+800,Thailand,THI,Vejjajiva,2008,0,1,0,democracy,,,26,1,0,0,1,0,0,0,1,0,7,,0
+800,Thailand,THI,Vejjajiva,2009,0,1,0,democracy,,,27,1,0,0,2,0,0,0,1,0,7,,0
+800,Thailand,THI,Vejjajiva,2010,0,1,0,democracy,,,28,1,0,0,3,0,0,0,1,0,7,,0
+800,Thailand,THI,Vejjajiva,2011,0,1,0,democracy,,,29,1,0,0,4,0,0,0,1,0,7,,0
+800,Thailand,THI,Yingluck Shinawatra,2011,0,1,0,democracy,,,30,1,0,0,1,0,0,0,1,0,7,,0
+800,Thailand,THI,Yingluck Shinawatra,2012,0,1,0,democracy,,,31,1,0,0,2,0,0,0,1,0,7,,0
+800,Thailand,THI,Yingluck Shinawatra,2013,0,1,0,democracy,,,32,1,0,0,3,0,0,0,1,0,7,,0
+800,Thailand,THI,Yingluck Shinawatra,2014,0,1,0,democracy,,,33,1,0,0,4,0,0,0,1,0,7,,0
+800,Thailand,THI,Niwattumrong Boonsongpaisan,2014,0,3,6,democracy,,,34,1,0,0,1,0,0,0,1,0,7,,0
+800,Thailand,THI,Prayuth Chan-ocha,2014,0,-888,-888,democracy,,,35,1,0,0,1,0,0,0,1,0,7,,0
+800,Thailand,THI,Prayuth Chan-ocha,2015,0,-888,-888,democracy,,,36,1,0,0,2,0,0,0,1,0,7,,0
+52,Trinidad and Tobago,TRI,Manning,1995,0,1,0,democracy,,,28,1,0,0,5,0,0,0,1,0,7,,NA
+52,Trinidad and Tobago,TRI,Panday,1995,0,1,0,democracy,,,29,1,0,0,1,0,0,0,1,0,7,,0
+52,Trinidad and Tobago,TRI,Panday,1996,0,1,0,democracy,,,30,1,0,0,2,0,0,0,1,0,7,,0
+52,Trinidad and Tobago,TRI,Panday,1997,0,1,0,democracy,,,31,1,0,0,3,0,0,0,1,0,7,,0
+52,Trinidad and Tobago,TRI,Panday,1998,0,1,0,democracy,,,32,1,0,0,4,0,0,0,1,0,7,,0
+52,Trinidad and Tobago,TRI,Panday,1999,0,1,0,democracy,,,33,1,0,0,5,0,0,0,1,0,7,,0
+52,Trinidad and Tobago,TRI,Panday,2000,0,1,0,democracy,,,34,1,0,0,6,0,0,0,1,0,7,,0
+52,Trinidad and Tobago,TRI,Panday,2001,0,1,0,democracy,,,35,1,0,0,7,0,0,0,1,0,7,,1
+52,Trinidad and Tobago,TRI,Manning,2001,0,1,0,democracy,,,36,1,0,0,1,0,0,0,1,0,7,,1
+52,Trinidad and Tobago,TRI,Manning,2002,0,1,0,democracy,,,37,1,0,0,2,0,0,0,1,0,7,,1
+52,Trinidad and Tobago,TRI,Manning,2003,0,1,0,democracy,,,38,1,0,0,3,0,0,0,1,0,7,,1
+52,Trinidad and Tobago,TRI,Manning,2004,0,1,0,democracy,,,39,1,0,0,4,0,0,0,1,0,7,,1
+52,Trinidad and Tobago,TRI,Manning,2005,0,1,0,democracy,,,40,1,0,0,5,0,0,0,0,0,7,,1
+52,Trinidad and Tobago,TRI,Manning,2006,0,1,0,democracy,,,41,1,0,0,6,0,0,0,0,0,7,,1
+52,Trinidad and Tobago,TRI,Manning,2007,0,1,0,democracy,,,42,1,0,0,7,0,0,0,0,0,7,,1
+52,Trinidad and Tobago,TRI,Manning,2008,0,1,0,democracy,,,43,1,0,0,8,0,1,0,0,0,7,,1
+52,Trinidad and Tobago,TRI,Manning,2009,0,1,0,democracy,,,44,1,0,0,9,0,0,0,0,0,7,,1
+52,Trinidad and Tobago,TRI,Manning,2010,0,1,0,democracy,,,45,1,0,0,10,0,0,0,0,0,7,,1
+52,Trinidad and Tobago,TRI,Kamla Persad-Bissessar,2010,0,1,0,democracy,,,46,1,0,0,1,0,0,0,0,0,7,,1
+52,Trinidad and Tobago,TRI,Kamla Persad-Bissessar,2011,0,1,0,democracy,,,47,1,0,0,2,0,0,0,0,0,7,,1
+52,Trinidad and Tobago,TRI,Kamla Persad-Bissessar,2012,0,1,0,democracy,,,48,1,0,0,3,0,0,0,0,0,7,,1
+52,Trinidad and Tobago,TRI,Kamla Persad-Bissessar,2013,0,1,0,democracy,,,49,1,0,0,4,0,0,0,0,0,7,,1
+52,Trinidad and Tobago,TRI,Kamla Persad-Bissessar,2014,0,1,0,democracy,,,50,1,0,0,5,0,0,0,0,0,7,,1
+52,Trinidad and Tobago,TRI,Kamla Persad-Bissessar,2015,0,1,0,democracy,,,51,1,0,0,6,0,0,0,0,0,7,,1
+616,Tunisia,TUN,Zine Al-Abidine Ben Ali,1995,1,3,2,dictatorship,,,0,1,26,9,9,0,0,1,3,0,3,,
+616,Tunisia,TUN,Zine Al-Abidine Ben Ali,1996,1,3,2,dictatorship,,,0,1,27,10,10,0,0,1,3,0,3,,
+616,Tunisia,TUN,Zine Al-Abidine Ben Ali,1997,1,3,2,dictatorship,,,0,1,28,11,11,0,0,1,2,0,3,,
+616,Tunisia,TUN,Zine Al-Abidine Ben Ali,1998,1,3,2,dictatorship,,,0,1,29,12,12,0,0,1,2,0,3,,
+616,Tunisia,TUN,Zine Al-Abidine Ben Ali,1999,1,3,2,dictatorship,,,0,1,30,13,13,0,0,1,2,0,3,,
+616,Tunisia,TUN,Zine Al-Abidine Ben Ali,2000,1,3,2,dictatorship,,,0,1,31,14,14,0,0,1,3,0,6,,
+616,Tunisia,TUN,Zine Al-Abidine Ben Ali,2001,1,3,2,dictatorship,,,0,1,32,15,15,0,0,1,3,0,6,,
+616,Tunisia,TUN,Zine Al-Abidine Ben Ali,2002,1,3,2,dictatorship,,,0,1,33,16,16,0,0,1,2,0,6,,
+616,Tunisia,TUN,Zine Al-Abidine Ben Ali,2003,1,3,2,dictatorship,,,0,1,34,17,17,0,0,1,2,0,6,,
+616,Tunisia,TUN,Zine Al-Abidine Ben Ali,2004,1,3,2,dictatorship,,,0,1,35,18,18,1,1,1,2,0,6,,
+616,Tunisia,TUN,Zine Al-Abidine Ben Ali,2005,1,3,2,dictatorship,,,0,1,36,19,19,0,0,1,2,0,6,,
+616,Tunisia,TUN,Zine Al-Abidine Ben Ali,2006,1,3,2,dictatorship,,,0,1,37,20,20,0,0,1,1,0,6,,
+616,Tunisia,TUN,Zine Al-Abidine Ben Ali,2007,1,3,2,dictatorship,,,0,1,38,21,21,0,0,1,1,0,6,,
+616,Tunisia,TUN,Zine Al-Abidine Ben Ali,2008,1,3,2,dictatorship,,,0,1,39,22,22,0,0,1,1,0,6,,
+616,Tunisia,TUN,Zine Al-Abidine Ben Ali,2009,1,3,2,dictatorship,,,0,1,40,23,23,0,0,1,1,0,6,,
+616,Tunisia,TUN,Zine Al-Abidine Ben Ali,2010,1,3,2,dictatorship,,,0,1,41,24,24,0,0,1,2,0,6,,
+616,Tunisia,TUN,Zine Al-Abidine Ben Ali,2011,1,3,2,dictatorship,,,0,1,42,25,25,0,0,1,2,0,7,,
+616,Tunisia,TUN,Ghannouchi,2011,0,1,0,dictatorship,,,0,1,43,1,1,0,0,1,2,0,7,,
+616,Tunisia,TUN,Mebazaa,2011,0,1,0,dictatorship,,,0,1,44,1,1,0,0,1,2,0,7,,
+616,Tunisia,TUN,Marzouki,2011,0,1,0,dictatorship,,,0,1,45,1,1,0,0,1,2,0,7,,
+616,Tunisia,TUN,Marzouki,2012,0,1,0,dictatorship,,,0,1,46,2,2,0,0,1,2,0,7,,
+616,Tunisia,TUN,Marzouki,2013,0,1,0,dictatorship,,,0,1,47,3,3,0,0,1,2,0,7,,
+616,Tunisia,TUN,Marzouki,2014,0,1,0,dictatorship,,,0,1,48,4,4,0,0,1,1,0,7,,
+616,Tunisia,TUN,Caid Essebsi,2014,0,-888,-888,dictatorship,,,0,1,49,1,1,0,0,1,1,0,7,,
+616,Tunisia,TUN,Caid Essebsi,2015,0,-888,-888,dictatorship,,,0,1,50,2,2,0,0,1,1,0,7,,
+640,Turkey,TUR,Ciller,1995,0,1,0,democracy,,,17,1,0,0,3,1,1,0,1,0,7,,0
+640,Turkey,TUR,Ciller,1996,0,1,0,democracy,,,18,1,0,0,4,1,0,0,1,0,7,,0
+640,Turkey,TUR,Yilmaz,1996,0,1,0,democracy,,,19,1,0,0,1,0,0,0,1,0,7,,0
+640,Turkey,TUR,Erbakan,1996,0,3,6,democracy,,,20,1,0,0,1,0,0,0,1,0,7,,0
+640,Turkey,TUR,Erbakan,1997,0,3,6,democracy,,,21,1,0,0,2,0,0,0,1,0,7,,0
+640,Turkey,TUR,Yilmaz,1997,1,1,0,democracy,,,22,1,0,0,1,0,0,0,1,0,7,,0
+640,Turkey,TUR,Yilmaz,1998,1,1,0,democracy,,,23,1,0,0,2,0,0,0,1,0,7,,0
+640,Turkey,TUR,Yilmaz,1999,1,1,0,democracy,,,24,1,0,0,3,0,0,0,1,0,7,,0
+640,Turkey,TUR,Ecevit,1999,0,1,0,democracy,,,25,1,0,0,1,0,0,0,1,0,7,,0
+640,Turkey,TUR,Ecevit,2000,0,1,0,democracy,,,26,1,0,0,2,0,0,0,1,0,7,,0
+640,Turkey,TUR,Ecevit,2001,0,1,0,democracy,,,27,1,0,0,3,0,0,0,1,0,7,,0
+640,Turkey,TUR,Ecevit,2002,0,1,0,democracy,,,28,1,0,0,4,0,0,0,1,0,7,,0
+640,Turkey,TUR,Abdullah Gul,2002,0,1,0,democracy,,,29,1,0,0,1,0,0,0,1,0,7,,0
+640,Turkey,TUR,Abdullah Gul,2003,0,1,0,democracy,,,30,1,0,0,2,0,0,0,1,0,7,,0
+640,Turkey,TUR,Erdogan,2003,0,-888,0,democracy,,,31,1,0,0,1,0,0,0,1,0,7,,1
+640,Turkey,TUR,Erdogan,2004,0,-888,0,democracy,,,32,1,0,0,2,0,0,0,1,0,7,,1
+640,Turkey,TUR,Erdogan,2005,0,-888,0,democracy,,,33,1,0,0,3,0,0,0,1,0,7,,1
+640,Turkey,TUR,Erdogan,2006,0,-888,0,democracy,,,34,1,0,0,4,0,0,0,1,0,7,,1
+640,Turkey,TUR,Erdogan,2007,0,-888,0,democracy,,,35,1,0,0,5,0,0,0,1,0,7,1,1
+640,Turkey,TUR,Erdogan,2008,0,-888,0,democracy,,,36,1,0,0,6,0,1,0,1,0,7,,1
+640,Turkey,TUR,Erdogan,2009,0,-888,0,democracy,,,37,1,0,0,7,0,0,0,1,0,7,,1
+640,Turkey,TUR,Erdogan,2010,0,-888,0,democracy,,,38,1,0,0,8,0,0,0,1,0,7,,1
+640,Turkey,TUR,Erdogan,2011,0,-888,0,democracy,,,39,1,0,0,9,0,0,0,1,0,7,,1
+640,Turkey,TUR,Erdogan,2012,0,-888,0,democracy,,,40,1,0,0,10,1,0,0,1,0,7,1,1
+640,Turkey,TUR,Erdogan,2013,0,-888,0,democracy,,,41,1,0,0,11,0,0,0,1,0,7,,1
+640,Turkey,TUR,Erdogan,2014,0,-888,0,democracy,,,42,1,0,0,12,0,0,0,1,0,7,,1
+640,Turkey,TUR,Erdogan,2015,0,-888,0,democracy,,,43,1,0,0,13,0,0,0,2,0,7,,1
+369,Ukraine,UKR,Kuchma,1995,0,1,0,democracy,,,7,1,0,0,2,0,0,0,1,0,7,,0
+369,Ukraine,UKR,Kuchma,1996,0,1,0,democracy,,,8,1,0,0,3,0,0,0,1,0,7,,0
+369,Ukraine,UKR,Kuchma,1997,0,1,0,democracy,,,9,1,0,0,4,0,0,0,1,0,7,,0
+369,Ukraine,UKR,Kuchma,1998,0,1,0,democracy,,,10,1,0,0,5,0,0,0,1,0,7,,0
+369,Ukraine,UKR,Kuchma,1999,0,1,0,democracy,,,11,1,0,0,6,0,0,0,1,0,7,1,0
+369,Ukraine,UKR,Kuchma,2000,0,1,0,democracy,,,12,1,0,0,7,0,0,0,1,0,7,,0
+369,Ukraine,UKR,Kuchma,2001,0,1,0,democracy,,,13,1,0,0,8,0,0,0,0,0,7,,0
+369,Ukraine,UKR,Kuchma,2002,0,1,0,democracy,,,14,1,0,0,9,0,0,0,0,0,7,,0
+369,Ukraine,UKR,Kuchma,2003,0,1,0,democracy,,,15,1,0,0,10,0,0,0,0,0,7,,0
+369,Ukraine,UKR,Kuchma,2004,0,1,0,democracy,,,16,1,0,0,11,0,0,0,1,0,7,,0
+369,Ukraine,UKR,Kuchma,2005,0,1,0,democracy,,,17,1,0,0,12,0,0,0,1,0,7,,0
+369,Ukraine,UKR,Yushchenko,2005,0,1,0,democracy,,,18,1,0,0,1,0,0,0,1,0,7,,0
+369,Ukraine,UKR,Yushchenko,2006,0,1,0,democracy,,,19,1,0,0,2,0,0,0,1,0,7,,0
+369,Ukraine,UKR,Yushchenko,2007,0,1,0,democracy,,,20,1,0,0,3,0,1,0,1,0,7,,0
+369,Ukraine,UKR,Yushchenko,2008,0,1,0,democracy,,,21,1,0,0,4,0,0,0,1,0,7,,0
+369,Ukraine,UKR,Yushchenko,2009,0,1,0,democracy,,,22,1,0,0,5,0,1,0,1,0,7,,0
+369,Ukraine,UKR,Yushchenko,2010,0,1,0,democracy,,,23,1,0,0,6,1,0,0,1,0,7,,0
+369,Ukraine,UKR,Yanukovych,2010,0,1,0,democracy,,,24,1,0,0,1,0,1,0,1,0,7,,0
+369,Ukraine,UKR,Yanukovych,2011,0,1,0,democracy,,,25,1,0,0,2,0,0,0,1,0,7,,0
+369,Ukraine,UKR,Yanukovych,2012,0,1,0,democracy,,,26,1,0,0,3,0,0,0,1,0,7,,0
+369,Ukraine,UKR,Yanukovych,2013,0,1,0,democracy,,,27,1,0,0,4,0,0,0,1,0,7,,0
+369,Ukraine,UKR,Yanukovych,2014,0,1,0,democracy,,,28,1,0,0,5,1,0,0,1,0,7,,0
+369,Ukraine,UKR,Oleksandr Turchynov,2014,0,1,0,democracy,,,29,1,0,0,1,0,0,0,1,0,7,,0
+369,Ukraine,UKR,Petro Poroshenko,2014,0,-888,-888,democracy,,,30,1,0,0,1,0,0,0,1,0,7,,0
+369,Ukraine,UKR,Petro Poroshenko,2015,0,-888,-888,democracy,,,31,1,0,0,2,0,0,0,1,0,7,,0
+696,United Arab Emirates,UAE,An-Nahayan,1995,0,2,0,dictatorship,,,0,1,25,25,25,0,0,1,2,NA,2,,
+696,United Arab Emirates,UAE,An-Nahayan,1996,0,2,0,dictatorship,,,0,1,26,26,26,0,0,1,2,NA,3,,
+696,United Arab Emirates,UAE,An-Nahayan,1997,0,2,0,dictatorship,,,0,1,27,27,27,0,0,1,2,NA,4,,
+696,United Arab Emirates,UAE,An-Nahayan,1998,0,2,0,dictatorship,,,0,1,28,28,28,0,0,1,2,NA,5,,
+696,United Arab Emirates,UAE,An-Nahayan,1999,0,2,0,dictatorship,,,0,1,29,29,29,0,0,1,2,NA,6,,
+696,United Arab Emirates,UAE,An-Nahayan,2000,0,2,0,dictatorship,,,0,1,30,30,30,0,0,1,2,NA,7,,
+696,United Arab Emirates,UAE,An-Nahayan,2001,0,2,0,dictatorship,,,0,1,31,31,31,0,0,1,2,NA,8,,
+696,United Arab Emirates,UAE,An-Nahayan,2002,0,2,0,dictatorship,,,0,1,32,32,32,0,1,1,1,NA,9,,
+696,United Arab Emirates,UAE,An-Nahayan,2003,0,2,0,dictatorship,,,0,1,33,33,33,0,0,1,1,NA,10,,
+696,United Arab Emirates,UAE,An-Nahayan,2004,0,2,0,dictatorship,,,0,1,34,34,34,0,0,1,0,NA,11,,
+696,United Arab Emirates,UAE,Khalifa Al Nahayan,2004,0,-888,-888,dictatorship,,,0,1,35,35,1,0,1,1,0,NA,12,,
+696,United Arab Emirates,UAE,Khalifa Al Nahayan,2005,0,-888,-888,dictatorship,,,0,1,36,36,2,0,0,1,0,NA,13,,
+696,United Arab Emirates,UAE,Khalifa Al Nahayan,2006,0,-888,-888,dictatorship,,,0,1,37,37,3,0,1,1,0,NA,14,,
+696,United Arab Emirates,UAE,Khalifa Al Nahayan,2007,0,-888,-888,dictatorship,,,0,1,38,38,4,0,1,1,0,NA,15,,
+696,United Arab Emirates,UAE,Khalifa Al Nahayan,2008,0,-888,-888,dictatorship,,,0,1,39,39,5,0,0,1,0,NA,16,,
+696,United Arab Emirates,UAE,Khalifa Al Nahayan,2009,0,-888,-888,dictatorship,,,0,1,40,40,6,1,0,1,0,NA,17,,
+696,United Arab Emirates,UAE,Khalifa Al Nahayan,2010,0,-888,-888,dictatorship,,,0,1,41,41,7,0,0,1,0,NA,18,,
+696,United Arab Emirates,UAE,Khalifa Al Nahayan,2011,0,-888,-888,dictatorship,,,0,1,42,42,8,0,0,1,0,NA,19,,
+696,United Arab Emirates,UAE,Khalifa Al Nahayan,2012,0,-888,-888,dictatorship,,,0,1,43,43,9,0,0,1,0,NA,20,,
+696,United Arab Emirates,UAE,Khalifa Al Nahayan,2013,0,-888,-888,dictatorship,,,0,1,44,44,10,0,0,1,1,NA,21,,
+696,United Arab Emirates,UAE,Khalifa Al Nahayan,2014,0,-888,-888,dictatorship,,,0,1,45,45,11,0,0,1,1,NA,22,,
+696,United Arab Emirates,UAE,Khalifa Al Nahayan,2015,0,-888,-888,dictatorship,,,0,1,46,46,12,0,0,1,1,NA,23,,
+165,Uruguay,URU,Lacalle de Herrera,1995,0,1,0,democracy,,,11,1,0,0,6,0,0,0,0,0,7,,0
+165,Uruguay,URU,Sanguinetti,1995,0,1,0,democracy,,,12,1,0,0,1,0,0,0,0,0,7,,0
+165,Uruguay,URU,Sanguinetti,1996,0,1,0,democracy,,,13,1,0,0,2,0,0,0,0,0,7,,0
+165,Uruguay,URU,Sanguinetti,1997,0,1,0,democracy,,,14,1,0,0,3,0,0,0,0,0,7,,0
+165,Uruguay,URU,Sanguinetti,1998,0,1,0,democracy,,,15,1,0,0,4,0,0,0,0,0,7,,0
+165,Uruguay,URU,Sanguinetti,1999,0,1,0,democracy,,,16,1,0,0,5,0,0,0,0,0,7,,0
+165,Uruguay,URU,Sanguinetti,2000,0,1,0,democracy,,,17,1,0,0,6,0,0,0,0,0,7,,0
+165,Uruguay,URU,Jorge Batlle,2000,0,1,0,democracy,,,18,1,0,0,1,0,0,0,0,0,7,,0
+165,Uruguay,URU,Jorge Batlle,2001,0,1,0,democracy,,,19,1,0,0,2,0,0,0,0,0,7,,0
+165,Uruguay,URU,Jorge Batlle,2002,0,1,0,democracy,,,20,1,0,0,3,0,0,0,0,0,7,,0
+165,Uruguay,URU,Jorge Batlle,2003,0,1,0,democracy,,,21,1,0,0,4,0,0,0,0,0,7,,0
+165,Uruguay,URU,Jorge Batlle,2004,0,1,0,democracy,,,22,1,0,0,5,0,1,0,0,0,7,,0
+165,Uruguay,URU,Jorge Batlle,2005,0,1,0,democracy,,,23,1,0,0,6,0,0,0,0,0,7,,0
+165,Uruguay,URU,Tabare Vazquez,2005,0,1,0,democracy,,,24,1,0,0,1,0,0,0,0,0,7,,1
+165,Uruguay,URU,Tabare Vazquez,2006,0,1,0,democracy,,,25,1,0,0,2,0,1,0,0,0,7,,1
+165,Uruguay,URU,Tabare Vazquez,2007,0,1,0,democracy,,,26,1,0,0,3,1,0,0,0,0,7,,1
+165,Uruguay,URU,Tabare Vazquez,2008,0,1,0,democracy,,,27,1,0,0,4,0,0,0,0,0,7,,1
+165,Uruguay,URU,Tabare Vazquez,2009,0,1,0,democracy,,,28,1,0,0,5,0,0,0,0,0,7,,1
+165,Uruguay,URU,Tabare Vazquez,2010,0,1,0,democracy,,,29,1,0,0,6,0,0,0,0,0,7,,1
+165,Uruguay,URU,Jose Mujica,2010,0,1,0,democracy,,,30,1,0,0,1,0,0,0,0,0,7,,1
+165,Uruguay,URU,Jose Mujica,2011,0,1,0,democracy,,,31,1,0,0,2,0,0,0,0,0,7,,1
+165,Uruguay,URU,Jose Mujica,2012,0,1,0,democracy,,,32,1,0,0,3,0,0,0,0,0,7,,1
+165,Uruguay,URU,Jose Mujica,2013,0,1,0,democracy,,,33,1,0,0,4,0,0,0,0,0,7,,1
+165,Uruguay,URU,Jose Mujica,2014,0,1,0,democracy,,,34,1,0,0,5,0,0,0,0,0,7,,1
+165,Uruguay,URU,Jose Mujica,2015,0,1,0,democracy,,,35,1,0,0,6,0,0,0,0,0,7,,1
+165,Uruguay,URU,Tabare Vasquez,2015,0,-888,-888,democracy,,,36,1,0,0,1,0,0,0,0,0,7,,1
+101,Venezuela,VEN,Caldera Rodriguez,1995,0,1,0,democracy,,,31,1,0,0,2,0,0,0,1,0,7,,0
+101,Venezuela,VEN,Caldera Rodriguez,1996,0,1,0,democracy,,,32,1,0,0,3,0,0,0,1,0,7,,0
+101,Venezuela,VEN,Caldera Rodriguez,1997,0,1,0,democracy,,,33,1,0,0,4,0,0,0,1,0,7,,1
+101,Venezuela,VEN,Caldera Rodriguez,1998,0,1,0,democracy,,,34,1,0,0,5,0,0,0,1,0,7,,1
+101,Venezuela,VEN,Caldera Rodriguez,1999,0,1,0,democracy,,,35,1,0,0,6,0,0,0,1,0,7,,0
+101,Venezuela,VEN,Hugo Chavez,1999,0,1,0,democracy,,,36,1,0,0,1,0,0,0,1,0,7,,0
+101,Venezuela,VEN,Hugo Chavez,2000,0,1,0,democracy,,,37,1,0,0,2,0,0,0,1,0,7,,1
+101,Venezuela,VEN,Hugo Chavez,2001,0,1,0,democracy,,,38,1,0,0,3,0,0,0,1,0,7,,1
+101,Venezuela,VEN,Hugo Chavez,2002,0,1,0,democracy,,,39,1,0,0,4,0,0,0,2,0,7,,1
+101,Venezuela,VEN,Hugo Chavez,2003,0,1,0,democracy,,,40,1,0,0,5,0,0,0,2,0,7,,1
+101,Venezuela,VEN,Hugo Chavez,2004,0,1,0,democracy,,,41,1,0,0,6,0,1,0,2,0,7,,1
+101,Venezuela,VEN,Hugo Chavez,2005,0,1,0,democracy,,,42,1,0,0,7,0,0,0,2,0,7,,1
+101,Venezuela,VEN,Hugo Chavez,2006,0,1,0,democracy,,,43,1,0,0,8,0,1,0,2,0,7,1,1
+101,Venezuela,VEN,Hugo Chavez,2007,0,1,0,democracy,,,44,1,0,0,9,1,0,0,1,0,7,,1
+101,Venezuela,VEN,Hugo Chavez,2008,0,1,0,democracy,,,45,1,0,0,10,0,0,0,1,0,7,,1
+101,Venezuela,VEN,Hugo Chavez,2009,0,1,0,democracy,,,46,1,0,0,11,0,0,0,2,0,7,,1
+101,Venezuela,VEN,Hugo Chavez,2010,0,1,0,democracy,,,47,1,0,0,12,0,0,0,2,0,7,,1
+101,Venezuela,VEN,Hugo Chavez,2011,0,1,0,democracy,,,48,1,0,0,13,0,0,0,2,0,7,,1
+101,Venezuela,VEN,Hugo Chavez,2012,0,1,0,democracy,,,49,1,0,0,14,0,0,0,3,0,7,,1
+101,Venezuela,VEN,Maduro,2012,0,-888,0,democracy,,,50,1,0,0,1,0,0,0,3,0,7,,1
+101,Venezuela,VEN,Maduro,2013,0,-888,0,democracy,,,51,1,0,0,2,0,0,0,2,0,7,,1
+101,Venezuela,VEN,Maduro,2014,0,-888,0,democracy,,,52,1,0,0,3,0,0,0,3,0,7,,1
+101,Venezuela,VEN,Maduro,2015,0,-888,0,democracy,,,53,1,0,0,4,0,0,0,3,0,7,,1
+816,Vietnam,DRV,Do Muoi,1995,0,1,0,dictatorship,,,0,1,23,23,5,0,1,1,0,0,4,,
+816,Vietnam,DRV,Do Muoi,1996,0,1,0,dictatorship,,,0,1,24,24,6,0,0,1,0,0,4,,
+816,Vietnam,DRV,Do Muoi,1997,0,1,0,dictatorship,,,0,1,25,25,7,0,0,1,0,0,4,,
+816,Vietnam,DRV,Phieu,1997,0,1,0,dictatorship,,,0,1,26,26,1,0,0,1,0,0,4,,
+816,Vietnam,DRV,Phieu,1998,0,1,0,dictatorship,,,0,1,27,27,2,0,0,1,0,0,4,,
+816,Vietnam,DRV,Phieu,1999,0,1,0,dictatorship,,,0,1,28,28,3,0,0,1,0,0,4,,
+816,Vietnam,DRV,Phieu,2000,0,1,0,dictatorship,,,0,1,29,29,4,1,0,1,0,0,4,,
+816,Vietnam,DRV,Phieu,2001,0,1,0,dictatorship,,,0,1,30,30,5,0,0,1,0,0,4,,
+816,Vietnam,DRV,Nong Duc Manh,2001,0,1,0,dictatorship,,,0,1,31,31,1,0,0,1,0,0,4,,
+816,Vietnam,DRV,Nong Duc Manh,2002,0,1,0,dictatorship,,,0,1,32,32,2,0,0,1,0,0,4,,
+816,Vietnam,DRV,Nong Duc Manh,2003,0,1,0,dictatorship,,,0,1,33,33,3,0,0,1,0,0,4,,
+816,Vietnam,DRV,Nong Duc Manh,2004,0,1,0,dictatorship,,,0,1,34,34,4,0,0,1,0,0,4,,
+816,Vietnam,DRV,Nong Duc Manh,2005,0,1,0,dictatorship,,,0,1,35,35,5,0,0,1,0,0,4,,
+816,Vietnam,DRV,Nong Duc Manh,2006,0,1,0,dictatorship,,,0,1,36,36,6,0,1,1,0,0,4,,
+816,Vietnam,DRV,Nong Duc Manh,2007,0,1,0,dictatorship,,,0,1,37,37,7,0,0,1,0,0,4,,
+816,Vietnam,DRV,Nong Duc Manh,2008,0,1,0,dictatorship,,,0,1,38,38,8,0,0,1,0,0,4,,
+816,Vietnam,DRV,Nong Duc Manh,2009,0,1,0,dictatorship,,,0,1,39,39,9,0,0,1,0,0,4,,
+816,Vietnam,DRV,Nong Duc Manh,2010,0,1,0,dictatorship,,,0,1,40,40,10,0,0,1,0,0,4,,
+816,Vietnam,DRV,Nong Duc Manh,2011,0,1,0,dictatorship,,,0,1,41,41,11,0,0,1,0,0,4,,
+816,Vietnam,DRV,Phu Trong,2011,0,1,0,dictatorship,,,0,1,42,42,1,0,0,1,0,0,4,,
+816,Vietnam,DRV,Phu Trong,2012,0,1,0,dictatorship,,,0,1,43,43,2,0,1,1,0,0,4,,
+816,Vietnam,DRV,Phu Trong,2013,0,1,0,dictatorship,,,0,1,44,44,3,0,0,1,0,0,4,,
+816,Vietnam,DRV,Phu Trong,2014,0,1,0,dictatorship,,,0,1,45,45,4,0,0,1,0,0,4,,
+816,Vietnam,DRV,Phu Trong,2015,0,1,0,dictatorship,,,0,1,46,46,5,1,0,1,0,0,4,,

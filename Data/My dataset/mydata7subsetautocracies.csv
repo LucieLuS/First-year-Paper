@@ -1,0 +1,95 @@
+,ccode,ccname,idacr,leader,id,numentry,numexit,numexitcode,DICT,starttime,shocktime,tenure,political.affiliation,eventtime,event,poleff,ugovt,rtpast,DICT3,shocktimet,polaffi2,Z
+1,615,Algeria,ALG,Zeroual,9,0,1,0,1,1,1,6,regime,3,1,1,NA,1,dictatorship,0,s_t_i,1
+2,615,Algeria,ALG,Bouteflika,10,0,-888,-888,1,0,14,17,unaffiliated,9,1,2,NA,0,dictatorship,1,shock_t,1
+3,692,Bahrain,BAH,Isa Ibn Al-Khalifah,19,0,2,0,1,24,29,29,independent,29,0,1,NA,0,dictatorship,0,i_t_s,0
+4,692,Bahrain,BAH,Hamad Isa Ibn Al-Khalifah,20,0,-888,-888,1,0,12,17,regime,4,1,2,NA,1,dictatorship,1,shock_t,1
+5,370,Belarus,BLR,Lukashenko,21,0,-888,-888,3,1,5,22,regime,22,0,2,NA,1,dictatorship,1,shock_t,1
+6,346,Bosnia and Herzegovina,BOS,Izetbegovic,29,0,2.1,0,4,5,9,9,noauthority,9,0,1,NA,0,noauthority,0,ins_all,0
+7,346,Bosnia and Herzegovina,BOS,Radisic,30,0,1,0,4,0,2,2,noauthority,2,0,1,NA,0,noauthority,0,ins_all,0
+8,346,Bosnia and Herzegovina,BOS,Jelavic,31,0,1,0,4,0,2,2,noauthority,2,0,1,NA,0,noauthority,0,ins_all,0
+9,346,Bosnia and Herzegovina,BOS,Izetbegovic,32,0,2.1,0,4,0,1,1,noauthority,1,0,1,NA,0,noauthority,0,ins_all,0
+10,346,Bosnia and Herzegovina,BOS,Radisic,33,0,1,0,4,0,2,2,noauthority,2,0,1,NA,0,noauthority,0,ins_all,0
+11,346,Bosnia and Herzegovina,BOS,Krizanovic,34,0,1,0,4,0,2,2,noauthority,2,0,1,NA,0,noauthority,0,ins_all,0
+12,346,Bosnia and Herzegovina,BOS,Belkic,35,0,1,0,4,0,1,1,noauthority,1,0,1,NA,0,noauthority,0,ins_all,0
+13,346,Bosnia and Herzegovina,BOS,Sarovic,36,0,1,0,4,0,2,2,noauthority,2,0,1,NA,0,noauthority,0,ins_all,0
+14,346,Bosnia and Herzegovina,BOS,Borislav Paravac,37,0,1,0,4,0,1,1,noauthority,1,0,1,NA,0,noauthority,0,ins_all,0
+15,346,Bosnia and Herzegovina,BOS,Dragan Covic,38,0,1,0,4,0,2,2,noauthority,2,0,1,NA,0,noauthority,0,ins_all,0
+16,346,Bosnia and Herzegovina,BOS,Sulejman Tihic,39,0,1,0,4,0,1,1,noauthority,1,0,1,NA,0,noauthority,0,ins_all,0
+17,346,Bosnia and Herzegovina,BOS,Borislav Paravac,40,0,1,0,4,0,2,2,noauthority,2,0,1,NA,0,noauthority,0,ins_all,0
+18,346,Bosnia and Herzegovina,BOS,Miro Jovic,41,0,1,0,4,0,2,2,noauthority,2,0,1,NA,0,noauthority,0,ins_all,0
+19,346,Bosnia and Herzegovina,BOS,Sulejman Tihic,42,0,1,0,4,0,1,1,noauthority,1,0,1,NA,0,noauthority,0,ins_all,0
+20,346,Bosnia and Herzegovina,BOS,Radmanovic,43,0,1,0,4,0,2,2,noauthority,2,0,1,NA,0,noauthority,0,ins_all,0
+21,346,Bosnia and Herzegovina,BOS,Zeljko Komsic,44,0,1,0,4,0,2,2,noauthority,2,0,1,NA,0,noauthority,0,ins_all,0
+22,346,Bosnia and Herzegovina,BOS,Silajdzic,45,0,1,0,4,0,1,1,noauthority,1,0,1,NA,0,noauthority,0,ins_all,0
+23,346,Bosnia and Herzegovina,BOS,Radmanovic,46,0,1,0,4,0,2,2,noauthority,2,0,1,NA,0,noauthority,0,ins_all,0
+24,346,Bosnia and Herzegovina,BOS,Zeljko Komsic,47,0,1,0,4,0,2,2,noauthority,2,0,1,NA,0,noauthority,0,ins_all,0
+25,346,Bosnia and Herzegovina,BOS,Silajdzic,48,0,1,0,4,0,1,1,noauthority,1,0,1,NA,0,noauthority,0,ins_all,0
+26,346,Bosnia and Herzegovina,BOS,Radmanovic,49,0,1,0,4,0,2,2,noauthority,2,0,1,NA,0,noauthority,0,ins_all,0
+27,346,Bosnia and Herzegovina,BOS,Zeljko Komsic,50,0,1,0,4,0,4,4,noauthority,4,0,1,NA,0,noauthority,0,ins_all,0
+28,346,Bosnia and Herzegovina,BOS,Ivanic,51,0,1,0,4,0,2,2,noauthority,2,0,1,NA,0,noauthority,0,ins_all,0
+29,346,Bosnia and Herzegovina,BOS,Dragan Covic,52,0,-888,-888,4,0,1,1,noauthority,1,0,1,NA,0,noauthority,0,ins_all,0
+30,710,China,CHN,Deng Xiaoping,74,0,2,0,1,15,18,18,regime,18,0,0,NA,1,dictatorship,0,s_all,0
+31,710,China,CHN,Jiang Zemin,75,0,1,0,1,0,4,7,regime,7,0,0,NA,1,dictatorship,1,shock_t,1
+32,710,China,CHN,Hu Jintao,76,0,1,0,1,0,10,10,regime,2,1,0,NA,1,dictatorship,0,s_all,0
+33,710,China,CHN,Xi Jinping,77,0,1,0,1,0,4,4,regime,4,0,0,NA,1,dictatorship,0,s_all,0
+34,100,Colombia,COL,Arango,79,0,1,0,4,0,5,5,noauthority,5,0,0,NA,0,noauthority,0,i_t_s,0
+35,100,Colombia,COL,Alvaro Uribe Velez,80,0,1,0,4,0,1,9,noauthority,2,1,0,NA,0,noauthority,0,i_t_s,0
+36,816,Vietnam,DRV,Do Muoi,119,0,1,0,1,4,1,7,regime,5,1,0,NA,1,dictatorship,0,s_t_i,1
+37,816,Vietnam,DRV,Phieu,120,0,1,0,1,0,5,5,regime,5,0,0,NA,1,dictatorship,0,s_all,0
+38,816,Vietnam,DRV,Nong Duc Manh,121,0,1,0,1,0,11,11,regime,6,1,0,NA,1,dictatorship,0,s_all,0
+39,816,Vietnam,DRV,Phu Trong,122,0,-888,-888,1,0,5,5,regime,2,1,0,NA,1,dictatorship,0,s_all,0
+40,130,Ecuador,ECU,Gustavo Noboa*,129,1,1,0,1,0,1,4,regime,4,1,1,NA,1,dictatorship,0,s_t_i,1
+41,651,Egypt,EGY,Mubarak,133,0,3,2,1,14,25,31,regime,15,1,1,NA,1,dictatorship,1,shock_t,1
+42,651,Egypt,EGY,Tantawi,134,0,1,0,1,0,1,2,regime,2,0,1,NA,1,dictatorship,0,s_t_i,1
+43,651,Egypt,EGY,Morsi,135,0,3,2,1,0,1,1,regime,1,0,1,NA,1,dictatorship,0,s_t_i,1
+44,651,Egypt,EGY,Mansour,136,1,1,0,1,0,2,2,opposition,2,0,1,NA,0,dictatorship,0,ins_all,0
+45,651,Egypt,EGY,al-Sisi,137,0,-888,-888,1,0,2,2,opposition,2,0,1,NA,0,dictatorship,0,ins_all,0
+46,372,Georgia,GRG,Shevardnadze,146,0,3,2,1,3,12,12,opposition,12,0,1,NA,0,dictatorship,1,shock_t,1
+47,372,Georgia,GRG,Burdjanadze,147,0,1,0,1,0,2,2,unaffiliated,2,0,1,NA,0,dictatorship,0,ins_all,0
+48,850,Indonesia,INS,Suharto,181,1,1,0,1,24,28,28,independent,28,0,1,NA,0,dictatorship,0,ins_all,0
+49,850,Indonesia,INS,Habibie,182,0,1,0,1,0,2,2,unaffiliated,2,0,1,NA,0,dictatorship,0,ins_all,0
+50,663,Jordan,JOR,Hussein Ibn Talal El-Hashim,192,0,2,0,1,24,NA,29,regime,25,1,1,NA,1,dictatorship,0,s_t_i,1
+51,663,Jordan,JOR,Abdullah Ibn Hussein El-Hashimi,193,0,-888,-888,1,0,13,17,regime,1,1,0,NA,1,dictatorship,0,shock_t,1
+52,705,Kazakhstan,KZK,Nazarbaev,194,0,-888,-888,1,5,15,26,regime,21,1,0,NA,1,dictatorship,1,shock_t,1
+53,690,Kuwait,KUW,Jabir As-Sabah,195,0,4,9,1,4,16,16,regime,7,1,1,NA,1,dictatorship,0,ins_all,0
+54,690,Kuwait,KUW,Sheikh Saad Al Abdullah Al Salim Al Sabah,196,0,1,0,1,0,1,1,opposition,1,0,0,NA,0,dictatorship,0,i_t_s,0
+55,690,Kuwait,KUW,Sheikh Sabah Al Ahmad Al Jabir Al Sabah,196,0,-888,-888,1,0,10,10,opposition,1,1,0,NA,0,dictatorship,0,i_t_s,0
+56,660,Lebanon,LEB,Elias Hrawi,209,0,1,0,4,6,10,10,noauthority,7,1,1,NA,0,noauthority,0,ins_all,0
+57,820,Malaysia,MAL,Mahatir Bin Mohammad,232,0,1,0,1,14,15,23,regime,23,0,1,NA,1,dictatorship,0,s_t_i,1
+58,820,Malaysia,MAL,Ahmad Badawi,233,0,1,0,1,0,6,7,regime,1,1,0,NA,1,dictatorship,1,shock_t,1
+59,820,Malaysia,MAL,Najib Tun Razak,234,0,-888,-888,1,0,1,7,regime,3,1,1,NA,1,dictatorship,0,s_t_i,1
+60,70,Mexico,MEX,Zedillo,235,0,1,0,1,1,1,7,regime,2,1,1,NA,1,dictatorship,0,s_t_i,1
+61,712,Mongolia,MON,Ochirbat,249,0,1,0,2,5,8,8,revolt,8,0,1,NA,0,dictatorship,0,ins_all,0
+62,600,Morocco,MOR,Hassan II,253,0,2,0,1,24,25,29,regime,27,1,1,NA,1,dictatorship,0,s_t_i,1
+63,600,Morocco,MOR,Muhammad VI,254,0,-888,-888,1,0,14,17,regime,5,1,0,NA,1,dictatorship,0,shock_t,1
+64,565,Namibia,NAM,Nujoma,255,0,1,0,1,5,14,16,regime,16,1,0,NA,1,dictatorship,0,shock_t,1
+65,565,Namibia,NAM,Pohamba,256,0,1,0,1,0,11,11,regime,11,0,0,NA,1,dictatorship,0,s_all,0
+66,565,Namibia,NAM,Hage Geingob,257,0,-888,-888,1,0,1,1,regime,1,0,0,NA,1,dictatorship,0,s_all,0
+67,790,Nepal,NEP,Sher Bahdur Deuba,265,0,1,0,4,0,2,2,noauthority,2,0,1,NA,0,noauthority,1,ins_all,0
+68,790,Nepal,NEP,Lokendra Bahadur Chand,266,0,1,0,4,0,2,2,noauthority,2,0,1,NA,0,noauthority,0,ins_all,0
+69,790,Nepal,NEP,Surya Bahadur Thapa,267,0,1,0,4,0,2,2,noauthority,2,0,1,NA,0,noauthority,0,ins_all,0
+70,790,Nepal,NEP,Sher Bahdur Deuba,268,0,1,0,4,0,2,2,noauthority,2,0,1,NA,0,noauthority,0,ins_all,0
+71,790,Nepal,NEP,Gyanendra,269,0,3,2,4,0,2,2,noauthority,2,0,1,NA,0,noauthority,0,ins_all,0
+72,698,Oman,OMA,Qabus Bin Said,282,0,-888,-888,1,24,35,45,regime,32,1,1,NA,1,dictatorship,1,shock_t,1
+73,150,Paraguay,PAR,Wasmosy Monti,288,0,1,0,1,2,NA,6,regime,6,0,1,NA,1,dictatorship,0,s_t_i,1
+74,150,Paraguay,PAR,Cubas Grau,289,0,1,0,2,0,1,2,regime,2,0,1,NA,1,dictatorship,0,s_t_i,1
+75,150,Paraguay,PAR,Gonzalez Macchi,290,0,1,0,3,0,5,5,regime,5,0,2,NA,1,dictatorship,1,shock_t,1
+76,150,Paraguay,PAR,Nicanor Duarte Frutos,292,0,1,0,1,0,1,6,regime,2,1,1,NA,1,dictatorship,0,s_t_i,1
+77,135,Peru,PER,Fujimori,296,0,1,0,1,5,11,11,opposition,11,0,1,NA,0,dictatorship,0,ins_all,0
+78,135,Peru,PER,Valentin Paniagua,297,0,1,0,1,0,2,2,unaffiliated,2,0,1,NA,0,dictatorship,0,ins_all,0
+79,694,Qatar,QAT,Khalifah Ath-Thani,316,1,3,8,1,23,24,24,independent,24,0,1,NA,0,dictatorship,0,ins_all,0
+80,694,Qatar,QAT,Hamad ibn Khalifah Al Thani,317,1,1,0,1,0,14,19,opposition,8,1,1,NA,0,dictatorship,0,ins_all,0
+81,365,Russia,RUS,Putin,333,0,-888,-888,3,0,1,16,regime,11,1,1,NA,1,dictatorship,1,s_t_i,1
+82,365,Russia,RUS,Putin,333,0,-888,-888,3,14,15,16,regime,16,0,2,NA,1,dictatorship,1,shock_t,1
+83,670,Saudi Arabia,SAU,Fahd,334,0,2.1,0,1,13,14,15,regime,15,0,1,NA,1,dictatorship,0,s_t_i,1
+84,670,Saudi Arabia,SAU,Abdullah,335,0,2,0,1,0,1,20,regime,7,1,1,NA,1,dictatorship,1,s_t_i,1
+85,670,Saudi Arabia,SAU,Abdullah,335,0,2,0,1,13,20,20,regime,20,0,2,NA,1,dictatorship,1,shock_t,1
+86,670,Saudi Arabia,SAU,Salman bin Abdulaziz Al Saud,336,0,-888,-888,1,0,1,1,regime,1,0,1,NA,1,dictatorship,0,s_t_i,1
+87,572,Swaziland,SWA,Mswati,365,0,-888,-888,0,9,NA,30,regime,20,1,1,NA,1,dictatorship,0,s_t_i,1
+88,652,Syria,SYR,Al-Assad H.,366,0,2,0,1,25,30,31,military,28,1,1,NA,0,dictatorship,0,ins_all,0
+89,652,Syria,SYR,Bashar al-Assad,367,0,-888,-888,1,0,16,16,military,16,0,2,NA,0,dictatorship,1,shock_t,1
+90,616,Tunisia,TUN,Zine Al-Abidine Ben Ali,385,1,3,2,1,8,13,25,coup,25,0,2,NA,0,dictatorship,1,shock_t,1
+91,616,Tunisia,TUN,Zine Al-Abidine Ben Ali,385,1,3,2,1,13,24,25,coup,18,1,2,NA,0,dictatorship,1,shock_t,1
+92,616,Tunisia,TUN,Ghannouchi,386,0,1,2,2,0,1,1,opposition,1,0,1,NA,0,dictatorship,1,ins_all,0
+93,696,United Arab Emirates,UAE,An-Nahayan,402,0,2,0,1,24,34,34,independent,32,1,1,NA,0,dictatorship,0,ins_all,0
+94,696,United Arab Emirates,UAE,Khalifa Al Nahayan,403,0,-888,-888,1,0,10,12,regime,1,1,2,NA,1,dictatorship,1,shock_t,1

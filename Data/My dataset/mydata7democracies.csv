@@ -1,0 +1,312 @@
+ccode,idacr,leader,id,numexit,DICT2,DICT,starttime,shocktime,tenure,political.affiliation,eventtime,event,ugovt,rtpast,DICT3,shocktimet,poleff2,Z
+339,ALB,Berisha,1,1,democratized,2,3,6,6,fullhouse,3,0,fullhouse,,democracy,0,ins_all,1
+339,ALB,Fatos Nano,2,1,democracy,0,0,2,2,fullhouse,2,0,fullhouse,,democracy,0,ins_all,1
+339,ALB,Majko,3,1,democracy,0,0,2,2,fullhouse,2,0,fullhouse,,democracy,0,ins_all,1
+339,ALB,Meta,4,1,democracy,0,0,4,4,fullhouse,4,1,fullhouse,,democracy,0,ins_all,1
+339,ALB,Majko,5,1,democracy,0,0,1,1,fullhouse,1,0,fullhouse,,democracy,0,ins_all,1
+339,ALB,Fatos Nano,6,1,democracy,0,0,4,4,fullhouse,4,0,fullhouse,,democracy,0,ins_all,1
+339,ALB,Berisha,7,1,democracy,0,0,9,9,fullhouse,5,1,fullhouse,,democracy,0,ins_all,1
+339,ALB,Rama,8,-888,democracy,0,0,3,3,fullhouse,3,0,fullhouse,,democracy,0,ins_t_s,1
+160,ARG,Menem,11,1,democracy,0,7,12,12,reelected,4,0,reelected,,democracy,0,ins_all,1
+160,ARG,de la Rua,12,1,democracy,0,0,3,3,Dopposition,3,0,Dopposition,,democracy,0,ins_all,1
+160,ARG,Ramon Puerta,13,1,democracy,0,0,1,1,Dopposition,1,0,Dopposition,,democracy,0,ins_all,1
+160,ARG,Adolfo Rodriguez Saa,14,1,democracy,0,0,2,2,Dopposition,2,0,Dopposition,,democracy,0,ins_all,1
+160,ARG,Eduardo Duhalde,15,1,democracy,0,0,2,2,Notfullhouse,2,0,Notfullhouse,,democracy,0,ins_all,1
+160,ARG,Nestor Kirchner,16,1,democracy,0,0,5,5,Notfullhouse,2,1,Notfullhouse,,democracy,0,ins_t_s,1
+160,ARG,Fernandez de Kirchner,17,1,democracy,0,0,9,9,fullhouse,2,0,fullhouse,,democracy,0,s_all,0
+160,ARG,Mauricio Macri,18,-888,democracy,0,0,1,1,Notfullhouse,5,0,Notfullhouse,,democracy,0,s_all,0
+145,BOL,Gonzalo Sanchez de Lozada,22,1,democracy,0,2,5,5,Notfullhouse,4,1,Notfullhouse,,democracy,1,ins_all,1
+145,BOL,Banzer Suarez,23,2.099999905,democracy,0,0,5,5,Notfullhouse,5,0,Notfullhouse,,democracy,0,ins_t_s,1
+145,BOL,Jorge Quiroga Ramirez,24,1,democracy,0,0,2,2,Notfullhouse,2,0,Notfullhouse,,democracy,0,s_all,0
+145,BOL,Gonzalo Sanchez de Lozada,25,1,democracy,0,0,2,2,Notfullhouse,2,1,Notfullhouse,,democracy,1,s_all,0
+145,BOL,Carlos Mesa,26,1,democracy,0,0,3,3,Notfullhouse,2,1,Notfullhouse,,democracy,1,shockt,1
+145,BOL,Enrique Rodriguez,27,1,democracy,0,2,2,2,Notfullhouse,2,0,Notfullhouse,,democracy,0,ins_all,1
+145,BOL,Juan Morales,28,-888,democracy,0,0,10,10,Notfullhouse,5,0,Notfullhouse,,democracy,0,ins_all,1
+571,BOT,Masire,53,1,democracy,0,15,19,19,fullhouse,4,0,fullhouse,,democracy,0,ins_all,1
+571,BOT,Mogae,54,1,democracy,0,0,11,11,fullhouse,8,1,fullhouse,,democracy,1,s_all,0
+571,BOT,Ian Khama,55,-888,democracy,0,0,8,8,fullhouse,8,0,fullhouse,,democracy,0,s_all,0
+140,BRA,Cardoso,56,1,democracy,0,0,9,9,Notfullhouse,9,0,Notfullhouse,,democracy,0,s_all,0
+140,BRA,Lula da Silva,57,1,democracy,0,0,9,9,Notfullhouse,2,1,Notfullhouse,,democracy,1,s_all,0
+140,BRA,Rousseff,58,-888,democracy,0,0,5,5,reelected,5,0,reelected,,democracy,0,s_all,0
+355,BUL,Indzhova,59,1,democracy,0,0,2,2,Notfullhouse,2,0,Notfullhouse,,democracy,0,ins_all,1
+355,BUL,Videnov,60,1,democracy,0,0,3,3,fullhouse,3,0,fullhouse,,democracy,0,ins_all,1
+355,BUL,Sofiyanski,61,1,democracy,0,0,1,1,fullhouse,1,0,fullhouse,,democracy,0,ins_all,1
+355,BUL,Kostov,62,1,democracy,0,0,5,5,fullhouse,5,1,fullhouse,,democracy,1,ins_all,1
+355,BUL,Saksgoburggotski,63,1,democracy,0,0,5,5,fullhouse,5,0,fullhouse,,democracy,0,ins_t_s,1
+355,BUL,Stanishev,64,1,democracy,0,0,5,5,Notfullhouse,5,0,Notfullhouse,,democracy,0,s_all,0
+355,BUL,Boyko Borisov,65,1,democracy,0,0,5,5,Notfullhouse,5,0,Notfullhouse,,democracy,0,s_all,0
+355,BUL,Oresharski,66,1,democracy,0,0,2,2,Notfullhouse,2,0,Notfullhouse,,democracy,0,s_all,0
+355,BUL,Bliznashki,67,1,democracy,0,0,1,1,Notfullhouse,1,0,Notfullhouse,,democracy,0,s_all,0
+355,BUL,Boyko Borisov,68,-888,democracy,0,0,2,2,Notfullhouse,2,0,Notfullhouse,,democracy,0,s_all,0
+155,CHL,Frei Ruiz-Tagle,69,1,democracy,0,1,7,7,Notfullhouse,3,1,Notfullhouse,,democracy,1,ins_t_s,1
+155,CHL,Ricardo Lagos Escobar,70,1,democracy,0,0,7,7,Notfullhouse,1,1,Notfullhouse,,democracy,1,s_all,0
+155,CHL,Michelle Bachelet,71,1,democracy,0,0,5,5,fullhouse,2,1,fullhouse,,democracy,1,s_all,0
+155,CHL,Sebastian Pi<f1>era,72,1,democracy,0,0,5,5,Dopposition,5,0,Dopposition,,democracy,0,s_all,0
+155,CHL,Michelle Bachelet,73,-888,democracy,0,0,2,2,Notfullhouse,2,0,Notfullhouse,,democracy,0,s_all,0
+100,COL,Pizano,78,1,democracy,0,1,5,5,Notfullhouse,4,0,Notfullhouse,,democracy,0,s_all,0
+100,COL,Santos Calderon,81,-888,democracy,0,0,6,6,Notfullhouse,2,1,Notfullhouse,,democracy,1,s_all,0
+94,COS,Figueres Olsen,87,1,democracy,0,1,5,5,Notfullhouse,4,0,Notfullhouse,,democracy,0,s_all,0
+94,COS,Rodriguez Echeverria,88,1,democracy,0,0,5,5,Notfullhouse,2,1,Notfullhouse,,democracy,1,s_all,0
+94,COS,de la Espriella,89,1,democracy,0,0,5,5,Notfullhouse,1,1,Notfullhouse,,democracy,1,s_all,0
+94,COS,Arias,90,1,democracy,0,0,5,5,Notfullhouse,3,1,Notfullhouse,,democracy,1,s_all,0
+94,COS,Laura Chinchilla Miranda,91,1,democracy,0,0,5,5,Notfullhouse,3,1,Notfullhouse,,democracy,1,s_all,0
+94,COS,Solis Rivera,92,-888,democracy,0,0,2,2,Notfullhouse,2,0,Notfullhouse,,democracy,0,s_all,0
+344,CRO,Tudjman,93,2,democracy,0,5,10,10,reelected,5,0,reelected,,democracy,0,ins_all,1
+344,CRO,Pavletic,94,1,democracy,0,0,2,2,fullhouse,2,0,fullhouse,,democracy,0,ins_all,1
+344,CRO,Tomcic,95,1,democracy,0,6,1,1,fullhouse,1,0,fullhouse,,democracy,0,ins_all,1
+344,CRO,Mesic,96,1,democracy,0,0,11,11,fullhouse,1,1,fullhouse,,democracy,1,ins_all,1
+344,CRO,Josipovic,97,1,democracy,0,0,6,6,fullhouse,6,0,fullhouse,,democracy,0,s_all,0
+344,CRO,Kolinda Grabar-Kitarovic,98,-888,democracy,0,0,1,1,fullhouse,1,0,fullhouse,,democracy,0,s_all,0
+352,CYP,Clerides,99,1,democracy,0,2,11,11,Notfullhouse,9,0,Notfullhouse,,democracy,0,s_all,0
+352,CYP,Tassos Nikolaou Papadopoulos,100,1,democracy,0,0,6,6,Notfullhouse,6,0,Notfullhouse,,democracy,0,s_all,0
+352,CYP,Dimitris Christofias,101,1,democracy,0,0,6,6,Notfullhouse,6,0,Notfullhouse,,democracy,0,s_all,0
+352,CYP,Anastasiades,102,-888,democracy,0,0,3,3,Notfullhouse,3,0,Notfullhouse,,democracy,0,s_all,0
+316,CZR,Klaus,103,1,democratized,2,2,5,5,Notfullhouse,4,1,Notfullhouse,,democracy,1,ins_all,1
+316,CZR,Tosovsky,104,1,democracy,0,0,2,2,Notfullhouse,2,0,Notfullhouse,,democracy,0,ins_all,1
+316,CZR,Zeman,105,1,democracy,0,0,5,5,Notfullhouse,5,0,Notfullhouse,,democracy,0,ins_all,1
+316,CZR,Spidla,106,1,democracy,0,0,3,3,Notfullhouse,3,0,Notfullhouse,,democracy,0,ins_t_s,1
+316,CZR,Stanislav Gross,107,1,democracy,0,0,2,2,Notfullhouse,2,0,Notfullhouse,,democracy,0,s_all,0
+316,CZR,Paroubek,108,1,democracy,0,0,2,2,Notfullhouse,2,0,Notfullhouse,,democracy,0,s_all,0
+316,CZR,Topolanek,109,1,democracy,0,0,4,4,Notfullhouse,4,0,Notfullhouse,,democracy,0,s_all,0
+316,CZR,Fischer,110,1,democracy,0,0,2,2,Notfullhouse,2,0,Notfullhouse,,democracy,0,s_all,0
+316,CZR,Necas,111,1,democracy,0,0,4,4,NA,4,0,NA,,democracy,0,s_all,0
+316,CZR,Rusnok,112,1,democracy,0,0,1,1,NA,1,0,NA,,democracy,0,s_all,0
+316,CZR,Sobotka,113,-888,democracy,0,0,2,2,NA,2,0,NA,,democracy,0,s_all,0
+42,DOM,Balaguer,114,1,democracy,0,9,11,11,reelected,2,0,reelected,,democracy,0,ins_all,1
+42,DOM,Fernandez Reyna,115,1,democracy,0,0,5,5,Notfullhouse,2,1,Notfullhouse,,democracy,1,ins_all,1
+42,DOM,Hipolito Mejia,116,1,democracy,0,0,5,5,Notfullhouse,5,0,Notfullhouse,,democracy,0,ins_all,1
+42,DOM,Fernandez Reyna,117,1,democracy,0,0,8,8,Notfullhouse,5,1,Notfullhouse,,democracy,1,ins_t_s,1
+42,DOM,Medina,118,-888,democracy,0,0,4,4,Notfullhouse,4,0,Notfullhouse,,democracy,0,s_all,0
+130,ECU,Duran Ballen,123,1,democracy,0,3,5,5,Notfullhouse,2,0,Notfullhouse,,democracy,0,s_all,0
+130,ECU,Bucaram Ortiz,124,1,democracy,0,0,2,2,Notfullhouse,2,0,Notfullhouse,,democracy,0,s_all,0
+130,ECU,Alarcon Fabian,125,1,democracy,0,0,1,1,Notfullhouse,1,0,Notfullhouse,,democracy,0,s_all,0
+130,ECU,Arteaga Serrano,126,1,democracy,0,0,1,1,Notfullhouse,1,0,Notfullhouse,,democracy,0,s_all,0
+130,ECU,Alarcon Fabian,127,1,democracy,0,0,2,2,Notfullhouse,2,0,Notfullhouse,,democracy,0,s_all,0
+130,ECU,Mahuad,128,3,democracy,0,0,3,3,Notfullhouse,3,0,Notfullhouse,,democracy,0,shockt,1
+130,ECU,Lucio Gutierrez,130,1,democracy,0,0,3,3,Notfullhouse,2,1,Notfullhouse,,democracy,1,ins_all,1
+130,ECU,Alfredo Palacio,131,1,democracy,0,0,3,3,Notfullhouse,3,0,Notfullhouse,,democracy,0,ins_all,1
+130,ECU,Rafael Correa,132,-888,democracy,0,0,9,9,Notfullhouse,6,1,Notfullhouse,,democracy,1,ins_all,1
+366,EST,Tarand,138,1,democracy,0,1,2,2,fullhouse,2,1,fullhouse,,democracy,1,ins_all,1
+366,EST,Vahi,139,1,democracy,0,0,3,3,fullhouse,3,0,fullhouse,,democracy,0,ins_all,1
+366,EST,Siimann,140,1,democracy,0,0,3,3,fullhouse,3,0,fullhouse,,democracy,0,ins_all,1
+366,EST,Laar,141,1,democracy,0,0,4,4,fullhouse,4,0,fullhouse,,democracy,0,ins_all,1
+366,EST,Kallas,142,1,democracy,0,0,2,2,Notfullhouse,2,0,Notfullhouse,,democracy,0,ins_all,1
+366,EST,Parts,143,1,democracy,0,0,3,3,Notfullhouse,3,0,Notfullhouse,,democracy,0,ins_all,1
+366,EST,Ansip,144,1,democracy,0,0,10,10,Notfullhouse,10,0,Notfullhouse,,democracy,0,ins_t_s,1
+366,EST,Roivas,145,-888,democracy,0,0,2,2,Notfullhouse,2,0,Notfullhouse,,democracy,0,s_all,0
+372,GRG,Saakashvili,148,3,democracy,1,0,1,10,fullhouse,9,1,fullhouse,,democracy,1,ins_all,1
+372,GRG,Margvelashvili,149,-888,democracy,0,0,3,3,fullhouse,3,0,fullhouse,,democracy,0,ins_all,1
+90,GUA,Leon Carpio,150,1,democracy,0,2,4,4,Notfullhouse,2,0,Notfullhouse,,democracy,0,ins_all,1
+90,GUA,Arzu Yrigoyen,151,1,democracy,0,0,5,5,fullhouse,5,0,fullhouse,,democracy,0,ins_all,1
+90,GUA,Alfonso Portillo Cabrera,152,1,democracy,0,0,5,5,fullhouse,5,0,fullhouse,,democracy,0,ins_all,1
+90,GUA,Berger Perdomo,153,1,democracy,0,0,5,5,Notfullhouse,1,1,Notfullhouse,,democracy,1,ins_t_s,1
+90,GUA,Colom Caballeros,154,1,democracy,0,0,5,5,Notfullhouse,5,0,Notfullhouse,,democracy,0,s_all,0
+90,GUA,Perez Molina,155,-888,democracy,0,0,4,4,Notfullhouse,1,1,Notfullhouse,,democracy,1,s_all,0
+110,GUY,Jagan Cheddi,156,2,democratized,2,0,3,6,fullhouse,3,0,fullhouse,,democracy,0,ins_all,1
+110,GUY,Samuel Hinds,157,1,democracy,0,0,1,1,fullhouse,1,0,fullhouse,,democracy,0,ins_all,1
+110,GUY,Janet Jagan,158,2.099999905,democracy,0,0,3,3,fullhouse,3,0,fullhouse,,democracy,0,ins_all,1
+110,GUY,Bharrat Jagdeo,159,1,democracy,0,0,13,13,fullhouse,10,1,fullhouse,,democracy,1,ins_t_s,1
+110,GUY,Ramotar,160,1,democracy,0,0,5,5,fullhouse,5,0,fullhouse,,democracy,0,s_all,0
+91,HON,Reina,161,1,democracy,0,0,4,4,fullhouse,4,0,fullhouse,,democracy,0,s_all,0
+91,HON,Flores Facusse,162,1,democracy,0,0,5,5,fullhouse,5,0,fullhouse,,democracy,0,ins_all,1
+91,HON,Ricardo Maduro,163,1,democracy,0,0,5,5,Notfullhouse,5,0,Notfullhouse,,democracy,0,ins_all,1
+91,HON,Zelaya,164,3,democracy,0,0,4,4,Notfullhouse,4,0,Notfullhouse,,democracy,0,ins_all,1
+91,HON,Micheletti,165,1,democracy,0,0,2,2,Notfullhouse,2,0,Notfullhouse,,democracy,0,ins_all,1
+91,HON,Lobo,166,1,democracy,0,0,5,5,fullhouse,3,1,fullhouse,,democracy,1,ins_all,1
+91,HON,Hern<e1>ndez,167,-888,democracy,0,0,2,2,fullhouse,2,0,fullhouse,,democracy,0,ins_all,1
+310,HUN,Horn,168,1,democracy,0,1,5,5,Notfullhouse,4,0,Notfullhouse,,democracy,0,ins_all,1
+310,HUN,Orban,169,1,democracy,0,0,5,5,Notfullhouse,5,0,Notfullhouse,,democracy,0,ins_t_s,1
+310,HUN,Peter Medgyessy,170,1,democracy,0,0,3,3,Notfullhouse,3,0,Notfullhouse,,democracy,0,s_all,0
+310,HUN,Ferenc Gyurcsany,171,1,democracy,0,0,6,6,Notfullhouse,6,0,Notfullhouse,,democracy,0,s_all,0
+310,HUN,Bajnai,172,1,democracy,0,0,2,2,Notfullhouse,2,0,Notfullhouse,,democracy,0,s_all,0
+310,HUN,Orban,173,-888,democracy,0,0,0,6,Notfullhouse,6,0,Notfullhouse,,democracy,0,s_all,0
+750,IND,Rao,174,1,democracy,0,4,6,6,Notfullhouse,2,0,Notfullhouse,,democracy,0,ins_all,1
+750,IND,Vajpayee,175,1,democracy,0,0,1,1,Notfullhouse,1,0,Notfullhouse,,democracy,0,ins_all,1
+750,IND,Gowda,176,1,democracy,0,0,1,2,Notfullhouse,1,0,Notfullhouse,,democracy,0,ins_all,1
+750,IND,Gujral,177,1,democracy,0,0,2,2,Notfullhouse,2,0,Notfullhouse,,democracy,0,ins_all,1
+750,IND,Vajpayee,178,1,democracy,0,0,7,7,Notfullhouse,6,1,Notfullhouse,,democracy,1,ins_t_s,1
+750,IND,Manmohan Singh,179,1,democracy,0,0,11,11,Notfullhouse,1,1,Notfullhouse,,democracy,1,s_all,0
+750,IND,Narendra Modi,180,-888,democracy,0,0,2,2,Notfullhouse,1,1,Notfullhouse,,democracy,1,s_all,0
+850,INS,Wahid,183,1,democratized,2,1,3,3,Notfullhouse,2,0,Notfullhouse,,democracy,0,ins_all,1
+850,INS,Megawati Sukarnoputri,184,1,democracy,0,0,4,4,Notfullhouse,4,0,Notfullhouse,,democracy,0,ins_all,1
+850,INS,Bambang Yudhoyono,185,1,democracy,0,0,0,11,Notfullhouse,2,1,Notfullhouse,,democracy,1,ins_t_s,1
+850,INS,Joko Widodo,186,-888,democracy,0,0,2,2,fullhouse,2,0,fullhouse,,democracy,0,s_all,0
+51,JAM,Patterson,187,1,democracy,0,3,15,15,fullhouse,12,0,fullhouse,,democracy,0,s_all,0
+51,JAM,Simpson-Miller,188,1,democracy,0,0,2,2,fullhouse,2,0,fullhouse,,democracy,0,s_all,0
+51,JAM,Golding,189,1,democracy,0,0,1,1,fullhouse,1,0,fullhouse,,democracy,0,s_all,0
+51,JAM,Holness,190,1,democracy,0,0,5,5,fullhouse,1,1,fullhouse,,democracy,1,s_all,0
+51,JAM,Simpson-Miller,191,-888,democracy,0,0,4,4,fullhouse,4,0,fullhouse,,democracy,0,s_all,0
+367,LAT,Gailis,197,1,democracy,0,1,2,2,Notfullhouse,1,1,Notfullhouse,,democracy,1,ins_all,1
+367,LAT,Skele,198,1,democracy,0,0,3,3,Notfullhouse,3,0,Notfullhouse,,democracy,0,ins_all,1
+367,LAT,Krasts,199,1,democracy,0,0,2,2,Notfullhouse,2,0,Notfullhouse,,democracy,0,ins_all,1
+367,LAT,Kristopans,200,1,democracy,0,0,2,2,Notfullhouse,2,0,Notfullhouse,,democracy,0,ins_all,1
+367,LAT,Skele,201,1,democracy,0,0,2,2,Notfullhouse,2,0,Notfullhouse,,democracy,0,ins_all,1
+367,LAT,Berzins,202,1,democracy,0,0,3,3,Notfullhouse,3,0,Notfullhouse,,democracy,0,ins_t_s,1
+367,LAT,Repse,203,1,democracy,0,0,3,3,Notfullhouse,3,0,Notfullhouse,,democracy,0,s_all,0
+367,LAT,Indulis Emsis,204,1,democracy,0,0,1,1,Notfullhouse,1,0,Notfullhouse,,democracy,0,s_all,0
+367,LAT,Aigars Kalvitis,205,1,democracy,0,0,4,4,Notfullhouse,4,0,Notfullhouse,,democracy,0,s_all,0
+367,LAT,Godmanis,206,1,democracy,0,0,3,3,Notfullhouse,3,0,Notfullhouse,,democracy,0,s_all,0
+367,LAT,Dombrovskis,207,1,democracy,0,0,6,6,Notfullhouse,6,0,Notfullhouse,,democracy,0,s_all,0
+367,LAT,Lamdota Straujuma,208,-888,democracy,0,0,1,1,Notfullhouse,1,0,Notfullhouse,,democracy,0,s_all,0
+660,LEB,Emile Lahoud,210,1,democracy,0,7,10,10,Notfullhouse,3,0,Notfullhouse,,democracy,0,ins_all,1
+660,LEB,Siniora,211,3,democracy,0,0,2,2,Notfullhouse,2,0,Notfullhouse,,democracy,0,ins_all,1
+660,LEB,Suleiman,212,1,democracy,0,0,7,7,Notfullhouse,7,0,Notfullhouse,,democracy,0,ins_all,1
+660,LEB,Salam,213,-888,democracy,0,0,2,2,Notfullhouse,2,0,Notfullhouse,,democracy,0,ins_all,1
+570,LES,Mokhehle,214,1,democracy,0,0,5,5,Notfullhouse,5,0,Notfullhouse,,democracy,0,ins_all,1
+570,LES,Mosisili,215,1,democracy,0,0,15,15,Notfullhouse,8,1,Notfullhouse,,democracy,1,ins_all,1
+570,LES,Thabane,216,1,democracy,0,0,4,4,fullhouse,4,0,fullhouse,,democracy,0,ins_all,1
+570,LES,Pakalitha Mosisili,217,-888,democracy,0,0,1,1,fullhouse,1,0,fullhouse,,democracy,0,ins_all,1
+368,LIT,Brazauskas,218,1,democracy,0,3,7,7,fullhouse,4,0,fullhouse,,democracy,0,ins_all,1
+368,LIT,Adamkus,219,1,democracy,0,0,6,6,Notfullhouse,6,0,Notfullhouse,,democracy,0,ins_t_s,1
+368,LIT,Paksas,220,1,democracy,0,0,2,2,Notfullhouse,2,0,Notfullhouse,,democracy,0,shockt,1
+368,LIT,Paulauskas,221,1,democracy,0,0,1,1,Notfullhouse,1,0,Notfullhouse,,democracy,0,ins_all,1
+368,LIT,Adamkus,222,1,democracy,0,0,6,6,Notfullhouse,6,0,Notfullhouse,,democracy,0,ins_all,1
+368,LIT,Grybauskaite,223,-888,democracy,0,0,7,7,Notfullhouse,7,0,Notfullhouse,,democracy,0,ins_all,1
+343,MAC,Crvenkovski,224,1,democracy,0,3,7,7,fullhouse,4,0,fullhouse,,democracy,0,ins_all,1
+343,MAC,Georgievski,225,1,democracy,0,0,5,5,Notfullhouse,3,1,Notfullhouse,,democracy,1,ins_t_s,1
+343,MAC,Crvenkovski,226,1,democracy,0,0,3,3,Notfullhouse,3,0,Notfullhouse,,democracy,0,ins_all,1
+343,MAC,Radmila Sekerinska,227,1,democracy,0,0,1,1,fullhouse,1,0,fullhouse,,democracy,0,ins_all,1
+343,MAC,Hari Kostov,228,1,democracy,0,0,1,1,fullhouse,1,0,fullhouse,,democracy,0,ins_all,1
+343,MAC,Radmila Sekerinska,229,1,democracy,0,0,1,1,fullhouse,1,0,fullhouse,,democracy,0,ins_all,1
+343,MAC,Vlado Buckovski,230,1,democracy,0,0,3,3,fullhouse,3,0,fullhouse,,democracy,0,ins_all,1
+343,MAC,Gruevski,231,-888,democracy,0,0,10,10,Notfullhouse,10,0,Notfullhouse,,democracy,0,ins_t_s,1
+70,MEX,Vicente Fox Quesada,236,1,democratized,2,0,7,7,Notfullhouse,1,1,Notfullhouse,,democracy,1,ins_all,1
+70,MEX,Calderon,237,1,democracy,0,0,7,7,Notfullhouse,7,0,Notfullhouse,,democracy,0,s_all,0
+70,MEX,Enrique Pena Nieto,238,-888,democracy,0,0,4,4,fullhouse,4,0,fullhouse,,democracy,0,s_all,0
+359,MLD,Snegur,239,1,democracy,0,5,8,8,fullhouse,3,0,fullhouse,,democracy,0,ins_all,1
+359,MLD,Lucinschi,240,1,democracy,0,0,5,5,Notfullhouse,5,0,Notfullhouse,,democracy,0,ins_t_s,1
+359,MLD,Tarlev,241,1,democracy,0,0,7,8,fullhouse,7,0,fullhouse,,democracy,0,shockt,1
+359,MLD,Greceanii,242,1,democracy,0,0,2,2,fullhouse,2,0,fullhouse,,democracy,0,ins_all,1
+359,MLD,Pirlog,243,1,democracy,0,0,1,1,fullhouse,1,0,fullhouse,,democracy,0,ins_all,1
+359,MLD,Vlad Filat,244,1,democracy,0,0,5,5,Notfullhouse,5,0,Notfullhouse,,democracy,0,ins_all,1
+359,MLD,Iurie Leanca,245,1,democracy,0,0,3,3,Notfullhouse,2,1,Notfullhouse,,democracy,1,ins_all,1
+359,MLD,Chiril Gaburici,246,1,democracy,0,0,1,1,Notfullhouse,1,0,Notfullhouse,,democracy,0,ins_all,1
+359,MLD,Natalia Gherman,247,1,democracy,0,0,1,1,Notfullhouse,1,0,Notfullhouse,,democracy,0,ins_all,1
+359,MLD,Valeriu Strelet,248,1,democracy,0,0,1,1,Notfullhouse,1,0,Notfullhouse,,democracy,0,ins_all,1
+712,MON,Bagabandi,250,1,democracy,0,0,9,9,Notfullhouse,9,0,Notfullhouse,,democracy,0,ins_t_s,1
+712,MON,Enkhbayar,251,1,democracy,0,0,5,5,Notfullhouse,5,0,Notfullhouse,,democracy,0,s_all,0
+712,MON,Elbegdorj,252,-888,democracy,0,0,7,7,Notfullhouse,7,1,Notfullhouse,,democracy,1,s_all,0
+790,NEP,Man Mohan Adhilari,258,1,democracy,0,1,2,2,fullhouse,1,0,fullhouse,,democracy,0,ins_all,1
+790,NEP,Sher Bahadur Deuba,259,1,democracy,0,0,3,3,Notfullhouse,3,0,Notfullhouse,,democracy,0,ins_all,1
+790,NEP,Lokendra Bahadur Chand,260,1,democracy,0,0,1,1,Notfullhouse,1,0,Notfullhouse,,democracy,0,ins_all,1
+790,NEP,Surya  Bahadur Thapa,261,1,democracy,0,0,2,2,Notfullhouse,2,0,Notfullhouse,,democracy,0,ins_all,1
+790,NEP,Girija Prasad Koirala,262,1,democracy,0,0,2,2,fullhouse,2,0,fullhouse,,democracy,0,ins_all,1
+790,NEP,Krishna Prasad Bhatterai,263,1,democracy,0,0,2,2,fullhouse,2,0,fullhouse,,democracy,0,ins_all,1
+790,NEP,Girija Prasad Koirala,264,1,democracy,0,0,3,3,fullhouse,1,1,fullhouse,,democracy,1,ins_all,1
+790,NEP,Prachanda,271,1,democracy,0,0,2,2,Notfullhouse,2,0,Notfullhouse,,democracy,0,ins_all,1
+790,NEP,Madhav Kumar Nepal,272,1,democracy,0,0,3,3,Notfullhouse,3,0,Notfullhouse,,democracy,0,ins_all,1
+790,NEP,Nath Khanal,273,1,democracy,0,0,1,1,Notfullhouse,1,0,Notfullhouse,,democracy,0,ins_all,1
+790,NEP,Bhattarai,274,1,democracy,0,0,3,3,Notfullhouse,3,0,Notfullhouse,,democracy,0,ins_all,1
+790,NEP,Khil Raj Regmi,275,1,democracy,0,0,2,2,Notfullhouse,2,0,Notfullhouse,,democracy,0,ins_all,1
+790,NEP,Sushil Koirala,276,1,democracy,0,0,2,2,Notfullhouse,2,0,Notfullhouse,,democracy,0,ins_all,1
+790,NEP,Khadga Prasad Sharma Oli,277,-888,democracy,0,0,1,1,Notfullhouse,1,0,Notfullhouse,,democracy,0,ins_all,1
+93,NIC,Violeta Chamorro,278,1,transition,2,5,8,8,Notfullhouse,3,0,Notfullhouse,,democracy,0,ins_all,1
+93,NIC,Aleman,279,1,democracy,0,0,6,6,Notfullhouse,6,0,Notfullhouse,,democracy,0,ins_t_s,1
+93,NIC,Enrique Bolanos,280,1,democracy,0,0,6,6,fullhouse,3,1,fullhouse,,democracy,1,s_all,0
+93,NIC,Daniel Ortega,281,-888,democracy,0,0,9,9,fullhouse,6,1,fullhouse,,democracy,1,shockt,1
+95,PAN,Balladares,283,1,democratized,0,1,6,6,Notfullhouse,5,0,Notfullhouse,,democracy,0,ins_all,1
+95,PAN,Mireya Moscoso,284,1,democracy,0,0,6,6,Dopposition,2,1,Dopposition,,democracy,1,ins_all,1
+95,PAN,Martin Torrijos,285,1,democracy,0,0,1,1,Dopposition,1,0,Dopposition,,democracy,0,ins_all,1
+95,PAN,Martinelli,286,1,democracy,0,0,10,10,Notfullhouse,8,1,Notfullhouse,,democracy,1,ins_t_s,1
+95,PAN,Varela Rodriguez,287,-888,democracy,0,0,2,2,Notfullhouse,1,1,Notfullhouse,,democracy,1,s_all,0
+135,PER,Alejandro Toledo,298,1,democratized,2,1,6,6,Notfullhouse,3,1,Notfullhouse,,democracy,1,ins_all,1
+135,PER,Garcia Perez,299,1,democracy,0,0,6,6,Notfullhouse,1,1,Notfullhouse,,democracy,1,ins_t_s,1
+135,PER,Ollanta Humala,300,-888,democracy,0,0,5,5,Notfullhouse,5,0,Notfullhouse,,democracy,0,s_all,0
+840,PHI,Ramos,301,1,democracy,0,3,7,7,fullhouse,4,0,fullhouse,,democracy,0,ins_all,1
+840,PHI,Estrada,302,1,democracy,0,0,4,4,Notfullhouse,4,0,Notfullhouse,,democracy,0,ins_all,1
+840,PHI,Gloria Macapagal-Arroyo,303,1,democracy,0,0,10,10,Notfullhouse,2,1,Notfullhouse,,democracy,1,ins_all,1
+840,PHI,Benigno Aquino III,304,-888,democracy,0,0,6,6,Notfullhouse,6,1,Notfullhouse,,democracy,1,ins_all,1
+290,POL,Walesa,305,1,democratized,2,5,6,6,Notfullhouse,1,0,Notfullhouse,,democracy,0,ins_all,1
+290,POL,Kwasniewski,306,1,democracy,0,0,11,11,fullhouse,11,0,fullhouse,,democracy,0,ins_t_s,1
+290,POL,Kaczynski,307,2,democracy,0,0,6,6,Notfullhouse,6,0,Notfullhouse,,democracy,0,s_all,0
+290,POL,Komorowski,308,1,democracy,0,0,1,1,Notfullhouse,1,0,Notfullhouse,,democracy,0,s_all,0
+290,POL,Borusewicz,309,1,democracy,0,0,1,1,Notfullhouse,1,0,Notfullhouse,,democracy,0,s_all,0
+290,POL,Schetyna,310,1,democracy,0,0,1,1,Notfullhouse,1,0,Notfullhouse,,democracy,0,s_all,0
+290,POL,Komorowski,311,1,democracy,0,0,6,6,Notfullhouse,6,0,Notfullhouse,,democracy,0,s_all,0
+235,POR,Soares,312,1,democracy,0,9,11,11,Notfullhouse,2,0,Notfullhouse,,democracy,0,s_all,0
+235,POR,Sampaio,313,1,democracy,0,0,11,11,Notfullhouse,11,0,Notfullhouse,,democracy,0,s_all,0
+235,POR,Cavaco Silva,315,-888,democracy,0,0,10,10,fullhouse,10,0,fullhouse,,democracy,0,s_all,0
+360,RUM,Vacariou,319,1,democracy,0,3,5,5,Notfullhouse,2,0,Notfullhouse,,democracy,0,ins_all,1
+360,RUM,Ciorbea,320,1,democracy,0,0,3,3,Notfullhouse,3,0,Notfullhouse,,democracy,0,ins_all,1
+360,RUM,Dejeu,321,1,democracy,0,0,1,1,Notfullhouse,1,0,Notfullhouse,,democracy,0,ins_all,1
+360,RUM,Vasile,322,1,democracy,0,0,2,2,Notfullhouse,2,0,Notfullhouse,,democracy,0,ins_all,1
+360,RUM,Athanasiu,323,1,democracy,0,0,1,1,Notfullhouse,1,0,Notfullhouse,,democracy,0,ins_all,1
+360,RUM,Isarescu,324,1,democracy,0,0,2,2,Notfullhouse,2,0,Notfullhouse,,democracy,0,ins_all,1
+360,RUM,A. Nastase,325,1,democracy,0,0,5,5,Notfullhouse,2,1,Notfullhouse,,democracy,1,ins_all,1
+360,RUM,Eugen Bejinariu,326,1,democracy,0,0,1,1,Notfullhouse,1,0,Notfullhouse,,democracy,0,ins_all,1
+360,RUM,Traian Basescu,327,1,democracy,0,0,4,4,Notfullhouse,4,0,Notfullhouse,,democracy,0,ins_t_s,1
+360,RUM,Vacariou,328,1,democracy,0,0,1,1,Notfullhouse,1,0,Notfullhouse,,democracy,0,s_all,0
+360,RUM,Traian Basescu,329,1,democracy,0,0,6,6,Notfullhouse,6,0,Notfullhouse,,democracy,0,s_all,0
+360,RUM,Crin Antonescu,330,1,democracy,0,0,1,1,Notfullhouse,1,0,Notfullhouse,,democracy,0,s_all,0
+360,RUM,Traian Basescu,331,-888,democracy,0,0,3,3,Notfullhouse,3,0,Notfullhouse,,democracy,0,s_all,0
+365,RUS,Yeltsin,332,1,democratized,2,4,9,9,Notfullhouse,5,0,Notfullhouse,,democracy,0,ins_all,1
+317,SLO,Meciar,337,1,democracy,0,1,5,5,fullhouse,3,1,fullhouse,,democracy,1,ins_all,1
+317,SLO,Dzurinda,338,1,democracy,0,0,9,9,Notfullhouse,9,0,Notfullhouse,,democracy,0,ins_t_s,1
+317,SLO,Fico,339,1,democracy,0,0,5,5,Notfullhouse,5,0,Notfullhouse,,democracy,0,s_all,0
+317,SLO,Radicova,340,1,democracy,0,0,3,3,Notfullhouse,3,0,Notfullhouse,,democracy,0,s_all,0
+317,SLO,Fico,341,-888,democracy,0,0,4,4,Notfullhouse,4,0,Notfullhouse,,democracy,0,s_all,0
+349,SLV,Drnovsek,342,1,democracy,0,3,9,9,Notfullhouse,4,1,Notfullhouse,,democracy,1,ins_all,1
+349,SLV,Bajuk,343,1,democracy,0,0,1,1,Notfullhouse,1,0,Notfullhouse,,democracy,0,ins_all,1
+349,SLV,Drnovsek,344,1,democracy,0,0,3,3,reelected,3,0,reelected,,democracy,0,s_all,0
+349,SLV,Anton Rop,345,1,democracy,0,0,3,3,Notfullhouse,3,0,Notfullhouse,,democracy,0,s_all,0
+349,SLV,Janez Jansa,346,1,democracy,0,0,5,5,Notfullhouse,5,0,Notfullhouse,,democracy,0,s_all,0
+349,SLV,Borut Pahor,347,1,democracy,0,0,5,5,Notfullhouse,5,0,Notfullhouse,,democracy,0,s_all,0
+349,SLV,Janez Jansa,348,1,democracy,0,0,2,2,Notfullhouse,2,0,Notfullhouse,,democracy,0,s_all,0
+349,SLV,Bratusek,349,1,democracy,0,0,2,2,Notfullhouse,2,0,Notfullhouse,,democracy,0,s_all,0
+349,SLV,Cerar,350,-888,democracy,0,0,2,2,Notfullhouse,2,0,Notfullhouse,,democracy,0,s_all,0
+560,SAF,Mandela,351,1,democratized,2,1,6,6,fullhouse,2,1,fullhouse,,democracy,1,ins_all,1
+560,SAF,Mbeki,352,1,democracy,0,0,10,10,fullhouse,7,1,fullhouse,,democracy,1,ins_t_s,1
+560,SAF,Motlanthe,353,1,democracy,0,0,2,2,fullhouse,2,0,fullhouse,,democracy,0,ins_all,1
+560,SAF,Zuma,354,-888,democracy,0,0,4,7,fullhouse,7,0,fullhouse,,democracy,0,shockt,1
+92,SAL,Calderon Sol,355,1,democracy,0,1,6,6,Notfullhouse,5,0,Notfullhouse,,democracy,0,s_all,0
+92,SAL,Flores,356,1,democracy,0,0,6,6,Notfullhouse,6,0,Notfullhouse,,democracy,0,s_all,0
+92,SAL,Saca González,357,1,democracy,0,0,6,6,Notfullhouse,3,1,Notfullhouse,,democracy,1,s_all,0
+92,SAL,Funes,358,1,democracy,0,0,6,6,Notfullhouse,4,1,Notfullhouse,,democracy,1,s_all,0
+92,SAL,Sanchez Ceren,359,-888,democracy,0,0,2,2,Notfullhouse,2,1,Notfullhouse,,democracy,1,s_all,0
+317,SLO,Meciar,360,1,democracy,0,1,5,5,fullhouse,3,1,fullhouse,,democracy,1,ins_all,1
+317,SLO,Dzurinda,361,1,democracy,0,0,9,9,Notfullhouse,9,0,Notfullhouse,,democracy,0,ins_t_s,1
+317,SLO,Fico,362,1,democracy,0,0,5,5,Notfullhouse,5,0,Notfullhouse,,democracy,0,s_all,0
+317,SLO,Radicova,363,1,democracy,0,0,3,3,Notfullhouse,3,0,Notfullhouse,,democracy,0,s_all,0
+317,SLO,Fico,364,-888,democracy,0,0,4,4,Notfullhouse,4,0,Notfullhouse,,democracy,0,s_all,0
+800,THI,Leekpai,368,1,democratized,2,3,4,4,Notfullhouse,1,0,Notfullhouse,,democracy,1,ins_all,1
+800,THI,Silpa-Archa,369,1,democracy,0,0,2,2,Notfullhouse,2,0,Notfullhouse,,democracy,0,ins_all,1
+800,THI,Chavalit Yongchaiyudh,370,1,democracy,0,0,2,2,Notfullhouse,2,0,Notfullhouse,,democracy,0,ins_all,1
+800,THI,Leekpai,371,1,democracy,0,0,4,4,Notfullhouse,4,0,Notfullhouse,,democracy,0,ins_all,1
+800,THI,Thaksin Shinawatra,372,3,democracy,0,0,6,6,Notfullhouse,2,1,Notfullhouse,,democracy,1,ins_all,1
+800,THI,Chulanont,373,1,democracy,0,0,3,3,Notfullhouse,3,0,Notfullhouse,,democracy,0,ins_all,1
+800,THI,Sundaravej,374,1,democracy,0,0,1,1,Notfullhouse,1,0,Notfullhouse,,democracy,0,ins_all,1
+800,THI,Wongsawat,375,1,democracy,0,0,1,1,Notfullhouse,1,0,Notfullhouse,,democracy,0,ins_all,1
+800,THI,Chanweerakul,376,1,democracy,0,0,1,1,Notfullhouse,1,0,Notfullhouse,,democracy,0,ins_all,1
+800,THI,Vejjajiva,377,1,democracy,0,0,4,4,Notfullhouse,4,0,Notfullhouse,,democracy,0,ins_all,1
+800,THI,Yingluck Shinawatra,378,1,democracy,0,0,4,4,Notfullhouse,4,0,Notfullhouse,,democracy,0,ins_all,1
+800,THI,Niwattumrong Boonsongpaisan,379,3,democracy,0,0,1,1,Notfullhouse,1,0,Notfullhouse,,democracy,0,ins_all,1
+800,THI,Prayuth Chan-ocha,380,-888,democracy,0,0,2,2,Notfullhouse,2,0,Notfullhouse,,democracy,0,ins_all,1
+52,TRI,Manning,381,1,democracy,0,4,5,5,Notfullhouse,1,0,Notfullhouse,,democracy,0,ins_all,1
+52,TRI,Panday,382,1,democracy,0,0,7,7,Notfullhouse,7,0,Notfullhouse,,democracy,0,ins_all,1
+52,TRI,Manning,383,1,democracy,0,0,10,10,Notfullhouse,8,1,Notfullhouse,,democracy,1,ins_t_s,1
+52,TRI,Kamla Persad-Bissessar,384,1,democracy,0,0,6,6,Notfullhouse,6,0,Notfullhouse,,democracy,0,s_all,0
+616,TUN,Marzouki,,1,democracy,0,0,4,4,Notfullhouse,4,0,Notfullhouse,,democracy,0,ins_all,1
+616,TUN,Caid Essebsi,,1,democracy,0,0,2,2,Notfullhouse,2,0,Notfullhouse,,democracy,0,ins_all,1
+640,TUR,Ciller,390,1,democracy,0,2,4,4,Notfullhouse,1,1,Notfullhouse,,democracy,1,ins_all,1
+640,TUR,Yilmaz,391,1,democracy,0,0,1,1,Notfullhouse,1,0,Notfullhouse,,democracy,0,ins_all,1
+640,TUR,Erbakan,392,3,democracy,0,0,2,2,Notfullhouse,2,0,Notfullhouse,,democracy,0,ins_all,1
+640,TUR,Yilmaz,393,1,democracy,0,0,3,3,Notfullhouse,3,0,Notfullhouse,,democracy,0,ins_all,1
+640,TUR,Ecevit,394,1,democracy,0,0,4,4,Notfullhouse,4,0,Notfullhouse,,democracy,0,ins_all,1
+640,TUR,Abdullah Gul,395,1,democracy,0,0,2,2,Notfullhouse,2,0,Notfullhouse,,democracy,0,ins_all,1
+640,TUR,Erdogan,396,-888,democracy,0,0,13,13,fullhouse,6,1,fullhouse,,democracy,1,ins_all,1
+369,UKR,Kuchma,397,1,democracy,0,1,12,12,Notfullhouse,11,0,Notfullhouse,,democracy,0,ins_t_s,1
+369,UKR,Yushchenko,398,1,democracy,0,0,6,6,Notfullhouse,3,1,Notfullhouse,,democracy,1,ins_all,1
+369,UKR,Yanukovych,399,1,democracy,0,0,5,5,Notfullhouse,1,1,Notfullhouse,,democracy,1,ins_all,1
+369,UKR,Oleksandr Turchynov,400,1,democracy,0,0,1,1,Notfullhouse,1,0,Notfullhouse,,democracy,0,ins_all,1
+369,UKR,Petro Poroshenko,401,-888,democracy,0,0,2,2,Notfullhouse,2,0,Notfullhouse,,democracy,0,ins_all,1
+165,URU,Lacalle de Herrera,404,1,democracy,0,5,6,6,Notfullhouse,1,0,Notfullhouse,,democracy,0,s_all,0
+165,URU,Sanguinetti,405,1,democracy,0,0,6,6,Notfullhouse,6,0,Notfullhouse,,democracy,0,s_all,0
+165,URU,Jorge Batlle,406,1,democracy,0,0,6,6,Notfullhouse,5,1,Notfullhouse,,democracy,1,s_all,0
+165,URU,Tabare Vazquez,407,1,democracy,0,0,6,6,Notfullhouse,2,1,Notfullhouse,,democracy,1,s_all,0
+165,URU,Jose Mujica,408,1,democracy,0,0,6,6,Notfullhouse,6,0,Notfullhouse,,democracy,0,s_all,0
+165,URU,Tabare Vasquez,409,-888,democracy,0,0,1,1,fullhouse,1,0,fullhouse,,democracy,0,s_all,0
+101,VEN,Caldera Rodriguez,410,1,democracy,0,0,6,6,Notfullhouse,6,0,Notfullhouse,,democracy,0,ins_all,1
+101,VEN,Hugo Chavez,411,2,democracy,0,0,4,14,Notfullhouse,4,0,Notfullhouse,,democracy,0,ins_all,1
+101,VEN,Hugo Chavez,411,2,democracy,0,4,7,14,fullhouse,6,1,fullhouse,,democracy,1,ins_all,1
+101,VEN,Hugo Chavez,411,2,democracy,0,7,14,14,fullhouse,1,1,fullhouse,,democracy,1,ins_all,1
+101,VEN,Maduro,412,-888,democracy,0,0,4,4,fullhouse,4,0,fullhouse,,democracy,0,ins_all,1

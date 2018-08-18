@@ -1,0 +1,287 @@
+ccode,ccname,idacr,leader,id,numexit,DICT,starttime,shocktime,tenure,political.affiliation,eventtime,event,poleff,ugovt,rtpast,DICT3,shocktimet,polaffi2,Z,Yearofstarting,v2x_libdem,GDPpercapita,PTS_A.x,DEMDUR,AUTODUR,GDPdecline
+339,Albania,ALB,Berisha,1,1,2,3,6,6,fullhouse,3,0,1,fullhouse,NA,democracy,0,ins_all,0,1995,0.37,1764.699296,3,4,0,0
+339,Albania,ALB,Fatos Nano,2,1,0,0,2,2,fullhouse,2,0,1,fullhouse,NA,democracy,1,shock_t,1,1997,0.33,1738.16646,4,6,0,1
+339,Albania,ALB,Majko,3,1,0,0,2,2,fullhouse,2,0,2,fullhouse,NA,democracy,0,shock_t1,1,1998,0.34,1906.717261,3,7,0,0
+339,Albania,ALB,Meta,4,1,0,0,4,4,fullhouse,4,1,2,fullhouse,NA,democracy,0,shock_t1,1,1999,0.34,2177.896633,3,8,0,0
+339,Albania,ALB,Fatos Nano,5,1,0,0,4,4,fullhouse,4,0,2,fullhouse,NA,democracy,0,shock_t1,1,2002,0.43,2663.140477,3,11,0,0
+339,Albania,ALB,Berisha,6,1,0,0,9,9,fullhouse,5,1,2,fullhouse,NA,democracy,0,ins_t_s,1,2005,0.45,3189.395111,2,15,0,0
+339,Albania,ALB,Rama,7,-888,0,0,3,3,fullhouse,3,0,1,fullhouse,NA,democracy,0,ins_all,0,2013,0.45,4327.644518,NA,23,0,0
+615,Algeria,ALG,Zeroual,8,1,1,1,1,6,regime,3,1,2,NA,1,dictatorship,0,shock_t1,1,1995,0.1,3223.558,5,0,1,0
+615,Algeria,ALG,Bouteflika,9,-888,1,0,14,17,unaffiliated,9,1,2,NA,0,dictatorship,1,shock_t,1,1999,0.16,3457.137046,5,0,5,0
+160,Argentina,ARG,Menem,10,1,0,7,12,12,reelected,4,0,1,reelected,NA,democracy,0,ins_all,0,1995,0.63,7630.022274,2,12,0,1
+160,Argentina,ARG,de la Rua,11,1,0,0,3,3,Dopposition,3,0,1,Dopposition,NA,democracy,0,ins_all,0,1999,0.62,8339.894389,3,16,0,1
+160,Argentina,ARG,Adolfo Rodriguez Saa,12,1,0,0,2,2,Dopposition,2,0,1,Dopposition,NA,democracy,0,ins_all,0,2001,0.68,7735.493364,3,18,0,1
+160,Argentina,ARG,Eduardo Duhalde,13,1,0,0,2,2,Notfullhouse,2,0,1,Notfullhouse,NA,democracy,0,ins_all,0,2002,0.66,6816.734855,3,19,0,1
+160,Argentina,ARG,Nestor Kirchner,14,1,0,0,5,5,Notfullhouse,2,1,1,Notfullhouse,NA,democracy,0,ins_t_s,0,2003,0.64,7337.792038,2,20,0,0
+160,Argentina,ARG,Fernandez de Kirchner,15,1,0,0,9,9,fullhouse,2,0,0,fullhouse,NA,democracy,0,s_all,0,2007,0.63,9830.68092,2,24,0,1
+692,Bahrain,BAH,Isa Ibn Al-Khalifah,16,2,1,24,29,29,independent,29,0,2,NA,0,dictatorship,0,i_t_s,0,1995,NA,21910.23988,4,0,25,0
+692,Bahrain,BAH,Hamad Isa Ibn Al-Khalifah,17,-888,1,0,12,17,regime,4,1,0,NA,1,dictatorship,1,shock_t,1,1999,NA,22760.98699,2,0,29,0
+370,Belarus,BLR,Lukashenko,18,-888,3,1,5,22,regime,17,1,1,NA,1,dictatorship,1,shock_t,1,1995,0.39,2024.694736,2,0,1,1
+145,Bolivia,BOL,Gonzalo Sanchez de Lozada,19,1,0,2,5,5,Notfullhouse,4,1,2,Notfullhouse,NA,democracy,0,shock_t1,1,1995,0.51,1504.396744,NA,14,0,0
+145,Bolivia,BOL,Banzer Suarez,20,2.099999905,0,0,5,5,Notfullhouse,5,0,2,Notfullhouse,NA,democracy,0,shock_t1 & ins_t_s,1,1997,0.54,1584.117204,NA,16,0,0
+145,Bolivia,BOL,Jorge Quiroga Ramirez,21,1,0,0,2,2,Notfullhouse,2,0,0,Notfullhouse,NA,democracy,0,s_all,0,2001,0.55,1613.410823,NA,20,0,0
+145,Bolivia,BOL,Gonzalo Sanchez de Lozada,22,1,0,0,2,2,Notfullhouse,2,1,0,Notfullhouse,NA,democracy,0,s_all,0,2002,0.54,1623.518787,NA,21,0,0
+145,Bolivia,BOL,Carlos Mesa,23,1,0,0,3,3,Notfullhouse,2,1,0,Notfullhouse,NA,democracy,1,shock_t,1,2003,0.55,1637.80851,NA,22,0,0
+145,Bolivia,BOL,Enrique Rodriguez,24,1,0,2,2,2,Notfullhouse,2,0,1,Notfullhouse,NA,democracy,0,ins_all,0,2005,0.56,1720.099032,NA,24,0,0
+145,Bolivia,BOL,Juan Morales,25,-888,0,0,10,10,Notfullhouse,5,0,1,Notfullhouse,NA,democracy,0,ins_all,0,2006,0.49,1771.946897,NA,25,0,0
+346,Bosnia and Herzegovina,BOS,Izetbegovic,26,2.1,4,5,9,9,noauthority,9,0,1,NA,0,noauthority,0,ins_all,0,1995,0.06,866.9406721,5,0,0,0
+346,Bosnia and Herzegovina,BOS,Radisic,27,1,4,0,2,2,noauthority,2,0,1,NA,0,noauthority,0,ins_all,0,1998,0.23,2608.198841,3,0,0,0
+346,Bosnia and Herzegovina,BOS,Jelavic,28,1,4,0,2,2,noauthority,2,0,1,NA,0,noauthority,0,ins_all,0,1999,0.24,2852.021041,3,0,0,0
+346,Bosnia and Herzegovina,BOS,Radisic,29,1,4,0,2,2,noauthority,2,0,1,NA,0,noauthority,0,ins_all,0,2000,0.26,3002.820841,3,0,0,0
+346,Bosnia and Herzegovina,BOS,Krizanovic,30,1,4,0,2,2,noauthority,2,0,1,NA,0,noauthority,0,ins_all,0,2001,0.28,3131.139402,3,0,0,0
+346,Bosnia and Herzegovina,BOS,Sarovic,31,1,4,0,2,2,noauthority,2,0,1,NA,0,noauthority,0,ins_all,0,2002,0.27,3293.140249,2,0,0,0
+346,Bosnia and Herzegovina,BOS,Dragan Covic,32,1,4,0,2,2,noauthority,2,0,1,NA,0,noauthority,0,ins_all,0,2003,0.28,3421.748431,2,0,0,0
+346,Bosnia and Herzegovina,BOS,Borislav Paravac,33,1,4,0,2,2,noauthority,2,0,1,NA,0,noauthority,0,ins_all,0,2005,0.28,3946.056679,2,0,0,0
+346,Bosnia and Herzegovina,BOS,Miro Jovic,34,1,4,0,2,2,noauthority,1,1,1,NA,0,noauthority,0,ins_all,0,2005,0.28,3946.056679,2,0,0,0
+346,Bosnia and Herzegovina,BOS,Radmanovic,35,1,4,0,2,2,noauthority,2,0,1,NA,0,noauthority,0,ins_all,0,2006,0.28,4160.563103,2,0,0,0
+346,Bosnia and Herzegovina,BOS,Zeljko Komsic,36,1,4,0,2,2,noauthority,2,0,1,NA,0,noauthority,0,ins_all,0,2007,0.28,4405.285059,2,0,0,1
+346,Bosnia and Herzegovina,BOS,Radmanovic,37,1,4,0,2,2,noauthority,2,0,1,NA,0,noauthority,0,ins_all,0,2008,0.28,4664.091803,2,0,0,0
+346,Bosnia and Herzegovina,BOS,Zeljko Komsic,38,1,4,0,2,2,noauthority,2,0,1,NA,0,noauthority,0,ins_all,0,2008,0.28,4664.091803,2,0,0,0
+346,Bosnia and Herzegovina,BOS,Radmanovic,39,1,4,0,2,2,noauthority,2,0,1,NA,0,noauthority,0,ins_all,0,2010,0.28,4614.829041,2,0,0,0
+346,Bosnia and Herzegovina,BOS,Zeljko Komsic,40,1,4,0,4,4,noauthority,2,1,1,NA,0,noauthority,0,ins_all,0,2011,0.28,4700.887837,1,0,0,1
+346,Bosnia and Herzegovina,BOS,Ivanic,41,1,4,0,2,2,noauthority,2,0,1,NA,0,noauthority,0,ins_all,0,2014,0.26,4992.948867,2,0,0,0
+571,Botswana,BOT,Masire,42,1,0,15,19,19,Notfullhouse,4,0,1,Notfullhouse,NA,democracy,0,ins_all,0,1995,0.61,4237.567299,1,25,0,0
+571,Botswana,BOT,Mogae,43,1,0,0,11,11,Notfullhouse,8,1,0,Notfullhouse,NA,democracy,0,s_all,0,1998,0.63,4585.739928,NA,28,0,0
+571,Botswana,BOT,Ian Khama,44,-888,0,0,8,8,Notfullhouse,8,0,0,Notfullhouse,NA,democracy,0,s_all,0,2008,0.68,6552.776641,NA,38,0,1
+140,Brazil,BRA,Cardoso,45,1,0,7,9,9,Notfullhouse,2,0,0,Notfullhouse,NA,democracy,0,s_all,0,1995,0.74,8549.02152,4,10,0,0
+355,Bulgaria,BUL,Indzhova,46,1,0,0,2,2,Notfullhouse,2,0,2,Notfullhouse,NA,democracy,0,shock_t1,1,1995,0.63,3781.903492,2,6,0,0
+355,Bulgaria,BUL,Videnov,47,1,0,0,3,3,fullhouse,3,0,2,fullhouse,NA,democracy,0,shock_t1,1,1995,0.63,3781.903492,2,6,0,1
+355,Bulgaria,BUL,Kostov,48,1,0,0,5,5,fullhouse,5,1,2,fullhouse,NA,democracy,0,shock_t1 & ins_t_s,1,1997,0.65,3809.686513,3,8,0,1
+355,Bulgaria,BUL,Saksgoburggotski,49,1,0,0,5,5,fullhouse,5,0,1,fullhouse,NA,democracy,0,ins_t_s,0,2001,0.64,4186.920419,3,12,0,0
+355,Bulgaria,BUL,Stanishev,50,1,0,0,5,5,Notfullhouse,5,0,0,Notfullhouse,NA,democracy,0,s_all,0,2005,0.64,5561.163843,2,16,0,1
+355,Bulgaria,BUL,Boyko Borisov,51,1,0,0,5,5,Notfullhouse,5,0,0,Notfullhouse,NA,democracy,0,s_all,0,2009,0.64,6709.527315,2,30,0,1
+355,Bulgaria,BUL,Oresharski,52,1,0,0,2,2,Notfullhouse,2,0,0,Notfullhouse,NA,democracy,0,s_all,0,2013,0.57,7162.997793,NA,24,0,0
+355,Bulgaria,BUL,Boyko Borisov,53,-888,0,0,2,2,Notfullhouse,2,0,0,Notfullhouse,NA,democracy,0,s_all,0,2014,0.6,7299.548771,2,25,0,0
+710,China,CHN,Deng Xiaoping,54,2,1,15,18,18,regime,18,0,0,NA,1,dictatorship,0,s_all,0,1995,0.05,1227.556407,3,0,25,0
+710,China,CHN,Jiang Zemin,55,1,1,0,4,7,regime,7,0,0,NA,1,dictatorship,1,shock_t,1,1997,0.05,1443.774742,4,0,27,0
+710,China,CHN,Hu Jintao,56,1,1,0,10,10,regime,2,1,0,NA,1,dictatorship,0,s_all,0,2003,0.06,2258.912105,4,0,33,0
+710,China,CHN,Xi Jinping,57,1,1,0,4,4,regime,1,1,0,NA,1,dictatorship,0,s_all,0,2012,0.06,5336.060143,4,0,42,0
+100,Colombia,COL,Pizano,58,1,0,1,5,5,Notfullhouse,4,0,0,Notfullhouse,NA,democracy,0,s_all,0,1995,0.46,4841.367135,4,25,0,0
+100,Colombia,COL,Arango,59,1,4,0,5,5,noauthority,5,0,0,NA,0,noauthority,0,i_t_s,0,1998,0.43,4904.74819,5,0,0,1
+100,Colombia,COL,Alvaro Uribe Velez,60,1,4,0,1,9,noauthority,2,1,0,NA,0,noauthority,0,i_t_s,0,2002,0.41,4825.831999,5,0,0,0
+100,Colombia,COL,Santos Calderon,61,-888,0,0,6,6,Notfullhouse,2,1,0,Notfullhouse,NA,democracy,0,s_all,0,2010,0.46,6250.655044,5,6,0,0
+344,Croatia,CRO,Tudjman,62,2,0,5,10,10,reelected,5,0,1,reelected,NA,democracy,0,ins_all,0,1995,0.24,8475.139929,5,6,0,1
+344,Croatia,CRO,Pavletic,63,1,0,0,2,2,fullhouse,2,0,1,fullhouse,NA,democracy,0,ins_all,0,1999,0.29,9900.063521,3,10,0,1
+344,Croatia,CRO,Mesic,64,1,0,0,11,11,fullhouse,1,1,1,fullhouse,NA,democracy,0,ins_t_s,0,2000,0.55,10569.02697,1,11,0,1
+344,Croatia,CRO,Josipovic,65,1,0,0,6,6,fullhouse,6,0,0,fullhouse,NA,democracy,0,s_all,0,2010,0.72,13542.90183,1,21,0,1
+352,Cyprus,CYP,Clerides,66,1,0,2,11,11,Notfullhouse,9,0,0,Notfullhouse,NA,democracy,0,s_all,0,1995,0.65,24030.2363,2,12,0,0
+352,Cyprus,CYP,Tassos Nikolaou Papadopoulos,67,1,0,0,5,6,Notfullhouse,5,0,0,Notfullhouse,NA,democracy,0,s_all,0,2003,0.68,28974.13482,NA,20,0,0
+352,Cyprus,CYP,Dimitris Christofias,68,1,0,0,2,6,Notfullhouse,2,0,0,Notfullhouse,NA,democracy,0,s_all,0,2008,0.74,32651.90559,1,25,0,1
+352,Cyprus,CYP,Anastasiades,69,-888,0,2,3,3,Notfullhouse,1,0,0,Notfullhouse,NA,democracy,0,s_all,0,2013,0.75,27130.56836,NA,30,0,1
+42,Dominican Republic,DOM,Balaguer,70,1,0,9,11,11,reelected,2,0,1,reelected,NA,democracy,1,shock_t,1,1995,0.24,3192.193258,2,18,0,0
+42,Dominican Republic,DOM,Fernandez Reyna,71,1,0,0,5,5,Notfullhouse,2,1,2,Notfullhouse,NA,democracy,0,shock_t1,1,1996,0.28,3325.423504,3,19,0,0
+42,Dominican Republic,DOM,Hipolito Mejia,72,1,0,0,5,5,Notfullhouse,5,0,1,Notfullhouse,NA,democracy,0,ins_all,0,2000,0.39,4017.431169,2,23,0,1
+42,Dominican Republic,DOM,Fernandez Reyna,73,1,0,0,8,8,Notfullhouse,5,1,1,Notfullhouse,NA,democracy,0,ins_t_s,0,2004,0.37,4094.076257,2,27,0,0
+42,Dominican Republic,DOM,Medina,74,-888,0,0,4,4,Notfullhouse,4,0,0,Notfullhouse,NA,democracy,0,s_all,0,2012,0.4,5631.468069,3,35,0,0
+816,Vietnam,DRV,Do Muoi,75,1,1,4,1,7,regime,5,1,0,NA,1,dictatorship,0,s_all,0,1995,NA,581.0760828,NA,0,20,0
+816,Vietnam,DRV,Phieu,76,1,1,0,5,5,regime,5,0,0,NA,1,dictatorship,0,s_all,0,1997,NA,667.1428597,NA,0,22,0
+816,Vietnam,DRV,Nong Duc Manh,77,1,1,0,11,11,regime,6,1,0,NA,1,dictatorship,0,s_all,0,2001,NA,800.2599286,NA,0,26,0
+816,Vietnam,DRV,Phu Trong,78,-888,1,0,5,5,regime,2,1,0,NA,1,dictatorship,0,s_all,0,2011,NA,1377.133984,NA,0,36,0
+130,Ecuador,ECU,Duran Ballen,79,1,0,3,5,5,Notfullhouse,2,0,0,Notfullhouse,NA,democracy,0,s_all,0,1995,0.5,3847.507292,3,16,0,0
+130,Ecuador,ECU,Bucaram Ortiz,80,1,0,0,2,2,Notfullhouse,2,0,0,Notfullhouse,NA,democracy,0,s_all,0,1996,0.49,3832.76269,2,17,0,0
+130,Ecuador,ECU,Alarcon Fabian,81,1,0,0,2,2,Notfullhouse,2,0,0,Notfullhouse,NA,democracy,0,s_all,0,1997,0.51,3917.655997,2,18,0,0
+130,Ecuador,ECU,Mahuad,82,3,0,0,3,3,Notfullhouse,3,0,0,Notfullhouse,NA,democracy,1,shock_t,1,1998,0.5,3966.173489,3,19,0,1
+130,Ecuador,ECU,Gustavo Noboa*,83,1,1,0,1,4,regime,4,1,2,NA,1,dictatorship,0,shock_t1,1,2000,0.48,3678.902316,3,0,1,0
+130,Ecuador,ECU,Lucio Gutierrez,84,1,0,0,3,3,Notfullhouse,2,1,2,Notfullhouse,NA,democracy,0,shock_t1,1,2003,0.51,3888.341901,3,2,0,0
+130,Ecuador,ECU,Alfredo Palacio,85,1,0,0,3,3,Notfullhouse,3,0,2,Notfullhouse,NA,democracy,0,shock_t1,1,2005,0.52,4286.515247,3,4,0,0
+130,Ecuador,ECU,Rafael Correa,86,-888,0,0,9,9,Notfullhouse,6,1,2,Notfullhouse,NA,democracy,1,shock_t,1,2007,0.49,4421.902428,3,6,0,0
+651,Egypt,EGY,Mubarak,87,3,1,14,25,31,regime,15,1,1,NA,1,dictatorship,1,shock_t,1,1995,0.16,NA,4,0,25,NA
+651,Egypt,EGY,Tantawi,88,1,1,0,1,2,regime,2,0,2,NA,1,dictatorship,0,shock_t1,1,2011,0.09,NA,4,0,41,NA
+651,Egypt,EGY,Mansour,89,1,1,0,2,2,opposition,2,0,2,NA,0,dictatorship,0,ins_all,0,2013,0.07,NA,NA,0,45,NA
+651,Egypt,EGY,al-Sisi,90,-888,1,0,2,2,opposition,2,0,2,NA,0,dictatorship,0,ins_all,0,2014,0.06,NA,4,0,47,NA
+372,Georgia,GRG,Shevardnadze,91,3,1,3,12,12,opposition,12,0,2,NA,0,dictatorship,1,shock_t1 & shock_t,1,1995,0.19,1010.250679,3,0,5,0
+372,Georgia,GRG,Burdjanadze,92,1,1,0,2,2,unaffiliated,2,0,2,NA,0,dictatorship,0,shock_t1,1,2003,0.23,1812.111762,3,0,13,0
+372,Georgia,GRG,Saakashvili,93,3,1,0,1,10,fullhouse,9,1,2,fullhouse,NA,democracy,0,shock_t1,1,2004,0.36,1943.558701,3,1,0,1
+372,Georgia,GRG,Margvelashvili,94,-888,0,0,3,3,fullhouse,3,0,2,fullhouse,NA,democracy,0,shock_t1,1,2013,0.52,3633.740883,NA,9,0,0
+90,Guatemala,GUA,Leon Carpio,95,1,0,2,4,4,Notfullhouse,2,0,3,Notfullhouse,NA,democracy,0,shock_t1,1,1995,0.24,2355.894116,4,9,0,0
+90,Guatemala,GUA,Arzu Yrigoyen,96,1,0,0,5,5,fullhouse,5,0,3,fullhouse,NA,democracy,0,shock_t1,1,1996,0.26,2371.31183,4,10,0,0
+90,Guatemala,GUA,Alfonso Portillo Cabrera,97,1,0,0,5,5,fullhouse,5,0,3,fullhouse,NA,democracy,0,shock_t1,1,1997,0.37,2554.781528,3,11,0,0
+90,Guatemala,GUA,Berger Perdomo,98,1,0,0,5,5,Notfullhouse,1,1,2,Notfullhouse,NA,democracy,1,shock_t1 & ins_t_s,1,2004,0.37,2614.71279,2,18,0,0
+90,Guatemala,GUA,Colom Caballeros,99,1,0,0,5,5,Notfullhouse,5,0,0,Notfullhouse,NA,democracy,0,s_all,0,2008,0.4,2854.071962,2,22,0,0
+90,Guatemala,GUA,Perez Molina,100,-888,0,0,4,4,Notfullhouse,1,1,0,Notfullhouse,NA,democracy,1,s_all,0,2012,0.39,2903.397849,2,26,0,0
+110,Guyana,GUY,Jagan Cheddi,101,2,2,0,3,6,fullhouse,3,0,1,fullhouse,NA,democracy,0,ins_all,0,1995,0.32,2036.701923,1,3,0,0
+110,Guyana,GUY,Janet Jagan,102,2.099999905,0,0,3,3,fullhouse,3,0,1,fullhouse,NA,democracy,0,ins_all,0,1997,0.33,2336.484149,2,5,0,1
+110,Guyana,GUY,Bharrat Jagdeo,103,1,0,0,13,13,fullhouse,10,1,1,fullhouse,NA,democracy,0,ins_t_s,0,1999,0.36,2381.150306,2,7,0,1
+110,Guyana,GUY,Ramotar,104,1,0,0,5,5,fullhouse,5,0,0,fullhouse,NA,democracy,0,s_all,0,2011,0.36,3192.295544,2,9,0,0
+91,Honduras,HON,Reina,105,1,0,0,4,4,fullhouse,4,0,0,fullhouse,NA,democracy,0,s_all,0,1995,0.31,1594.35708,2,13,0,0
+91,Honduras,HON,Flores Facusse,106,1,0,0,5,5,fullhouse,5,0,1,fullhouse,NA,democracy,0,ins_all,0,1998,0.3,1645.288156,2,16,0,1
+91,Honduras,HON,Ricardo Maduro,107,1,0,0,5,5,Notfullhouse,5,0,1,Notfullhouse,NA,democracy,0,ins_all,0,2002,0.32,1641.397203,3,20,0,0
+91,Honduras,HON,Zelaya,108,3,0,0,4,4,Notfullhouse,4,0,1,Notfullhouse,NA,democracy,0,ins_all,0,2006,0.33,1874.953449,3,26,0,0
+91,Honduras,HON,Micheletti,109,1,0,0,2,2,Notfullhouse,2,0,1,Notfullhouse,NA,democracy,0,ins_all,0,2009,0.29,1900.382571,4,29,0,1
+91,Honduras,HON,Lobo,110,1,0,0,5,5,fullhouse,3,1,1,fullhouse,NA,democracy,0,ins_all,0,2010,0.25,1932.85829,3,30,0,0
+91,Honduras,HON,Hern<e1>ndez,111,-888,0,0,2,2,fullhouse,2,0,1,fullhouse,NA,democracy,0,ins_all,0,2014,0.29,2059.474909,3,34,0,0
+310,Hungary,HUN,Horn,112,1,0,1,5,5,Notfullhouse,4,0,1,Notfullhouse,NA,democracy,0,ins_all,0,1995,0.71,8952.03937,1,5,0,0
+310,Hungary,HUN,Orban,113,1,0,0,5,5,Notfullhouse,5,0,1,Notfullhouse,NA,democracy,0,ins_t_s,0,1998,0.72,9702.890567,2,8,0,0
+310,Hungary,HUN,Peter Medgyessy,114,1,0,0,3,3,Notfullhouse,3,0,0,Notfullhouse,NA,democracy,0,s_all,0,2002,0.73,11445.19358,2,12,0,0
+310,Hungary,HUN,Ferenc Gyurcsany,115,1,0,0,6,6,Notfullhouse,6,0,0,Notfullhouse,NA,democracy,0,s_all,0,2004,0.73,12544.09037,2,14,0,0
+310,Hungary,HUN,Bajnai,116,1,0,0,2,2,Notfullhouse,2,0,0,Notfullhouse,NA,democracy,0,s_all,0,2009,0.73,12974.14418,1,19,0,1
+310,Hungary,HUN,Orban,117,-888,0,0,0,6,Notfullhouse,6,0,1,Notfullhouse,NA,democracy,0,s_all,0,2010,0.66,13092.23376,1,20,0,1
+750,India,IND,Rao,118,1,0,4,6,6,Notfullhouse,2,0,1,Notfullhouse,NA,democracy,0,ins_all,0,1995,0.56,622.3036831,4,25,0,0
+750,India,IND,Gowda,119,1,0,0,2,2,Notfullhouse,2,0,1,Notfullhouse,NA,democracy,0,ins_all,0,1996,0.57,656.697144,5,26,0,0
+750,India,IND,Gujral,120,1,0,0,2,2,Notfullhouse,2,0,1,Notfullhouse,NA,democracy,0,ins_all,0,1997,0.6,670.6101216,4,27,0,0
+750,India,IND,Vajpayee,121,1,0,0,7,7,Notfullhouse,6,1,1,Notfullhouse,NA,democracy,0,ins_t_s,0,1998,0.59,699.0688547,4,28,0,0
+750,India,IND,Manmohan Singh,122,1,0,0,11,11,Notfullhouse,1,1,0,Notfullhouse,NA,democracy,0,s_all,0,2004,0.58,902.9057944,3,34,0,0
+750,India,IND,Narendra Modi,123,-888,0,0,2,2,Notfullhouse,1,1,0,Notfullhouse,NA,democracy,0,s_all,0,2014,0.53,1645.326141,4,34,0,0
+850,Indonesia,INS,Suharto,124,1,1,24,28,28,independent,28,0,1,NA,0,dictatorship,0,ins_all,0,1995,0.05,2219.811058,4,0,25,0
+850,Indonesia,INS,Habibie,125,1,1,0,2,2,unaffiliated,2,0,1,NA,0,dictatorship,0,ins_all,0,1998,0.11,2084.234548,4,0,29,1
+850,Indonesia,INS,Wahid,126,1,2,1,3,3,Notfullhouse,2,0,1,Notfullhouse,NA,democracy,0,ins_all,0,1999,0.33,2071.55063,4,1,0,0
+850,Indonesia,INS,Megawati Sukarnoputri,127,1,0,0,4,4,Notfullhouse,4,0,1,Notfullhouse,NA,democracy,0,ins_all,0,2001,0.49,2190.76618,4,2,0,0
+850,Indonesia,INS,Bambang Yudhoyono,128,1,0,0,0,11,Notfullhouse,2,1,1,Notfullhouse,NA,democracy,0,ins_t_s,0,2004,0.53,2416.836389,4,5,0,0
+850,Indonesia,INS,Joko Widodo,129,-888,0,0,2,2,fullhouse,2,0,0,fullhouse,NA,democracy,0,s_all,0,2014,0.5,3692.942875,3,5,0,0
+51,Jamaica,JAM,Patterson,130,1,0,3,15,15,fullhouse,12,0,0,fullhouse,NA,democracy,1,shock_t,1,1995,0.48,4946.869362,3,25,0,1
+51,Jamaica,JAM,Simpson-Miller,131,1,0,0,2,2,fullhouse,2,0,0,fullhouse,NA,democracy,0,s_all,0,2006,0.65,5039.413634,3,36,0,0
+51,Jamaica,JAM,Holness,132,1,0,0,5,5,fullhouse,1,1,0,fullhouse,NA,democracy,0,s_all,0,2008,0.69,5015.853838,4,38,0,1
+51,Jamaica,JAM,Simpson-Miller,133,-888,0,0,4,4,fullhouse,4,0,0,fullhouse,NA,democracy,0,s_all,0,2012,0.67,4694.247259,3,42,0,1
+663,Jordan,JOR,Hussein Ibn Talal El-Hashim,134,2,1,24,NA,29,regime,25,1,2,NA,1,dictatorship,0,shock_t1 & ins_t_s,1,1995,0.19,2678.074259,3,0,25,0
+663,Jordan,JOR,Abdullah Ibn Hussein El-Hashimi,135,-888,1,0,13,17,regime,1,1,0,NA,1,dictatorship,1,shock_t,1,1999,0.19,2743.02603,3,0,30,0
+690,Kuwait,KUW,Jabir As-Sabah,136,4,1,4,16,16,regime,7,1,1,NA,1,dictatorship,0,ins_all,0,1995,0.27,41473.32844,3,0,25,1
+690,Kuwait,KUW,Sheikh Sabah Al Ahmad Al Jabir Al Sabah,137,-888,1,0,10,10,opposition,1,1,0,NA,0,dictatorship,0,s_all,0,2006,0.29,49268.26312,2,0,36,1
+705,Kazakhstan,KZK,Nazarbaev,138,-888,1,5,15,26,regime,21,1,1,NA,1,dictatorship,1,shock_t,1,1995,0.17,3738.469473,2,0,6,1
+367,Latvia,LAT,Gailis,139,1,0,1,2,2,Notfullhouse,1,1,1,Notfullhouse,NA,democracy,0,ins_all,0,1995,0.72,5140.528159,2,6,0,0
+367,Latvia,LAT,Skele,140,1,0,0,3,3,Notfullhouse,3,0,1,Notfullhouse,NA,democracy,0,ins_all,0,1995,0.72,5140.528159,2,6,0,NA
+367,Latvia,LAT,Krasts,141,1,0,0,2,2,Notfullhouse,2,0,1,Notfullhouse,NA,democracy,0,ins_all,0,1997,0.73,5857.036582,NA,8,0,0
+367,Latvia,LAT,Kristopans,142,1,0,0,2,2,Notfullhouse,2,0,1,Notfullhouse,NA,democracy,0,ins_all,0,1998,0.72,6298.1261,NA,9,0,0
+367,Latvia,LAT,Skele,143,1,0,0,2,2,Notfullhouse,2,0,1,Notfullhouse,NA,democracy,0,ins_all,0,1999,0.72,6515.892723,1,10,0,0
+367,Latvia,LAT,Berzins,144,1,0,0,3,3,Notfullhouse,3,0,1,Notfullhouse,NA,democracy,0,ins_t_s,0,2000,0.72,6934.722926,1,11,0,0
+367,Latvia,LAT,Repse,145,1,0,0,3,3,Notfullhouse,3,0,0,Notfullhouse,NA,democracy,0,s_all,0,2002,0.74,8103.587637,1,13,0,0
+660,Lebanon,LEB,Elias Hrawi,146,1,4,6,10,10,noauthority,7,1,2,NA,0,noauthority,0,ins_all,0,1996,0.19,6703.23,4,0,0,1
+660,Lebanon,LEB,Emile Lahoud,147,1,0,0,7,10,noauthority,7,1,2,Notfullhouse,NA,noauthority,0,ins_all,0,1998,0.19,6949.233886,3,0,0,1
+660,Lebanon,LEB,Emile Lahoud,147,1,0,7,10,10,Notfullhouse,3,0,1,Notfullhouse,NA,democracy,0,ins_all,0,2005,0.23,6606.292,3,1,0,0
+660,Lebanon,LEB,Siniora,148,3,0,0,2,2,Notfullhouse,2,0,1,Notfullhouse,NA,democracy,0,ins_all,0,2007,0.28,7157.550781,4,3,0,0
+660,Lebanon,LEB,Suleiman,149,1,0,0,7,7,Notfullhouse,7,0,1,Notfullhouse,NA,democracy,0,ins_all,0,2008,0.27,7859.944203,3,4,0,0
+660,Lebanon,LEB,Salam,150,-888,0,0,2,2,Notfullhouse,2,0,1,Notfullhouse,NA,democracy,0,ins_all,0,2014,0.32,7447.364344,3,10,0,0
+570,Lesotho,LES,Mokhehle,151,1,0,0,5,5,Notfullhouse,5,0,3,Notfullhouse,NA,democracy,0,shock_t1,1,1995,0.27,804.8390879,2,2,0,0
+570,Lesotho,LES,Mosisili,152,1,0,0,15,15,Notfullhouse,8,1,3,Notfullhouse,NA,democracy,1,shock_t1 & shock_t,1,1998,0.3,860.7373095,3,6,0,0
+570,Lesotho,LES,Thabane,153,1,0,0,4,4,fullhouse,4,0,1,fullhouse,NA,democracy,1,shock_t,1,2012,0.5,1293.633415,NA,19,0,NA
+343,Macedonia,MAC,Crvenkovski,154,1,0,3,7,7,fullhouse,4,0,1,fullhouse,NA,democracy,0,ins_all,0,1995,0.36,NA,NA,5,0,NA
+343,Macedonia,MAC,Georgievski,155,1,0,0,5,5,Notfullhouse,3,1,1,Notfullhouse,NA,democracy,0,ins_t_s,0,1998,0.42,NA,NA,8,0,NA
+343,Macedonia,MAC,Crvenkovski,156,1,0,0,3,3,Notfullhouse,3,0,1,Notfullhouse,NA,democracy,0,ins_all,0,2002,0.43,NA,NA,12,0,NA
+343,Macedonia,MAC,Vlado Buckovski,157,1,0,0,3,3,fullhouse,3,0,1,fullhouse,NA,democracy,0,ins_all,0,2004,0.52,NA,NA,14,0,NA
+343,Macedonia,MAC,Gruevski,158,-888,0,0,10,10,Notfullhouse,10,0,1,Notfullhouse,NA,democracy,0,ins_t_s,0,2006,0.5,NA,NA,16,0,NA
+820,Malaysia,MAL,Mahatir Bin Mohammad,159,1,1,14,15,23,regime,23,0,2,NA,1,dictatorship,0,shock_t1,1,1995,0.16,6275.163705,3,0,25,1
+820,Malaysia,MAL,Ahmad Badawi,160,1,1,0,6,7,regime,1,1,0,NA,1,dictatorship,1,shock_t,1,2003,0.18,7377.364628,3,0,33,0
+820,Malaysia,MAL,Najib Tun Razak,161,-888,1,0,1,7,regime,3,1,1,NA,1,dictatorship,0,ins_all,0,2009,0.22,8599.435523,2,0,39,1
+70,Mexico,MEX,Zedillo,162,1,1,1,1,7,regime,2,1,1,NA,1,dictatorship,0,ins_all,0,1995,0.28,7522.221743,4,0,25,1
+70,Mexico,MEX,Vicente Fox Quesada,163,1,2,0,7,7,Notfullhouse,1,1,1,Notfullhouse,NA,democracy,0,ins_all,0,2000,0.5,8997.433502,3,1,0,1
+70,Mexico,MEX,Calderon,164,1,0,0,7,7,Notfullhouse,7,0,0,Notfullhouse,NA,democracy,0,s_all,0,2006,0.53,9327.736081,4,7,0,1
+70,Mexico,MEX,Enrique Pena Nieto,165,-888,0,0,4,4,fullhouse,4,0,0,fullhouse,NA,democracy,0,s_all,0,2012,0.49,9405.813045,4,13,0,0
+359,Moldova,MLD,Snegur,166,1,0,5,8,8,fullhouse,3,0,1,fullhouse,NA,democracy,0,ins_all,0,1995,0.42,1086.936033,NA,6,0,1
+359,Moldova,MLD,Lucinschi,167,1,0,0,5,5,Notfullhouse,5,0,1,Notfullhouse,NA,democracy,0,ins_t_s,0,1997,0.42,1045.851658,NA,8,0,1
+359,Moldova,MLD,Tarlev,168,1,0,0,7,8,fullhouse,7,0,0,fullhouse,NA,democracy,1,shock_t,1,2001,0.38,1029.653765,NA,12,0,0
+359,Moldova,MLD,Greceanii,169,1,0,0,2,2,fullhouse,2,0,1,fullhouse,NA,democracy,0,ins_all,0,2008,0.38,1497.103826,NA,19,0,0
+359,Moldova,MLD,Vlad Filat,170,1,0,0,5,5,Notfullhouse,5,0,1,Notfullhouse,NA,democracy,0,ins_all,0,2009,0.39,1521.855571,NA,20,0,1
+359,Moldova,MLD,Iurie Leanca,171,1,0,0,3,3,Notfullhouse,2,1,1,Notfullhouse,NA,democracy,0,ins_all,0,2013,0.53,1894.780109,NA,24,0,1
+712,Mongolia,MON,Ochirbat,172,1,2,5,8,8,revolt,8,0,1,NA,0,dictatorship,0,ins_all,0,1995,0.58,1459.106284,1,0,6,0
+712,Mongolia,MON,Bagabandi,173,1,0,0,9,9,Notfullhouse,9,0,1,Notfullhouse,NA,democracy,0,ins_t_s,0,1997,0.6,1524.860104,NA,1,0,0
+712,Mongolia,MON,Enkhbayar,174,1,0,0,5,5,Notfullhouse,5,0,0,Notfullhouse,NA,democracy,0,s_all,0,2005,0.57,2079.11237,3,10,0,0
+712,Mongolia,MON,Elbegdorj,175,-888,0,0,7,7,Notfullhouse,7,1,0,Notfullhouse,NA,democracy,0,s_all,0,2009,0.56,2533.175737,3,14,0,1
+600,Morocco,MOR,Hassan II,176,2,1,24,25,29,regime,27,1,1,NA,1,dictatorship,0,s_t_i,0,1995,0.2,1722.193306,3,0,25,1
+600,Morocco,MOR,Muhammad VI,177,-888,1,0,14,17,regime,5,1,0,NA,1,dictatorship,1,shock_t,1,1999,0.2,1958.953786,2,0,29,0
+565,Namibia,NAM,Nujoma,178,1,1,5,14,16,regime,16,1,1,NA,1,dictatorship,1,shock_t,1,1995,0.54,3617.290035,NA,0,6,0
+565,Namibia,NAM,Pohamba,179,1,1,0,11,11,regime,11,0,0,NA,1,dictatorship,0,s_all,0,2005,0.54,4454.63476,2,0,16,0
+790,Nepal,NEP,Sher Bahadur Deuba,180,1,0,0,3,3,Notfullhouse,3,0,1,Notfullhouse,NA,democracy,0,ins_all,0,1995,0.3,403.0517167,2,5,0,0
+790,Nepal,NEP,Surya  Bahadur Thapa,181,1,0,0,2,2,Notfullhouse,2,0,1,Notfullhouse,NA,democracy,0,ins_all,0,1997,0.32,426.1732796,3,7,0,0
+790,Nepal,NEP,Girija Prasad Koirala,182,1,0,0,2,2,fullhouse,2,0,1,fullhouse,NA,democracy,0,ins_all,0,1998,0.31,430.067665,4,8,0,0
+790,Nepal,NEP,Krishna Prasad Bhatterai,183,1,0,0,2,2,fullhouse,2,0,1,fullhouse,NA,democracy,0,ins_all,0,1999,0.3,440.380401,3,9,0,0
+790,Nepal,NEP,Girija Prasad Koirala,184,1,0,0,3,3,fullhouse,1,0,1,fullhouse,NA,democracy,0,ins_t_s,0,2000,0.29,459.11634,4,10,0,0
+790,Nepal,NEP,Sher Bahdur Deuba,185,1,4,0,2,2,noauthority,2,0,2,NA,0,noauthority,0,ins_all,0,2002,0.16,465.5452863,5,0,0,0
+790,Nepal,NEP,Lokendra Bahadur Chand,186,1,4,0,2,2,noauthority,2,0,2,NA,0,noauthority,0,ins_all,0,2002,0.16,465.5452863,5,0,0,0
+790,Nepal,NEP,Surya Bahadur Thapa,187,1,4,0,2,2,noauthority,2,0,2,NA,0,noauthority,0,ins_all,0,2003,0.15,476.4581877,4,0,0,0
+790,Nepal,NEP,Sher Bahdur Deuba,188,1,4,0,2,2,noauthority,2,0,2,NA,0,noauthority,0,ins_all,0,2004,0.15,491.6975138,4,0,0,0
+790,Nepal,NEP,Gyanendra,189,3,4,0,2,2,noauthority,2,0,2,NA,0,noauthority,0,ins_all,0,2005,0.15,502.2394279,5,0,0,0
+790,Nepal,NEP,Girija Prasad Koirala,190,1,0,0,2,3,Notfullhouse,1,1,2,fullhouse,NA,democracy,0,shock_t1,1,2006,0.31,513.1274616,4,1,0,0
+790,Nepal,NEP,Prachanda,191,1,0,0,2,2,Notfullhouse,2,0,2,Notfullhouse,NA,democracy,0,shock_t1,1,2008,0.37,551.6441032,4,3,0,0
+790,Nepal,NEP,Madhav Kumar Nepal,192,1,0,0,3,3,Notfullhouse,3,0,2,Notfullhouse,NA,democracy,0,shock_t1,1,2009,0.43,570.9307893,5,4,0,0
+790,Nepal,NEP,Bhattarai,193,1,0,0,3,3,Notfullhouse,3,0,2,Notfullhouse,NA,democracy,0,shock_t1,1,2011,0.45,605.6336526,3,6,0,0
+790,Nepal,NEP,Khil Raj Regmi,194,1,0,0,2,2,Notfullhouse,2,0,2,Notfullhouse,NA,democracy,0,shock_t1,1,2013,0.17,645.2510105,NA,8,0,0
+790,Nepal,NEP,Sushil Koirala,195,1,0,0,2,2,Notfullhouse,2,0,2,Notfullhouse,NA,democracy,0,shock_t1,1,2014,0.45,675.7352885,3,9,0,0
+93,Nicaragua,NIC,Violeta Chamorro,196,1,2,5,8,8,Notfullhouse,3,0,1,Notfullhouse,NA,democracy,0,ins_all,0,1995,0.53,1117.047273,3,5,0,0
+93,Nicaragua,NIC,Aleman,197,1,0,0,6,6,Notfullhouse,6,0,1,Notfullhouse,NA,democracy,0,ins_t_s,0,1997,0.44,1190.034897,NA,7,0,0
+93,Nicaragua,NIC,Enrique Bolanos,198,1,0,0,6,6,fullhouse,3,1,0,fullhouse,NA,democracy,0,s_all,0,2002,0.44,1320.392956,2,12,0,0
+93,Nicaragua,NIC,Daniel Ortega,199,-888,0,0,9,9,fullhouse,6,1,0,fullhouse,NA,democracy,1,shock_t,1,2007,0.28,1518.653199,1,17,0,1
+698,Oman,OMA,Qabus Bin Said,200,-888,1,24,35,45,regime,32,1,1,NA,1,dictatorship,1,shock_t,1,1995,0.07,16295.7348,2,0,25,1
+95,Panama,PAN,Balladares,201,1,0,1,6,6,Notfullhouse,5,0,3,Notfullhouse,NA,democracy,0,shock_t1,1,1995,0.59,4786.238269,2,6,0,0
+95,Panama,PAN,Mireya Moscoso,202,1,0,0,6,6,Dopposition,2,1,2,Dopposition,NA,democracy,0,shock_t1,1,1999,0.59,5454.843666,NA,10,0,0
+95,Panama,PAN,Martinelli,203,1,0,0,10,10,Notfullhouse,8,1,1,Notfullhouse,NA,democracy,0,ins_t_s,0,2005,0.64,6172.395073,NA,16,0,0
+95,Panama,PAN,Varela Rodriguez,204,-888,0,0,2,2,Notfullhouse,1,1,0,Notfullhouse,NA,democracy,0,s_all,0,2014,0.62,10350.39954,1,25,0,0
+150,Paraguay,PAR,Wasmosy Monti,205,1,1,2,NA,6,Notfullhouse,6,0,2,NA,1,democracy,0,shock_t1,1,1995,0.38,2937.576375,3,3,0,0
+150,Paraguay,PAR,Cubas Grau,206,1,2,0,1,2,Notfullhouse,2,0,2,NA,1,democracy,0,shock_t1,1,1998,0.4,2911.633128,3,6,0,1
+150,Paraguay,PAR,Gonzalez Macchi,207,1,3,0,5,5,Notfullhouse,5,0,2,NA,1,democracy,1,shock_t,1,1999,0.41,2812.382828,3,7,0,1
+150,Paraguay,PAR,Nicanor Duarte Frutos,208,1,1,0,1,6,Notfullhouse,2,1,2,NA,1,democracy,0,shock_t1,1,2003,0.44,2633.235608,3,14,0,0
+150,Paraguay,PAR,Fernando Lugo,209,0,1,0,5,5,Notfullhouse,2,0,2,NA,1,democracy,0,shock_t1 & s_t_i,1,2008,0.49,3049.873977,3,16,0,1
+150,Paraguay,PAR,Federico Franco,210,0,1,0,2,2,Notfullhouse,2,0,1,NA,1,democracy,0,ins_all,0,2012,0.47,3235.723141,1,20,0,1
+150,Paraguay,PAR,Horacio Cartes,211,-888,1,0,3,3,Notfullhouse,2,0,1,NA,1,democracy,0,ins_all,0,2013,0.43,3640.522024,NA,21,0,0
+135,Peru,PER,Fujimori,212,1,1,5,11,11,opposition,11,0,2,NA,0,democracy,0,shock_t1,1,1995,0.12,3140.772189,4,0,3,1
+135,Peru,PER,Valentin Paniagua,213,1,1,0,2,2,unaffiliated,2,0,2,NA,0,democracy,0,shock_t1,1,2000,0.17,3310.779993,3,0,8,0
+135,Peru,PER,Alejandro Toledo,214,1,2,1,6,6,Notfullhouse,3,1,2,Notfullhouse,NA,democracy,0,shock_t1,1,2001,0.46,3287.285776,2,1,0,0
+135,Peru,PER,Garcia Perez,215,1,0,0,6,6,Notfullhouse,1,1,1,Notfullhouse,NA,democracy,1,ins_t_s,0,2006,0.63,4069.777098,3,5,0,0
+135,Peru,PER,Ollanta Humala,216,-888,0,0,5,5,Notfullhouse,5,0,0,Notfullhouse,NA,democracy,0,s_all,0,2011,0.62,5270.948747,2,10,0,0
+840,Philippines,PHI,Ramos,217,1,0,3,7,7,fullhouse,4,0,3,fullhouse,NA,democracy,0,shock_t1,1,1995,0.44,1506.5843,3,9,0,0
+840,Philippines,PHI,Estrada,218,1,0,0,4,4,Notfullhouse,4,0,2,Notfullhouse,NA,democracy,0,shock_t1,1,1998,0.45,1559.209277,3,12,0,1
+840,Philippines,PHI,Gloria Macapagal-Arroyo,219,1,0,0,10,10,Notfullhouse,2,1,2,Notfullhouse,NA,democracy,1,shock_t1,1,2001,0.45,1618.969757,3,15,0,0
+840,Philippines,PHI,Benigno Aquino III,220,-888,0,0,6,6,Notfullhouse,6,1,2,Notfullhouse,NA,democracy,1,shock_t1,1,2010,0.42,2129.499247,4,24,0,0
+694,Qatar,QAT,Hamad ibn Khalifah Al Thani,221,1,1,0,14,19,opposition,8,1,1,NA,0,dictatorship,1,shock_t,1,1995,0.09,NA,NA,0,25,0
+360,Romania,RUM,Vacariou,222,1,0,3,5,5,Notfullhouse,2,0,2,Notfullhouse,NA,democracy,0,shock_t1,1,1995,0.41,4920.727877,2,5,0,0
+360,Romania,RUM,Ciorbea,223,1,0,0,3,3,Notfullhouse,3,0,2,Notfullhouse,NA,democracy,0,shock_t1,1,1996,0.42,5125.898353,2,6,0,1
+360,Romania,RUM,Vasile,224,1,0,0,2,2,Notfullhouse,2,0,2,Notfullhouse,NA,democracy,0,shock_t1,1,1998,0.45,4800.890059,3,8,0,1
+360,Romania,RUM,Isarescu,225,1,0,0,2,2,Notfullhouse,2,0,2,Notfullhouse,NA,democracy,0,shock_t1,1,1999,0.45,4789.125169,3,9,0,1
+360,Romania,RUM,A. Nastase,226,1,0,0,5,5,Notfullhouse,2,1,2,Notfullhouse,NA,democracy,1,shock_t1,1,2000,0.45,4910.180872,3,10,0,0
+360,Romania,RUM,Traian Basescu,227,1,0,0,4,4,Notfullhouse,4,0,1,Notfullhouse,NA,democracy,0,ins_t_s,0,2004,0.46,6523.976568,3,14,0,0
+360,Romania,RUM,Traian Basescu,227,1,0,0,6,6,Notfullhouse,6,0,0,Notfullhouse,NA,democracy,0,s_all,0,2007,0.48,8061.405532,2,17,0,1
+360,Romania,RUM,Traian Basescu,227,-888,0,0,3,3,Notfullhouse,3,0,0,Notfullhouse,NA,democracy,0,s_all,0,2012,0.54,8582.423025,2,22,0,0
+365,Russia,RUS,Yeltsin,228,1,2,4,9,9,Notfullhouse,5,0,2,Notfullhouse,NA,democracy,0,shock_t1,1,1995,0.32,NA,NA,4,0,NA
+365,Russia,RUS,Putin,229,-888,3,0,13,16,regime,13,1,1,NA,1,dictatorship,0,shock_t1,1,2000,0.25,NA,NA,0,1,NA
+365,Russia,RUS,Putin,229,-888,3,14,16,16,regime,2,0,0,NA,1,dictatorship,1,shock_t,1,2013,0.15,NA,NA,0,14,NA
+560,South Africa,SAF,Mandela,230,1,2,1,6,6,fullhouse,2,1,2,fullhouse,NA,democracy,0,shock_t1,1,1995,0.52,5528.169471,4,2,0,0
+560,South Africa,SAF,Mbeki,231,1,0,0,10,10,fullhouse,7,1,1,fullhouse,NA,democracy,0,ins_t_s,0,1999,0.58,5688.308512,3,6,0,0
+560,South Africa,SAF,Motlanthe,232,1,0,0,2,2,fullhouse,2,0,0,fullhouse,NA,democracy,0,s_all,0,2008,0.67,7337.840174,3,15,0,0
+560,South Africa,SAF,Zuma,233,-888,0,0,4,7,fullhouse,7,0,0,fullhouse,NA,democracy,1,shock_t,1,2009,0.65,7145.784123,3,16,0,1
+92,El Salvador,SAL,Calderon Sol,234,1,0,1,6,6,Notfullhouse,5,0,0,Notfullhouse,NA,democracy,0,s_all,0,1995,0.28,2547.550156,2,6,0,0
+92,El Salvador,SAL,Flores,235,1,0,0,6,6,Notfullhouse,6,0,0,Notfullhouse,NA,democracy,0,s_all,0,1999,0.32,2675.865341,3,10,0,0
+92,El Salvador,SAL,Saca González,236,1,0,0,6,6,Notfullhouse,3,1,0,Notfullhouse,NA,democracy,0,s_all,0,2004,0.35,2758.157242,2,15,0,0
+92,El Salvador,SAL,Funes,237,1,0,0,6,6,Notfullhouse,4,1,0,Notfullhouse,NA,democracy,0,s_all,0,2009,0.42,2943.876855,2,20,0,1
+92,El Salvador,SAL,Sanchez Ceren,238,-888,0,0,2,2,Notfullhouse,2,1,0,Notfullhouse,NA,democracy,0,s_all,0,2014,0.48,3272.74025,1,25,0,0
+670,Saudi Arabia,SAU,Fahd,239,2.1,1,13,14,15,regime,15,0,1,NA,1,dictatorship,0,s_t_i,0,1995,0.04,18648.85687,4,0,25,0
+670,Saudi Arabia,SAU,Abdullah,240,2,1,0,1,20,regime,7,1,1,NA,1,dictatorship,0,s_t_i,0,1996,0.04,18744.78051,3,0,26,1
+670,Saudi Arabia,SAU,Abdullah,240,2,1,13,20,20,regime,20,0,1,NA,1,dictatorship,1,shock_t,1,2008,0.05,19792.72038,4,0,38,1
+317,Slovak Republic,SLO,Meciar,241,1,0,1,5,5,fullhouse,3,1,1,fullhouse,NA,democracy,0,ins_all,0,1995,NA,8698.868381,NA,3,0,0
+317,Slovak Republic,SLO,Dzurinda,242,1,0,0,9,9,Notfullhouse,9,0,1,Notfullhouse,NA,democracy,0,ins_t_s,0,1998,NA,10191.10526,NA,6,0,1
+317,Slovak Republic,SLO,Fico,243,1,0,0,5,5,Notfullhouse,5,0,0,Notfullhouse,NA,democracy,0,s_all,0,2006,NA,14326.25988,NA,14,0,1
+317,Slovak Republic,SLO,Radicova,244,1,0,0,3,3,Notfullhouse,3,0,0,Notfullhouse,NA,democracy,0,s_all,0,2010,NA,16600.61359,NA,18,0,0
+317,Slovak Republic,SLO,Fico,245,-888,0,0,4,4,Notfullhouse,4,0,0,Notfullhouse,NA,democracy,0,s_all,0,2012,NA,17299.62933,NA,20,0,0
+572,Swaziland,SWA,Mswati,246,-888,0,9,NA,30,regime,20,1,2,NA,1,dictatorship,0,shock_t1,1,1995,0.05,2835.039052,2,0,25,0
+652,Syria,SYR,Al-Assad H.,247,2,1,25,30,31,military,28,1,2,NA,0,dictatorship,0,ins_all,0,1995,0.04,NA,NA,0,25,0
+652,Syria,SYR,Bashar al-Assad,248,-888,1,0,16,16,military,16,0,1,NA,0,dictatorship,1,shock_t,1,2000,0.06,NA,NA,0,30,0
+800,Thailand,THI,Leekpai,249,1,0,3,4,4,Notfullhouse,1,0,2,Notfullhouse,NA,democracy,0,shock_t1,1,1995,0.23,3530.293985,2,4,0,1
+800,Thailand,THI,Silpa-Archa,250,1,0,0,2,2,Notfullhouse,2,0,2,Notfullhouse,NA,democracy,0,shock_t1,1,1995,0.23,3530.293985,2,4,0,0
+800,Thailand,THI,Chavalit Yongchaiyudh,251,1,0,0,2,2,Notfullhouse,2,0,2,Notfullhouse,NA,democracy,0,shock_t1,1,1996,0.29,3688.934203,2,5,0,0
+800,Thailand,THI,Leekpai,252,1,0,0,4,4,Notfullhouse,4,0,2,Notfullhouse,NA,democracy,0,shock_t1,1,1997,0.37,3545.388061,2,6,0,0
+800,Thailand,THI,Thaksin Shinawatra,253,3,0,0,6,6,Notfullhouse,2,1,1,Notfullhouse,NA,democracy,1,ins_all,0,2001,0.42,3544.208344,3,10,0,0
+800,Thailand,THI,Chulanont,254,1,0,0,3,3,Notfullhouse,3,0,1,Notfullhouse,NA,democracy,0,ins_all,0,2006,0.19,4525.159282,4,15,0,0
+800,Thailand,THI,Vejjajiva,255,1,0,0,4,4,Notfullhouse,4,0,1,Notfullhouse,NA,democracy,0,ins_all,0,2008,0.35,4800.810537,3,17,0,1
+800,Thailand,THI,Yingluck Shinawatra,256,1,0,0,4,4,Notfullhouse,4,0,1,Notfullhouse,NA,democracy,0,ins_all,0,2011,0.37,5093.5805,4,20,0,0
+800,Thailand,THI,Prayuth Chan-ocha,257,-888,0,0,2,2,Notfullhouse,2,0,1,Notfullhouse,NA,democracy,0,ins_all,0,2014,0.12,5591.10558,3,23,0,0
+52,Trinidad and Tobago,TRI,Manning,258,1,0,4,5,5,Notfullhouse,1,0,1,Notfullhouse,NA,democracy,0,ins_all,0,1995,0.65,6869.498121,2,26,0,0
+52,Trinidad and Tobago,TRI,Panday,259,1,0,0,7,7,Notfullhouse,7,0,1,Notfullhouse,NA,democracy,0,ins_all,0,1995,0.65,6869.498121,2,26,0,0
+52,Trinidad and Tobago,TRI,Manning,260,1,0,0,10,10,Notfullhouse,8,1,1,Notfullhouse,NA,democracy,1,ins_t_s,0,2001,0.63,10151.96096,2,32,0,1
+52,Trinidad and Tobago,TRI,Kamla Persad-Bissessar,261,1,0,0,6,6,Notfullhouse,6,0,0,Notfullhouse,NA,democracy,0,s_all,0,2010,0.67,16683.94578,3,41,0,1
+616,Tunisia,TUN,Zine Al-Abidine Ben Ali,262,3,1,8,13,25,coup,25,0,2,NA,0,dictatorship,1,shock_t1,1,1995,0.1,2432.312511,4,0,25,0
+616,Tunisia,TUN,Zine Al-Abidine Ben Ali,262,3,1,13,24,25,coup,18,1,2,NA,0,dictatorship,1,shock_t,1,1999,0.1,3004.610765,3,0,29,1
+616,Tunisia,TUN,Marzouki,263,1,4,0,4,4,Notfullhouse,4,0,2,NA,NA,dictatorship,0,shock_t1,1,2012,0.56,4127.401091,3,0,41,1
+616,Tunisia,TUN,Caid Essebsi,264,1,0,0,2,2,Notfullhouse,2,0,1,NA,0,dictatorship,0,ins_all,0,2014,0.6,4271.326849,2,0,44,0
+640,Turkey,TUR,Ciller,265,1,4,0,2,2,Notfullhouse,1,1,1,Notfullhouse,,democracy,0,ins_all,0,1995,0.39,7315.413146,4,12,0,0
+640,Turkey,TUR,Erbakan,266,3,0,0,2,2,Notfullhouse,2,0,1,Notfullhouse,,democracy,0,ins_all,0,1996,0.43,7731.425161,4,13,0,0
+640,Turkey,TUR,Yilmaz,267,1,0,0,3,3,Notfullhouse,3,0,1,Notfullhouse,NA,democracy,0,ins_all,0,1996,0.43,7731.425161,4,13,0,0
+640,Turkey,TUR,Ecevit,268,1,0,0,4,4,Notfullhouse,4,0,1,Notfullhouse,NA,democracy,0,ins_all,0,1999,0.44,7842.847644,4,16,0,1
+640,Turkey,TUR,Abdullah Gul,269,1,0,0,2,2,Notfullhouse,2,0,1,Notfullhouse,NA,democracy,0,ins_all,0,2002,0.51,8003.738381,3,19,0,0
+640,Turkey,TUR,Erdogan,270,-888,0,0,13,13,fullhouse,6,1,1,fullhouse,NA,democracy,1,shock_t,1,2003,0.54,8332.027503,3,20,0,1
+696,United Arab Emirates,UAE,An-Nahayan,271,2,1,24,34,34,independent,32,1,2,NA,0,dictatorship,0,ins_all,0,1995,0.07,61818.23378,2,0,25,0
+696,United Arab Emirates,UAE,Khalifa Al Nahayan,272,-888,1,0,10,12,regime,1,1,0,NA,1,dictatorship,1,shock_t,1,2004,0.07,60042.59735,2,0,34,1
+369,Ukraine,UKR,Yushchenko,273,1,0,0,6,6,Notfullhouse,3,1,1,Notfullhouse,NA,democracy,1,ins_all,0,2005,0.33,2746.049802,3,16,0,1
+369,Ukraine,UKR,Yanukovych,274,1,0,0,5,5,Notfullhouse,1,1,1,Notfullhouse,NA,democracy,1,ins_all,0,2010,0.35,2965.142365,2,21,0,0
+369,Ukraine,UKR,Petro Poroshenko,275,-888,0,0,2,2,Notfullhouse,2,0,1,Notfullhouse,NA,democracy,0,ins_all,0,2014,0.27,3123.915572,4,25,0,1
+101,Venezuela,VEN,Caldera Rodriguez,276,1,0,0,6,6,Notfullhouse,6,0,1,Notfullhouse,NA,democracy,0,ins_all,0,1995,0.66,NA,NA,27,0,NA
+101,Venezuela,VEN,Hugo Chavez,277,2,0,0,4,14,Notfullhouse,4,0,1,Notfullhouse,NA,democracy,0,ins_all,0,1999,0.5,NA,NA,31,0,NA
+101,Venezuela,VEN,Hugo Chavez,277,2,0,4,7,14,fullhouse,6,1,2,fullhouse,NA,democracy,1,shock_t,1,2002,0.26,NA,NA,34,0,NA
+101,Venezuela,VEN,Hugo Chavez,277,2,0,7,14,14,fullhouse,1,1,2,fullhouse,NA,democracy,1,shock_t,1,2005,0.2,NA,NA,37,0,NA
+101,Venezuela,VEN,Maduro,278,-888,0,0,4,4,fullhouse,4,0,3,fullhouse,NA,democracy,0,shock_t1,1,2012,0.18,NA,NA,44,0,NA
