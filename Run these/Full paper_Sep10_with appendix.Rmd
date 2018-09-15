@@ -1,0 +1,725 @@
+---
+title: "Why and When will Leaders of Developing Country Negotiate South-North Preferential Trade Agreements?"
+author: "Lucie Lu"
+date: "September 10, 2018"
+output: pdf_document
+fontsize: 12pt
+geometry: margin = 1.2in
+header-includes:
+- \usepackage{placeins}
+- \usepackage{setspace}
+- \usepackage{chngcntr}
+- \onehalfspacing
+- \counterwithin{figure}{section}
+- \counterwithin{table}{section}
+- \usepackage{float}
+- \floatplacement{figure}{H}
+
+bibliography: reference.bib
+
+---
+
+```{r global_options, include=FALSE, cache=FALSE}
+## To make the pdf file do
+## render("exploration4.Rmd",output_format=pdf_document())
+
+require(knitr)
+opts_chunk$set(
+  tidy=FALSE,     # display code as typed
+  size="small",    # slightly smaller font for code
+  echo=TRUE,
+  results='markup',
+  strip.white=TRUE,
+  fig.path='figs/fig',
+  cache=FALSE,
+  highlight=TRUE,
+  width.cutoff=132,
+  size='footnotesize',
+  out.width='.9\\textwidth',
+  message=FALSE,
+  comment=NA)
+
+options(knitr.graphics.auto_pdf = TRUE)
+
+```
+
+
+```{r initialize,echo=FALSE, message=FALSE, warning=FALSE}
+##First, just setup the R environment for today:
+if(!file.exists('figs')) dir.create('figs')
+
+options(SweaveHooks=list(fig=function(){
+			   par(mar=c(3.5, 3, 1.1, 0),
+			       pty="s",
+			       mgp=c(1.5,0.5,0),
+			       oma=c(0,0,0,0))},
+			 echo=function(){options(continue=" ") ##Don't show "+" prompts,
+			 options(prompt=" ")
+			 }),
+	digits=4,
+	scipen=8,
+	width=132
+	)
+options(error=function(){options(prompt="> ",continue="+ ");NULL})
+
+
+#To prepare the environment
+library(readstata13)
+library(dplyr)
+library(ggplot2)
+#install.packages("ggrepel")
+library(ggrepel)
+library(stargazer)
+
+#install.packages("devtools")
+library(devtools)
+
+library(foreign)
+#install.packages("gplots")
+library(gplots)
+
+library(lmtest)
+library(sandwich)
+
+suppressMessages(library("tidyverse"))
+
+library(MASS)
+library(robustbase)
+
+#install.packages("rmngb")
+library(rmngb)
+library(here)
+
+#devtools::install_github("ropenscilabs/gramr")
+library("gramr")
+#write_good_ip()
+
+library(arm)
+#install.packages("effects")
+library(effects)
+library(ROCR)
+
+library(multiwayvcov)
+
+#devtools::install_github("rstudio/rmarkdown")
+#install.packages("stringi",type="win.binary")
+
+#install.packages("kableExtra")
+#install.packages("magrittr")
+library(kableExtra)
+library(magrittr)
+knitr::opts_chunk$set(echo = TRUE)
+
+```
+
+
+	
+$\qquad$ In 1994, South Africa took an opportunity to negotiate a preferential trade agreement with its most important economic partner in history, the European Union (EU). The same year also featured a prominent leadership change: the victory of Nelson Mandela and African National Congress from the first universal suffrage elections ended decades of Apartheid regime. However, the new transitioning democratic regime was measured as one of the most extremely unstable and insecure ones immediately when Mandela started his tenure. Mandela's government wanted to conduct substantial privatization and further economic reforms to restore the collapsing economies due to decades of isolation. However, this new government's initiatives were challenged by the other influential political players  that strongly opposed privatization and foreign investment. Mandela immediately approached the EU to start the process of Preferential Trade Agreement negotiation [@bacciniInternationalInstitutionsDomestic2014]. After five years of negotiations, the preferential trade agreement with the EU put in force in 2000 helped South Africa to undergo its transitioning economies smoothly. The government was fully prepared to adjust its trade policy by moving away from import substitution industrialization towards competitive trade liberalization. The EU member states had clear interests in providing development assistance to facilitate the democratization process in South Africa and provided a 12-year transition window for South Africa to gradually adjust to implement the trade liberalization policies [@bilalHowDavidPrepared2004]. In accord with the agreement, the EU also provided developmental aid and technical assistance to help South Africa to comply with the competition policy [@bacciniInternationalInstitutionsDomestic2014]. Finally, the reforms have successfully rebuilt the confidence of the foreign investors not only from the EU but also from other countries. 
+
+$\qquad$ South Africa's experience is a successful case for developing countries to pursue its reform-oriented trade strategy in the negotiation of PTAs with the major trade powers. Economic reforms usually provoke controversy and organized opposition domestically, so often the ability of leaders to implement such liberal economic reforms is limited [@bacciniInternationalInstitutionsDomestic2014]. A credible and binding international trade agreement with the leading economies has the potential to help facilitate this process. PTAs provide member governments with a mandate to make policy changes, while they supply material benefits and mechanisms to reward and punish members' behaviours.   
+
+
+$\qquad$ My research question is: Recognizing the preferential trade agreement with provisions of economic reforms is a binding commitment that imposes policy reforms and entails political costs, some leaders in the developing countries chose to negotiate it with the major liberal trade powers, while some did not. Why and when will leaders in the developing countries negotiate South-North preferential trade agreements with provisions of economic reforms?
+
+
+$\qquad$ This paper is interested in explaining what motivates a leader from the developing countries to negotiate this particular deep and demanding international treaty. One reason is the popularity of this type of preferential trade agreement. The bilateral preferential trade agreement is a rapidly growing international institution that governs economic markets of the member states. Leaders are more interested in building bilateral trade agreements because it is easier to realize both parties' initiatives to achieve agreements when the participants are limited during the negotiations. South-North and South-South agreements from the 1990s onward comprise two-thirds of the total PTAs in force [@worldtradeorganizationWTOPreferentialTrade2011]. In addition, PTA tends to have deeper integration, a trend especially prominent in the South-North PTA. They tend to go beyond tariff reductions but include provisions on regulatory policy areas such as foreign investment, intellectual property rights and human rights issues. This paper focuses on the PTA with the provisions on competition policy as a stringent requirement imposed on contracting countries to ensure the institutional reforms. The provision includes but is not limited to the privatization of the state-owned firms and regulation on monopolies and cartels. In other words, these PTAs are designed to change the domestic economic structures and reset the rules of the game for the contracting states who have not met the standards yet. This specific type of South-North PTAs this paper focuses on is one of the most costly and deepest ones because it requires the states to change their policies, conduct structural economic reforms and open its domestic markets for competition.  
+
+
+$\qquad$ This paper also intends to focus only on the leaders from the South and their rationales of initiating a negotiation with the North. I assume the leaders from the developing countries are fully aware of the costs of complying with these international agreements, yet they still choose to do so. The power imbalances between the contracting parties are particularly stark in the arena of South-North PTAs negotiations, reflecting the different potential costs for them. When leaders in the developing countries negotiate with the major liberal powers, the leaders in the developing countries may bargain specific provisions but have little room to change the whole package [@bacciniInternationalInstitutionsDomestic2014]. The main feature of the PTAs with the leading liberal economies, for instance, E.U., U.S., Japan, Australia, include a wide range of reform provisions in their agreement packages. Most of these deep PTAs generally require structural economic reforms in the partner countries.
+
+
+$\qquad$ In contrast, when developing countries negotiate a PTA with an emerging trade power, China or India, they will not anticipate this type of power partner to demand such liberalizing reforms to a large extent. Both the leaders in the South and North voluntarily participate in the negotiation. However, I anticipate developing countries make a larger concession to play the rules of the game mainly set by the major players. In other words, when they approach these major powers to negotiate a PTA, they more or less anticipate they have chosen the deepest PTAs by design. To understand the puzzle, why and when a leader in the developing country will opt in such a costly treaty, motivates this paper. 
+
+
+
+#Context and Rationale
+
+$\qquad$ Preferential trade agreements (hereafter PTAs) are binding international treaties that help states to foster trade and economic integration among member-states. Current literature on the preferential trade agreement mainly focuses on the effects of this institution. Questions centre around whether the PTAs increase trade volumes among member-states and their impacts on the overall trade flows in the multilateral trade system [@bagwellWillPreferentialAgreements1998]. Put simply, scholars examine to what extent the PTAs have achieved their desired economic purposes: lowering tariffs, facilitating trade and increasing the welfare of the states in the long term. In addition to studying the consequences of the PTAs, emerging political economy literature has offered explanations for why states form the PTAs. Earlier years, the focus is the macroeconomic and macropolitical factors that explain the proliferation of the PTAs, including the lack of the progress in the multilateral trade regime and the spillover effect of regionalism [@baldwinDominoTheoryRegionalism2012; @rodrikRushFreeTrade1992; @mansfieldMultilateralDeterminantsRegionalism2003]. 
+
+
+$\qquad$ Recent studies zoom into the domestic factors within the states to explain this trend. While there is no shortage of explanations on why governments form PTAs, scholars also tend to treat the PTAs as a unitary concept [@durDesignInternationalTrade2014]. They overlook the design differences of the PTAs, which imply different degrees of policy changes embedded in these international agreements. Few studies reach beyond trade liberalization to examine the role of the PTA in policy reform. Perhaps the most important exception is Baccini and Urpelainen [-@bacciniInternationalInstitutionsDomestic2014], who argues PTA can help developing countries to implement economic reforms, leaning more on examining the effect of the PTA. This article takes the opportunity to examine the deepest and costly subcategory of the PTAs and argues the leaders' commitments to such agreement reflect their political purposes. Leaders have clear political objectives to commit to the deep PTAs with the expectation to conduct economic reforms when they are insecure. The political motivation of PTA negotiation is currently understudied; yet, to understand when and why a leader of developing countries commits to the preferential trade agreement with the provision of economic reform is important because economic reforms will have immense consequences for the citizens of that country and beyond. The key question, the cause of economic reforms, yet, remains open.
+
+
+$\qquad$ This article speaks to the theme in the literature regarding the cause of PTA formation. This article is in line with the argument proposed by Mansfield and Milner [-@mansfieldVotesVetoesPolitical2012]: "government sign PTAs for domestic political reason" (p. 23). They offer one potential explanation: the regime type. Democratic countries are more likely to join a PTA than nondemocratic countries because these governments can send a positive signal of their commitment of liberal trade policies to the median voters [@mansfieldVotesVetoesPolitical2012; @mansfieldWhyDemocraciesCooperate2002].New leaders in democratizing countries tend to negotiate the PTA to lock in economic reforms to avoid autocratic reversals [@bacciniInternationalInstitutionsDomestic2014]. To understand why a government negotiates the PTAs with other government, scholars also focus on the interest groups who benefit from the expanding market promised by the PTAs. The pro-free trade beneficiary groups lobby the incumbent governments to sign such a trade agreement to serve their political objectives [@grossmanPoliticsFreeTradeAgreements1995]. On the other hand, trade policy affects groups in society differently. Some private sectors benefit from the protectionist policy. Over time, they will expand too much, create rents and inefficiencies to distort the economy. Governments make international commitments in the free trade international agreements to tie their hands to avoid making an excessive concession to interest groups in the expectation of protection and subsidies in the future [@staigerGattRulesHelp1999]. These arguments capture the interaction between a government and its domestic audiences: median voters, interest groups or private sectors. Leaders generally use the international agreement of trade agreements as a signal to the domestic audience of their welfare-enhancing economic policy to retain office. 
+
+
+$\qquad$ I argue it is deficient to examine the cause of the PTA as purely economically driven. What is overlooked is that leaders negotiate PTAs for political reason. To advance the literature on understanding the cause of PTA formation, this paper focuses on the strategic interactions between leader and opposition. In this story, the key audience of the PTA negotiation is opposition. That is, a leader negotiates a PTA with the provision of economic reform to punish the opponents' past transgression. I argue PTA negotiation is a deliberate choice that a leader makes to commit to the binding and stringent policy reforms to rearrange the domestic power structures. 
+
+
+#Theory
+
+##Economic reform as a political strategy
+
+$\qquad$ I argue PTA negotiation with the stringent provision of economic reform is a tactic a leader uses to reduce the strength of opposition after he survives a political crisis. To understand why this argument holds, I first lay out the basic set-up in a non-crisis circumstance: a leader offers rents to exchange for the opposition's support. This arrangement does not prevent a political crisis, which can happen at any time. The opposition group attempts to depose the leader, but this group fails. The leader survives the shock to security, so now he has two tactics to punish the defectors: furthering repression or retracting loyalty rents. Economic reform is a powerful tactic to rearrange the power bases of the elites, so it serves as a punishment to the defectors.   
+
+$\qquad$ Let us start with the basic setup. Leaders' most fundamental interest is survival. They inherently want powerful and stable leadership. Leaders have two instruments to accumulate power: Repression and Loyalty [@wintrobePoliticalEconomyDictatorship1998]. Repression means a leader restricts individuals' rights to criticize against the government or use severe sanctions to punish the organized opposition to the government, including imprisonment, execution, and torture. Loyalty means a leader can accumulate the political loyalty of elites by means of the distribution of rent. Political rent is the price a leader pays to buy off the loyalty of the opposition to exchange for political stability. Certain economic policies create rents for elites that serve as the bases of supports. Heavy subsidies to State-Owned Enterprises (SOEs) and import-substituting industrialists, and political project of the government are some examples of policies of loyalty. The continuing loyalty of elites is critical to leaders' survival.    
+
+
+$\qquad$ Opponents compete for power. Some have independent power to consider certain types of legislation; some can form political parties to compete in office formally, and some may share covert power bases with interest groups in society. Because a leader's power is not absolute, opposition may defect and overthrow the incumbent government from time to time. Their ultimate goal is to subvert the rule of the current leader. They can choose to form a coalition with the leader or pose a threatening demand to the current regime.   
+
+
+$\qquad$ In non-crisis circumstances, leader and opposition already have mutual signalling and commitment problems. To reward the loyalty of the opposition, a leader could promise to implement certain policies that the opposition benefit. One example is the government's subsidies to the SOEs or some public financed projects that create rents for the opposition. The opposition, benefiting from such an arrangement, offers support for the regime in return. However, what guarantee does each party have that the other party will live up to their commitment? Leaders could potentially see the risks of increasing power of the opposition who benefit from collecting political rents, so they could stop appeasing the opposition but start torturing them. The opposition may also promise loyalty to the leader on the surface, but they could take part in an assassination plot as soon as the ruler shows his weaknesses. In sum, the so-called Dictator's Dilemma always exists: "the greater the dictator's power, the more reason he or she has to be afraid" [@wintrobePoliticalEconomyDictatorship1998, p. 22]. Stated differently, a leader never really knows how popular he is and when the promised support stops being delivered. No matter how stable a regime may look, an upheaval may occur any time [@kuranNowOutNever1991].   
+
+
+$\qquad$ The theoretical story begins with the post-crisis circumstances: a shock to security occurs and the leader survive the shocks. We can conceptualize shock to security as "the [threatening] demands on a regime by opposition groups" [@reganDemocracyThreatsPolitical2002, p. 122]. The opponents' abrupt demands can take various forms, such as strikes, protest demonstrations, riots, guerrillas and civil war. When the demands are sufficiently strong to destabilize the government, the leader is less likely to accede to the demands. The ruler will perceive the abrupt demands as an open challenge from the opposition and associate them with defecting from the promised loyalty. In this study, a *shock to security* occurs when opponents pose threatening demands to challenge the current regime, which leads to political instability.   
+
+
+$\qquad$ What is the leader's response after the opposition defect from the promised support and pose the threatening demands? The most intuitive response is a leader punishes the disloyal opponents who pose threatening demands. If the costs of reneging are high, the frequencies of defection are expected to drop. Scholars mainly focus on the violent forms of political repression as the leader's main response to deter dissent. I argue a different tactic a leader can use, a non-violent form of punishment, economic reform. This adds more nuances to the instrument of a leader uses in the loyalty side: he can retract the promised loyalty to rearrange the power bases.   
+
+
+$\qquad$ One common route a leader takes is to torture or murder the opposition. I argue repression is only one of the tactics a leader can use to punish the defectors. A leader who survives a shock may not have the capacity to kill all the revolutionary leaders and the conspirators in the organized opposition groups as he wishes. Even if he has the capacity to do so, all the opposition today will become his potential threats in the future, so it is not feasible to kill all of them. Therefore, repression is one of the tactics that a leader uses; however, it may be not the wisest one.   
+
+
+$\qquad$ I argue, another powerful tactic of punishment is economic reform. This strategy withdraws the promised payoffs and limits the rent-seeking opportunities for the opposition today and tomorrow. Economic reforms, i.e., the privatization of state-owned enterprises and fair competition for the government-funded project can effectively cut off the power sources of the opposition. It is generally safe to assume that much of the opposition somehow benefits from the distribution of rent prior to the shock. Originally, the rents were promised by the leaders to reward the loyal groups. Now, economic reforms come at the expense of the interest groups who previously privileged from the political rents. The structural changes of economies also make the opposition's accumulation of future rents and powers harder. Economic reform as a tool of political survival for leaders can punish the current defectors and deters future cheaters by cutting off their potential sources of wealth and resources. Therefore, a leader, after a shock (conceptualized as an open challenge to the leader), implements economic reforms because he wants to punish the elites who break their promises of offering loyalty to his leadership.  
+
+
+##Why negotiating a PTA with major liberal powers?
+
+$\qquad$ Suppose a leader perceives economic reform as a tool to punish the opposition and announces his decision to conduct an economic reform domestically without a PTA negotiation. Earlier on, we have discussed the commitment problem among the leader and opposition is acuter in autocracies and immature democracies. The domestic opposition are skeptical about the leader's credibility and capacity to implement such a policy. Especially after the shock to security, a leader needs time to restore the status quo ante yet strong enough to implement the reform unilaterally. Failure to implement economic reform will not only by no means serve as a punishment to the opposition and deter future dissent, but also diminishes the credibility of leaders' future policy changes.   
+
+$\qquad$ PTAs with major liberal powers mitigates the commitment problem highlighted above. The negotiation of PTA sends a credible signal to the foreign investors that economic reforms will be more likely to be enforced. Recall, PTAs are binding international agreement: governments cannot constantly violate or arbitrarily pull out of the agreements without retaliation. PTAs by design have some coercive mechanisms of influence to make the costs of defection higher than the costs of conformity. In plain words, the expected values of the preferential trade agreements are conditional on the implementation of economic reforms. If leaders fail to implement the provisions, they will pay costs. Therefore, leaders in the developing countries approach to those in the developed countries to negotiate a stringent PTA implies that leaders have anticipated complying the provisions of economic reforms. PTA negotiation sends a credible signal of leaders' commitments to the reforms.   
+
+
+$\qquad$ PTAs negotiation also sends a signal to the opposition that the current leader has won support from the international community, especially from the major powers. Because both the leader and the opposition are assumed to be office-seeking, so they all hold a value from holding power or seeking power. The opposition cannot perfectly observe the power of a leader holds and how much he has recovered from a shock to security. While a leader's announcement of economic reforms probably induces backfiring by the opposition, the successful negotiation of a treaty sends a strong signal to indicate the power of the current leader. This can reduce the possibility of the opposition's further attempts to overthrow the leader in the short run. In short, leader's strategic choice of negotiating the PTAs with the provision on economic reforms provides a credible and enforceable mechanism to implement such policy.   
+
+
+$\qquad$ Now let us turn to explain why PTAs can help leaders to implement economic reforms. The PTAs are expected to increase trade volumes and the flow of foreign direct investment, and hence increase tax revenues. As a result, the leader has more resources at their disposal, furthering their hold on power to recover from the shock to security. The promising trade benefits also expect to increase national income. Leaders can claim credit for the improvement in welfare, so the citizens' loyalty to the leadership will be higher. The opposition, who mainly lose from the liberalized economic reforms, can be pacified by the values of the PTAs. With the PTAs in place, the opposition benefit from the increasing welfare of the trade as a citizen and operate in a more efficient economic institution to accumulate wealth as a business operator. They can rebuild their power bases by building up substantial connections with foreign traders, or even gain political support from the foreign governments in the evolving relations of business. Opposition, depending on where their power sources base, may be affected by the trade liberalization unevenly.
+
+
+$\qquad$ Opposition whose power bases are in the exporting sectors with comparative advantages can reap the most benefits from the opening market. They are the potential winners from the PTAs, whose benefits offset or outweigh their loss in the pre-reform period. In contrast, those in the previously protective sector are forced to compete with foreign producers, are hit with a double-whammy: structural economic adjustment process and net losses in trade.    
+
+
+$\qquad$ The main argument in the previous section is economic reform punishes disloyal opposition who deviate from the promises of offering support to the leader. However, economic reforms may inevitably hurt the elites who are in fact the government supporters. Recall, political rent is a tool that a leader uses to gain loyalty. Economic reforms will stimulate dissent and decrease loyalty, so the leader has to re-buy loyalty from the opposition after both parties recover from the shock to security. After reestablishing their pro-government credentials, a leader can use the increased revenue from trade as a side payment to compensate the loyal opposition, so they can restart their rent-seeking cycles to accumulate wealth and power. Alternatively, leaders carefully crafted the economic reforms to increase rents for the potential winners of the trade liberalization to coalesce a coalition [@schamisDistributionalCoalitionsPolitics1999]. A leader can use economic reform to not only target the disloyal opposition responsible for the shock to security, but also reestablish a coalition with loyal opposition to consolidate his power.   
+
+##Summary 
+
+$\qquad$ The puzzle to explain is what motivates a leader in the developing country to negotiate one of the most costly and stringent trade agreements with the developed country. One of the most important features of these PTAs is the provision of economic reforms, whose implementation will ignite domestic opposition. My argument, in brief, is the following: a leader strategically negotiates a PTA when he is insecure. I argue after a leader is hit by a shock to security, he can choose economic reforms to punish the disloyal opposition responsible for the outbreak. Leaders are more likely to implement economic reform when the PTAs negotiation is in place. The PTAs with major economic powers send positive signals to mitigate commitment problem that a leader has, and offers material benefits to facilitate the reforms. This argument has a main empirical implication that can be used to test its validity in the next section. My prediction is: The presence of shocks to security in a regime is associated with higher probabilities of its leader's PTA negotiation.    
+
+
+#Research Design
+
+
+$\qquad$ I design a quasi hypothetical experiment in my observational data. My design compares the likelihoods of leaders with shocks to security and those without to negotiate the South-North PTAs. The hypothetical treatment in this study is *shock to security*. I defined two types of shocks to security. Before getting into a shock, here I use two indices to measure the security of a leader:   
+
+1) a leader's security when he starts his tenure at time *0* depending on his relation to the past leader (or not); and,  
+
+2) the security of the regime when the leader holds office at time *t*.     
+
+
+$\qquad$ In non-democratic regimes, the security of leaders at time 0 is coded as authoritarian leaders' affiliation with their previous leaders. An authoritarian leader is coded as secure at time 0 when he is politically affiliated and from the same ruling coalition with his previous leader. An authoritarian leader is insecure at time 0 when a leader is in the opposition party of the previous leader, or he is unaffiliated with the preceding government. In other cases, if he is in a military regime or a regime with no authority where by assumption there are higher risks of coups d'etat and popular uprisings, he is also defined as insecure when he starts his tenure at time 0. However, note that in democracies, a leader's relation to his past is irrelevant; hence, a leader is automatically assumed as a secure leader at time 0.   
+
+
+$\qquad$ The security of the regime over time *t* measures the vulnerability of the regime to collapse in any given year. I use political effectiveness score in the state fragility index to measure the political secureness of a regime to capture the dimensions of political opposition, citizen's confidence in the political process, political violence of a regime etc. The index ranges from 0 to 3, 0 means the most secure, and 3 means insecure. I recoded all the regimes with score 0 and 1 as secure otherwise insecure starting at time 1, if the political effectiveness score remains unchanged during one's tenure. I coded a change of worsening scores (for example, from 0 to 1) as a period of the regime experiencing an insecure shock over time *t*.   
+
+
+Here I develop two types of shocks to security:
+
+Type 1: a leader who is secure at time 0 becomes insecure immediately onward at time 1. Substantively, it means a leader starts his tenure in an unstable and contested environment in which the leader is highly constrained by the opposition.    
+
+Type 2: a leader experiences a shock to security during his tenure at time t. The political crisis captured in such a shock to security can be a result of threats from the fractionalized ruling coalition, popular uprisings, or even the actual use of force.  
+
+
+$\qquad$ The unit of analysis is a leader. The data set covers 286 leaders in 62 developing countries in the period 1995 to 2015. Note that at least one of the leaders in these developing countries negotiated one PTA with the provision of competition policy with a developed country at some point during this period. The data set excludes leaders in the liberal democracies (V-Dem's Electoral Democracy Index above 0.75) where the rule of law and constraints on the executives are respected most of the time. In a regime as such, leadership change is routine and institutionalized. Therefore, there are lower risks for leaders losing power and hence lower incentives for leaders to use binding trade agreements for political survival. Note that under mature democratic regimes, all but the most extreme form of opposition will be channeled into the formal institutions of government, in which dissents of opposition can hardly dampen the political stability or cause a shock to security. In such democratic regimes, not only shocks to security rarely happen but also leader turnovers are generally institutionalized and peaceful. Leaders' reactions to such threats may also be institutionalized. Therefore, I limit the scope of this study in only autocratic and semi-democratic developing countries. Furthermore, it removes leaders whose tenure is less than one year, in such case they have no time to pursue any substantial policy changes given the short amount of time in office. 
+
+ 
+$\qquad$ The *dependent variable* is a binary one. If a leader in the developing country has ever negotiated a South-North PTA with the provisions of economic reforms during his tenure, then this event happened, coded as 1, otherwise 0. Notice that a leader may negotiate a couple of PTAs at different points of his tenure, however, the event will be only counted once, which is the first PTA he negotiated. In this data set, a majority of the PTAs have been put into force, while some of them were still in the negotiation process. Here I focus on when leaders negotiate a PTA rather than sign a PTA because there may be leadership change between years that a leader negotiates a PTA while a leader ratifies it. 
+
+$\qquad$ The *independent variable* is the hypothesized treatment of shock to security. If a leader experienced either or both types of shocks to security, he is considered treated. 
+
+
+$\qquad$ I completely aware that the treatment assignment is not random in an observational study, so I used a matching design on balancing the following observed *covariates* so that the treatment and control group are comparable. The covariates in this study are qualities of democratic or autocratic authority measured by V-Dem's Electoral Democracy Index, GDP per capita measured by World Bank, human rights conditions measured by Political Terror Scale, and the length of uninterrupted regime duration up to a leader starts his tenure. The covariates by definition are variables measured prior to treatment assignment and unaffected by the hypothesized treatment. Therefore, I only concern about all of these indices of the covariates for each leader in the same year when he starts his tenure at time 1.   
+
+
+$\qquad$ I also include two control variables in my model. The first one is leader's tenure. A leader's tenure is a confounder because the longer a leader holds office, the probability of engaging in the PTA negotiation may be higher, and the risks of being exposed to the shock to security is be higher. The second control variable is Economic Recession. In a period when a country experiences poor economic performance, a leader in the developing country perceive the potential economic benefits of the PTA with the South can help with the economic recovery. Also, this regime may be more likely to experience an insecure shock when the economy declines. Therefore, a country's economic growth is an important confounder for both the explanatory and outcome variables.
+
+
+$\qquad$ My *hypothesis* is: Leaders who experience a shock to security are expected to have higher probabilities of negotiating a PTA than those do not.  
+
+
+#Shocks to Security and PTA Negotiations: Results
+
+
+```{r set up the data, echo=FALSE, message=FALSE, warning=FALSE, include=F}
+
+getwd()
+set_here(path=".", verbose=T)
+here()
+
+list.files(path=".")
+
+
+```
+
+$\qquad$ The dataset originally covers 406 leaders in the developing countries across regime types between 1995 to 2015. It excludes leaders in the liberal democracies (V-Dem's Electoral Democracy Index above 0.75) where a more demanding notion of democracy that the rule of law and constraints on the executives are respected. The rationale of PTA as a result of power consolidation, as argued, does not apply to stable and consolidated democracies. Furthermore, it removes leaders whose tenure is less than one year, in such case they have no time to pursue any substantial policy changes given the short amount of time in office. Currently, the data set covers 293 leaders in 61 developing countries from 1995 to 2015.
+
+
+```{r allregimesminusliberaldemocracy, results='hide', echo = FALSE, message = FALSE, warning=FALSE}
+
+mydata_10_all <- read.csv("mydata10all_matching_3.csv") #286 observations
+#View(mydata_10_all)
+
+table(mydata_10_all$Z) #93 events
+length(unique(mydata_10_all$ccode)) #62 countries
+
+table(mydata_10_all$GDPdecline) #79 leaders experiencing decline
+
+n_leader <- nrow(mydata_10_all) #286 leaders
+
+#factorize Z
+mydata_10_all$Z <- as.factor(mydata_10_all$Z)
+
+percent_leader0 <- round((table(mydata_10_all$Z)[1]/n_leader)*100,2) #67.48%
+percent_leader1 <- round((table(mydata_10_all$Z)[2]/n_leader)*100,2) #32.52%
+
+percent_leader0 #leaders without shocks
+percent_leader1 #leaders with shocks
+```
+
+
+```{r rearrange data, eval=T, echo=F, message=F, warning=F, results='hide'}
+
+#########
+#nondemocratic regimes:
+mydata_10_auto <- subset(mydata_10_all, !DICT3=="democracy") #77 leaders in no authority plus autocracies
+
+n_leader_auto <- nrow(mydata_10_auto)
+
+percent_leader0_auto <- round((table(mydata_10_auto$Z)[1]/n_leader_auto)*100,2) #64%
+percent_leader1_auto <- round((table(mydata_10_auto$Z)[2]/n_leader_auto)*100,2) #36%
+
+percent_leader0_auto #leaders without shocks
+percent_leader1_auto #leaders with shocks
+
+##########
+#democratic regimes:
+mydata_10_dem <- subset(mydata_10_all, DICT3=="democracy") #209 in electoral democrcies (limited form of democracy)
+
+n_leader_dem <- nrow(mydata_10_dem)
+
+percent_leader0_dem <- round((table(mydata_10_dem$Z)[1]/n_leader_dem)*100,2) #69%
+percent_leader1_dem <- round((table(mydata_10_dem$Z)[2]/n_leader_dem)*100,2) #31%
+
+percent_leader0_dem #leaders without shocks
+percent_leader1_dem #leaders with shocks
+
+
+```
+
+
+```{r all regime types, eval=T, echo=F, message=F, warning=F, results='hide'}
+
+dis_Z_event <- table(mydata_10_all$Z, mydata_10_all$event)
+dis_Z_event[1,1] #142
+dis_Z_event[1,2] #51
+dis_Z_event[2,1] #52
+dis_Z_event[2,2] #41
+
+
+percent_leader0_event <- round(((dis_Z_event[1,2])/(dis_Z_event[1,2]+dis_Z_event[1,1]))*100,2) #26%
+percent_leader1_event <- round(((dis_Z_event[2,2])/(dis_Z_event[2,1]+dis_Z_event[2,2]))*100,2) #44%
+
+
+
+
+mydata10_all_ggplot2 <- na.omit(mydata_10_all[,c("Z", "event", "DICT3")])
+mydata10_all_ggplot2$Z <- as.factor(mydata10_all_ggplot2$Z)
+
+mydata10_all_ggplot2 <- ggplot(data=mydata10_all_ggplot2, aes(x=Z, y=event, color = DICT3))
+
+
+mydata10_all_ggplot2  +
+  geom_point(position=position_jitter(height=0.2, width=0.2)) + theme_bw() + 
+  labs(x="Shock to Security", y = "Probability of PTAs Negotiation (%)") + 
+  ggtitle("Dsitributions of Leaders across Regime Types \n Divided by Shock to Security") + 
+  theme(plot.title = element_text(face="bold", size=16, hjust = 0.5)) + 
+  annotate("text", x = 1:2, y = 0.5, label = c("26%", "44%")) +
+  scale_x_discrete(breaks=c("0","1"), labels=c("No Shock", "With Shock"))
+
+```
+
+
+```{r distribution z event according to regime, eval=T, echo=F, message=F, warning=F, results='hide'}
+
+dis_Z_event_auto <- table(mydata_10_auto$Z, mydata_10_auto$event)
+dis_Z_event_auto[1,1] #142
+dis_Z_event_auto[1,2] #51
+dis_Z_event_auto[2,1] #52
+dis_Z_event_auto[2,2] #41
+
+percent_leader0_event_auto <- round(((dis_Z_event_auto[1,2])/(dis_Z_event_auto[1,2]+dis_Z_event_auto[1,1]))*100,2) #37%
+percent_leader1_event_auto <- round(((dis_Z_event_auto[2,2])/(dis_Z_event_auto[2,1]+dis_Z_event_auto[2,2]))*100,2) #64%
+
+percent_leader0_event_auto 
+percent_leader1_event_auto
+
+
+dis_Z_event_dem <- table(mydata_10_dem$Z, mydata_10_dem$event)
+dis_Z_event_dem[1,1] #111
+dis_Z_event_dem[1,2] #33
+dis_Z_event_dem[2,1] #42
+dis_Z_event_dem[2,2] #23
+
+percent_leader0_event_dem <- round(((dis_Z_event_dem[1,2])/(dis_Z_event_dem[1,2]+dis_Z_event_dem[1,1]))*100,2) #23%
+percent_leader1_event_dem <- round(((dis_Z_event_dem[2,2])/(dis_Z_event_dem[2,1]+dis_Z_event_dem[2,2]))*100,2) #35%
+
+percent_leader0_event_dem 
+percent_leader1_event_dem
+
+
+```
+
+
+```{r prepare table for percentages, eval = TRUE, echo = FALSE, results='hide', message = FALSE, warning = FALSE, include=FALSE}
+
+#install.packages("xtable",repos = "http://cran.us.r-project.org")
+library(xtable)
+
+percent_Z <- c(percent_leader1, percent_leader1_dem, percent_leader1_auto)
+
+percent_Z_event <- c(percent_leader1_event, percent_leader1_event_dem, percent_leader1_event_auto)
+
+percentages <- as.matrix(rbind(percent_Z, percent_Z_event))
+
+row_names_percentages <- c("Percentages of leaders being treated (%)", "Percentages of those treated negotiated a PTA (%)")
+col_names_percentages <- c("All Regime Types", "Democracies", "Nondemocracies")
+rownames(percentages) <- row_names_percentages
+colnames(percentages) <- col_names_percentages
+
+xtable(percentages)
+
+```
+
+```{r xtable print pvalues, results = "asis", message = FALSE, eval=T, echo=F, warning = FALSE}
+
+knitr::kable(percentages, caption = "\\label{tab:per} Percentages of Leaders Having a Shock and those not and Percentages of PTA Negotiation", format = "latex", booktabs = TRUE) %>%
+          kable_styling(latex_options = "scale_down")
+```
+
+
+$\qquad$ Table \ref{tab:per} shows there are 93 events out of 286 total observations. Across regime types, `r percent_leader1`% of the leaders have experienced shocks to security. Among leaders across regimes, `r percent_leader1_event`% of those who have experienced a shock to security have chosen to negotiate a PTA with a developed country at some point in their tenure. `r percent_leader0_event`% of those who have not experienced a shock to security have negotiated a South-North PTA. Now, let us look at the relative frequency distribution divided by regime types. In non-democracies, `r percent_leader1_event_auto`% of leaders have experienced an insecure shock, while `r percent_leader1_dem`% in democracies have experienced one at some point during the time of their tenures. Among leaders in non-democracies regimes, `r percent_leader0_event_auto`% of those who have experienced a shock to security negotiated a South-North PTA. In contrast, only `r percent_leader1_dem`% of those who have experienced a shock to security in democracies negotiated one.
+
+
+```{r get ready for matching, eval=T, echo=F, message=F, warning=F, results='hide'}
+
+#locate the missing values
+colSums(is.na(mydata_10_all)) 
+
+#which(is.na(mydata_10_all$AUTODUR)) 
+
+#recode missing value with the means
+mydata_10_all$PTS_A.x[is.na(mydata_10_all$PTS_A.x)] <- mean(mydata_10_all$PTS_A.x, na.rm = TRUE)
+mydata_10_all$GDPpercapita[is.na(mydata_10_all$GDPpercapita)] <- mean(mydata_10_all$GDPpercapita, na.rm = TRUE)
+mydata_10_all$v2x_libdem[is.na(mydata_10_all$v2x_libdem)] <- mean(mydata_10_all$v2x_libdem, na.rm = TRUE)
+
+```
+
+
+```{r getting ready for balance check, eval=T, echo=F, message=F, warning=F, results='hide', include = FALSE}
+
+library(MASS)
+library(RItools)
+library(optmatch)
+
+#Balance check
+mydata_10_all$Z <- as.numeric(as.character(mydata_10_all$Z))
+class(mydata_10_all$Z)
+
+balcheck_all <- reformulate(c(names(mydata_10_all)[c(22, 23, 24, 25, 26)], "poleff"), response = "Z")
+
+xbalance0_all<-xBalance(balcheck_all,
+                       data=mydata_10_all,
+                       report=c("std.diffs","z.scores","adj.means",
+                                "adj.mean.diffs", "chisquare.test","p.values"))
+
+xbalance0_all
+
+
+#mydata_10_all$Z <- as.factor(mydata_10_all$Z)
+
+#Ordinary propensity score
+glm_propensity_all <- glm(Z ~ v2x_libdem + GDPpercapita + PTS_A.x + DEMDUR + AUTODUR + poleff, data=mydata_10_all, family = "binomial")
+round(summary(glm_propensity_all)$coeff, 2)
+
+## Rank-Based Mahalanobis distance (Rosenbaum, Chap 8) doesn't require a propensity model to collapse all of the variables down to a simple score and thus distance
+mydata_10_all$Z <- as.numeric(mydata_10_all$Z)
+
+mhdist_propensity_all <- match_on(balcheck_all, data=mydata_10_all, method="rank_mahalanobis")
+as.matrix(mhdist_propensity_all)[1:5,1:5]
+
+
+##add it back to the data
+mydata_10_all$pscore <- predict(glm_propensity_all)
+
+#check coeff
+logitcoef_all <- round(coef(glm_propensity_all),2)
+
+
+#Make distance matrice
+psdist_glm_all <- match_on(Z ~ pscore,data=mydata_10_all)
+as.matrix(psdist_glm_all)[1:5,1:5]
+dim(psdist_glm_all) #93*193
+
+
+#The standard deviation of the propensity score
+sd(mydata_10_all$pscore) #1.767
+0.2*sd(mydata_10_all$pscore) #0.3534 caliper
+
+
+#before matching, check it
+with(mydata_10_all, boxplot(split(pscore, Z),main="Estimated Propensity Scores before Matching"))
+
+```
+
+
+```{r two methods of matching, eval=T, echo=F, message=F, warning=F, results='hide'}
+#full matching
+fm1_p_all <- fullmatch(mhdist_propensity_all, data = mydata_10_all) ##, min.controls=1) # min.controls=.5
+summary(fm1_p_all, data=mydata_10_all, min.controls=0, max.controls=Inf) 
+length(fm1_p_all) #286
+#matched(fm1_p_all) #all are matched
+
+## We have to show that we have adjusted enough. Did we adjust enough?
+xb1_p_all <- xBalance(update(balcheck_all, .~.+strata(fm1_p_all)), data=mydata_10_all, 
+                      report=c("std.diffs","z.scores","adj.means", "adj.mean.diffs", "chisquare.test","p.values"))
+xb1_p_all
+#It seems that it's a little bit better.
+
+#Add it back to the data
+#mydata_10_aut$fm1_p <- fm1_p
+
+
+#addingcaliper?
+
+glm_propensity.dist_all <- match_on(glm_propensity_all)
+as.matrix(glm_propensity.dist_all)[1:5,1:5]
+caldist_all <- caliper (glm_propensity.dist_all, width = .2)
+
+
+#mhd.pptyc <- caliper(mhdist_propensity, width =1)
+
+#full matching
+fm2_p_all <- fullmatch(mhdist_propensity_all + caldist_all , data = mydata_10_all) ##, min.controls=1) # min.controls=.5
+summary(fm2_p_all,data=mydata_10_all,min.controls=0,max.controls=Inf)
+
+
+
+#check balance
+xb2_p_all <- xBalance(update(balcheck_all, .~. + strata(fm2_p_all)), data=mydata_10_all, 
+                      report=c("std.diffs","z.scores", "adj.means", "adj.mean.diffs", "chisquare.test","p.values"))
+
+xb2_p_all_results <- round(xb2_p_all$results,2)
+xb2_p_all_overall <- round(xb2_p_all$overall,2)
+
+round(xb2_p_all$results["poleff",,],2)
+## In the fm2 design, treated units and control units differed by about .06 baseline political effectiveness score on average 
+#(or differed by about .08 sds in baseline baseline political effectiveness score)
+
+round(xb2_p_all$results["PTS_A.x",,],2)
+## In the fm2 design, treated units and control units' PTS scores are the same.
+
+##What's left unbalanced is authoritarian regime's tenure.
+
+
+```
+
+
+```{r prepare table for post-matching, eval = TRUE, echo = FALSE, results='hide', message = FALSE, warning = FALSE, include=FALSE}
+
+#install.packages("xtable",repos = "http://cran.us.r-project.org")
+library(xtable)
+
+xb1.xtab <- xtable(xb2_p_all)
+rownames(xb1.xtab) <- c("Democracy Index", "GDP per capita", "PTS Score", "Duration of Democracy", "Duration of Autocracy", "Political Effectiveness Score")
+
+```
+
+```{r xtable print xb1, results = "asis", message = FALSE, eval=T, echo=F, warning = FALSE, fig.pos="H"}
+
+knitr::kable(xb1.xtab, caption = "\\label{tab:xb1} Test Balance on Covariates before and after Matching", format = "latex", booktabs = TRUE, 
+             format.args=list(big.mark=",",  floats = "h")) %>%
+          kableExtra::kable_styling(latex_options = "scale_down")
+
+```
+
+```{r prepare table for post-matching2, eval = TRUE, echo = FALSE, results='hide', message = FALSE, warning = FALSE, include=FALSE}
+
+#install.packages("xtable",repos = "http://cran.us.r-project.org")
+library(xtable)
+
+xb2.xtab <- xtable(xb2_p_all_overall)
+rownames(xb2.xtab) <- c("Pre-Matching", "Post-Matching")
+
+```
+
+```{r xtable print xb2, results = "asis", message = FALSE, eval=T, echo=F, warning = FALSE, fig.pos="H"}
+
+knitr::kable(xb2.xtab, caption = "\\label{tab:xb2} Test Balance before and after Matching", format = "latex", booktabs = TRUE,
+             format.args=list(big.mark=",", floats = "h")) %>%
+          kable_styling(latex_options = "basic", font_size=11)
+
+```
+
+```{r models after matching, eval=T, echo=F, message=F, warning=F, results='hide'}
+
+## Estimating the average treatment effect of the intervention after adjusting for the 5 obsserved variables as specified above.
+
+lm2_all<-lm(event ~ Z + fm2_p_all, data=mydata_10_all)
+summary(lm2_all)
+coef(lm2_all)["Z"] #0.23 #as expected
+
+#mydata_10_all$GDPdecline <- as.factor(mydata_10_all$GDPdecline)
+#class (mydata_10_all$GDPdecline)
+
+
+
+```
+
+```{r final models after matching, eval=T, echo=F, message=F, warning=F, results='hide'}
+
+#Final model 
+c.tenure <- mydata_10_all$tenure - mean(mydata_10_all$tenure)
+mydata_10_all$Z <- as.factor(mydata_10_all$Z)
+mydata_10_all$GDPdecline <- as.factor(mydata_10_all$GDPdecline)
+
+lm3_all <- lm(event ~ Z + GDPdecline + c.tenure + fm2_p_all, data=mydata_10_all)
+summary(lm3_all)
+coef(lm3_all)["Z1"] #0.15 #as expected
+
+```
+
+$\qquad$ When estimating causal effects using observational data, it is desirable to replicate a randomized experiment as closely as possible by obtaining treated and control groups with similar covariate distributions. This goal can often be achieving balances between the original treated and control groups, thereby reducing bias due to the covariates. Before matching, we can see the estimated propensity scores, the fitted probabilities of being treated given five covariates, are substantially different. This suggests those leaders who have experienced a shock to security are different from those who have not in terms of regime type, human rights conditions, regime duration, GDP per capita. After full matching using Rank-Based Mahalanobis distance [@rosenbaum_design_2010], the treated and control groups are balanced on the covariates. For example, in Table \ref{tab:xb1}, before matching, treated units and control units differ by 0.9 baseline political effective score on average, and the differences have statistical significance. After matching, treated units and control units differ by about 0.06 baseline political effectiveness score on average (or differ by about 0.08 standard differences in baseline baseline political effectiveness score). In sum, Table \ref{tab:xb2} demonstrates the two groups are now comparable.
+
+```{r Table results, results='asis', echo = FALSE, message=FALSE, include=T}
+
+library(stargazer)
+#Now use stargazer to format the linear model
+stargazer(lm3_all, header = FALSE, df = FALSE, omit = "fm2_p_all", intercept.bottom = F,
+          title = "Ordinary Linear Squared Regression Model (After Full Matching): Results",
+          covariate.labels = c("Constant", "Shock to Security", "Economic Recession","Mean Tenure"),
+          dep.var.labels = "Preferential Trade Agreement Negotation Rate", 
+          column.sep.width = "0.3pt", no.space = TRUE, font.size = "footnotesize", notes = "Automatic reporting p-values, need to be replaced with Fishers' Null")
+
+```
+
+```{r draw the figure of the treatment effect, eval=T, echo=F, message=F, warning=F, results='hide'}
+
+
+eff_fit_matching <- allEffects(lm3_all)
+
+
+dataf_eff_fit_matching <- as.data.frame(eff_fit_matching$Z)
+OLS_event_leader0 <- round((dataf_eff_fit_matching$fit[1])*100,2)
+OLS_event_leader1 <- round((dataf_eff_fit_matching$fit[2])*100,2)
+
+
+ggplot(dataf_eff_fit_matching , aes(Z, fit)) + geom_point() + coord_cartesian(ylim = c(0, 0.6)) + geom_errorbar(aes(ymin=fit-se, ymax=fit+se), width=0.4) + theme_bw(base_size=12) + labs(x="Shocks to Security", y = "Probability of PTAs Negotiation (%)") + ggtitle("Treatment Effects on Leaders After Matching") + theme(plot.title = element_text(face="bold", size=15, hjust = 0.5)) + scale_x_discrete(breaks=c("0","1"), labels=c("No Shock", "With Shock"))
+```
+
+
+$\qquad$ So far, I have created a hypothetical treatment, a shock to the leader's security, so leaders experienced such a shock are in treatment group, and those who did not are in control group. Because it is observational data, I use a statistical technique to balance the two groups so leaders being matched on the covariates are not too different in the treatment and control group. Then, I use an OLS model to estimate the probability that a leader in developing country engages in PTA at a given time during his tenure. The model is:
+$$ Y = \beta_0 + \beta_1*ShocktoSecurity + \beta_2*EconomicRecession + \beta_3*Leaders'Tenures + \epsilon$$
+
+$\qquad$ My hypothesis is empirically supported. When leaders experience a political crisis, they are more likely to negotiate a South-North preferential trade agreement with the provision of economic reforms. Holding leaders' mean tenure constant, after matching on five observed covariates, when there is no economic recession, those leaders who have experienced shocks to security on average have `r 100*(coef(lm3_all)["Z1"])`% higher probability to negotiate a PTA than those without such treatment. Consistent with our theoretical argument, shock to security explains PTA negotiation. You can see there are no overlaps between the two confidence intervals, which suggest that the treatment effect is statistically significant (Permutation test is shown in the Appendix). The control variables do not contain any major surprise. When leaders hold office longer, they have high chances of negotiating a preferential trade agreement because it may be on the agenda, or he is more likely to be exposed to a political crisis. Interestingly, economic recession does not seem to predict PTA negotiations, which is inconsistent with previous research. This goes against the notion that countries are more likely to ratify a PTA during hard economic times [@mansfield_domestic_2018]. 
+
+
+#Conclusion
+
+Why and when will leaders in developing country negotiate South-North Preferential Trade Agreements? The answer is simple and intuitive: when leaders in developing country experience a shock that creates political instability, they are more likely to negotiate a preferential trade agreement with the provision of economic reform with the expectation to cut off the power sources of the disloyal opposition. Economic reform, hence, is a tactic of punishment, an alternative to repression, and a toolkit to consolidate power in the regime. I have used original data on measuring security of leaders in developing countries between 1995 and 2015 to examine whether developing country leaders are more likely to negotiate a PTA in their tenures when they experience a political shock. I have designed a quasi-experimental design on observational data to draw a causal inference. I argue leaders in developing country approach the major liberal trade powers to negotiate a PTA with the provision of economic reform, so they have chosen the deepest PTAs by design. I argue this is a strategic choice, motivated by using significant economic reforms to punish the opposition who defect from the promised support and pose the threatening demands. 
+
+
+
+
+
+
+```{r, results='asis', echo=FALSE}
+cat("\\newpage")
+```
+
+#Appendix
+
+##Statistical Inferences: Permutation test
+
+$\qquad$ P-value tells us how likely I can get the observed treatment effect from my experiment under the no treatment effect null hypothesis. Here, in this study, the hypothetical experiment is that countries are "randomly assigned" to experience a shock to security (*treatment group*) or not experience one (*control group*). The worrisome is the Fisher's sharp null hypothesis: there is a possibility of no effect for all the units in this hypothetical experiment. Instead, I just observe the differences in means by chance. My null hypothesis is there is no treatment effect between the treated and control groups for each unit.
+
+```{r randomization and fishers null p-value, results='hide', echo = FALSE, eval=FALSE, message = FALSE, warning=FALSE}
+
+
+lm3_all<-lm(event ~ Z + GDPdecline + c.tenure + fm2_p_all, data=mydata_10_all)
+simlm3_all <- summary(lm3_all)$coef[2,1]
+simlm3_all ##0.1518
+
+mydata_10_all$Z <- as.numeric(as.character(mydata_10_all$Z)) # the following process cannot apply to factor
+mydata_10_all$Z
+
+#Imagine we re-run the "experiment"
+newExp<-function(y){
+  ## A function to randomly assign treatment effect
+shuffledz <- sample(mydata_10_all$Z) 
+newlmtest <- coef(lm(y ~ shuffledz + GDPdecline + c.tenure + fm2_p_all, data = mydata_10_all))[["shuffledz"]]
+  return(newlmtest)
+}
+
+set.seed(19900814)
+expBeta_lm3_all <- replicate(10000, newExp(y=mydata_10_all$event))
+mean(expBeta_lm3_all)  #0 treatment effect under null
+
+
+plot(density(expBeta_lm3_all), main = "Sampling distribution under null hypothesis and Observed Statistics") #plot the sampling distribution under null hypothesis
+rug(mean(expBeta_lm3_all), 1, col="blue")
+abline(v=simlm3_all,lty=2, col="red")
+
+#One-sided p-value
+pvalue_lm3_all_1s <- mean(expBeta_lm3_all >= simlm3_all)
+pvalue_lm3_all_1s #0.012
+
+
+#Two-sided p-value
+pvalue_lm3_all_2s <- 2*min(mean(expBeta_lm3_all >= simlm3_all), mean(expBeta_lm3_all <= simlm3_all)) 
+pvalue_lm3_all_2s #0.024
+
+```
+
+
+
+```{r error rate for p-value I produced for non-democracies, results='hide', eval = FALSE, echo = FALSE, message = FALSE, warning=FALSE}
+
+#Codes to assess the false positive rate 
+pvalue_lm <- function(siml,obsTestStat){
+  ## return a p-value
+  refDistNull<-replicate(siml, newExp(y=mydata_10_all$event))
+  pTwoSided <- 2*min(mean(refDistNull>=obsTestStat),mean(refDistNull<=obsTestStat))
+  return(pTwoSided)
+}
+
+set.seed(19900819)
+error_rate1 <- replicate(100, pvalue_lm (siml=1000, obsTestStat=simlm3_all))
+#error_rate2 <- replicate(100, pvalue_lm (siml=1000, obsTestStat=simlmtest7_auto_1))
+#error_rate3 <- replicate(100, pvalue_lm (siml=1000, obsTestStat=simlmtest7_auto_1))
+
+
+mean(error_rate1) #0.02298
+#mean(error_rate2) 
+#mean(error_rate3) 
+#good p-value, performing as promising
+
+error_rate20 <- replicate(20, replicate(100, pvalue_lm (siml=100, obsTestStat=simlm3_all)))
+error_rate_dis <- apply(error_rate20, 2, mean)
+
+barplot(error_rate_dis, breaks=20, ylim=c(0,0.1), main=paste("P-value distribution with Permutation in 100-times simulation"))
+abline(h=0.05, col = "red", lty=3)
+
+mean_error_rate_dis <- round(mean(error_rate_dis),2)
+
+
+$\qquad$ The p-value here is the probability that value as extreme or more extreme will be observed under the null hypothesis. This probability gives me the information that I may not have much evidence to against the null effect hypothesis, which is the difference between the observed treatment effect and the effect under the null hypothesis is not due to chance. In this test, we observe we have `r 100*(pvalue_lm3_all_2s)`% (less than 1 in 50 replications of the no effect experiment) to produce the values as large as or greater than the differences-in-means (treatment effect `r 100*(simlm3_all)`%). That suggests by using the computer power as if I were to replicate the experiments for 10000 times, the probabilities of observing effects while in fact there is no relationship between the variables are less than 0.05 in both settings.
+
+```
+
+
+
+
+```{r, results='asis', echo=FALSE}
+cat("\\newpage")
+```
+
+#References
