@@ -391,7 +391,7 @@ xtable(percentages)
 
 ```{r xtable print pvalues, results = "asis", message = FALSE, eval=T, echo=F, warning = FALSE}
 
-knitr::kable(percentages, caption = "\\label{tab:per} Percentages of Leaders Having a Shock and those not and Percentages of PTA Negotiation", format = "latex", booktabs = TRUE) %>%
+knitr::kable(percentages, caption = "\\label{tab:per} Percentages of Leaders being Treated and those Trated Having an Event", format = "latex", booktabs = TRUE) %>%
           kable_styling(latex_options = "scale_down")
 ```
 
@@ -641,7 +641,7 @@ cat("\\newpage")
 
 $\qquad$ P-value tells us how likely I can get the observed treatment effect from my experiment under the no treatment effect null hypothesis. Here, in this study, the hypothetical experiment is that countries are "randomly assigned" to experience a shock to security (*treatment group*) or not experience one (*control group*). The worrisome is the Fisher's sharp null hypothesis: there is a possibility of no effect for all the units in this hypothetical experiment. Instead, I just observe the differences in means by chance. My null hypothesis is there is no treatment effect between the treated and control groups for each unit.
 
-```{r randomization and fishers null p-value, results='hide', echo = FALSE, eval=FALSE, message = FALSE, warning=FALSE}
+```{r randomization and fishers null p-value, results='hide', echo = FALSE, eval=TRUE, message = FALSE, warning=FALSE}
 
 
 lm3_all<-lm(event ~ Z + GDPdecline + c.tenure + fm2_p_all, data=mydata_10_all)
@@ -681,7 +681,7 @@ pvalue_lm3_all_2s #0.024
 
 
 
-```{r error rate for p-value I produced for non-democracies, results='hide', eval = FALSE, echo = FALSE, message = FALSE, warning=FALSE}
+```{r error rate for p-value I produced for non-democracies, results='hide', eval = TRUE, echo = FALSE, message = FALSE, warning=FALSE}
 
 #Codes to assess the false positive rate 
 pvalue_lm <- function(siml,obsTestStat){
@@ -711,11 +711,9 @@ abline(h=0.05, col = "red", lty=3)
 mean_error_rate_dis <- round(mean(error_rate_dis),2)
 
 
-$\qquad$ The p-value here is the probability that value as extreme or more extreme will be observed under the null hypothesis. This probability gives me the information that I may not have much evidence to against the null effect hypothesis, which is the difference between the observed treatment effect and the effect under the null hypothesis is not due to chance. In this test, we observe we have `r 100*(pvalue_lm3_all_2s)`% (less than 1 in 50 replications of the no effect experiment) to produce the values as large as or greater than the differences-in-means (treatment effect `r 100*(simlm3_all)`%). That suggests by using the computer power as if I were to replicate the experiments for 10000 times, the probabilities of observing effects while in fact there is no relationship between the variables are less than 0.05 in both settings.
-
 ```
 
-
+$\qquad$ The p-value here is the probability that value as extreme or more extreme will be observed under the null hypothesis. This probability gives me the information that I may not have much evidence to against the null effect hypothesis, which is the difference between the observed treatment effect and the effect under the null hypothesis is not due to chance. In this test, we observe we have `r 100*(pvalue_lm3_all_2s)`% (less than 1 in 50 replications of the no effect experiment) to produce the values as large as or greater than the differences-in-means (treatment effect `r 100*(simlm3_all)`%). That suggests by using the computer power as if I were to replicate the experiments for 10000 times, the probabilities of observing effects while in fact there is no relationship between the variables are less than 0.05 in both settings.
 
 
 ```{r, results='asis', echo=FALSE}
