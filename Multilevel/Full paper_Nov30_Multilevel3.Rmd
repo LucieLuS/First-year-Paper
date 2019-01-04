@@ -1,0 +1,504 @@
+---
+title: "Research Note: Why and When do Leaders of Developing Countries Negotiate South-North Preferential Trade Agreements?"
+author: "Lucie Lu"
+date: "October 20, 2018"
+output: pdf_document
+fontsize: 12pt
+geometry: margin = 1.2in
+header-includes:
+- \usepackage{placeins}
+- \usepackage{setspace}
+- \usepackage{chngcntr}
+- \usepackage{pdflscape}
+- \onehalfspacing
+- \counterwithin{figure}{section}
+- \counterwithin{table}{section}
+- \usepackage{float}
+- \floatplacement{figure}{H}
+
+bibliography: reference_fyp.bib
+
+---
+
+```{r global_options, include=FALSE, cache=FALSE}
+## To make the pdf file do
+## render("exploration4.Rmd",output_format=pdf_document())
+
+require(knitr)
+opts_chunk$set(
+  tidy=FALSE,     # display code as typed
+  size="small",    # slightly smaller font for code
+  echo=TRUE,
+  results='markup',
+  strip.white=TRUE,
+  fig.path='figs/fig',
+  cache=FALSE,
+  highlight=TRUE,
+  width.cutoff=132,
+  size='footnotesize',
+  out.width='.9\\textwidth',
+  message=FALSE,
+  comment=NA)
+
+options(knitr.graphics.auto_pdf = TRUE)
+
+```
+
+
+```{r initialize,echo=FALSE, message=FALSE, warning=FALSE}
+##First, just setup the R environment for today:
+if(!file.exists('figs')) dir.create('figs')
+
+options(SweaveHooks=list(fig=function(){
+			   par(mar=c(3.5, 3, 1.1, 0),
+			       pty="s",
+			       mgp=c(1.5,0.5,0),
+			       oma=c(0,0,0,0))},
+			 echo=function(){options(continue=" ") ##Don't show "+" prompts,
+			 options(prompt=" ")
+			 }),
+	digits=4,
+	scipen=8,
+	width=132
+	)
+options(error=function(){options(prompt="> ",continue="+ ");NULL})
+
+
+#To prepare the environment
+library(readstata13)
+library(dplyr)
+library(ggplot2)
+#install.packages("ggrepel")
+library(ggrepel)
+library(stargazer)
+
+#install.packages("devtools")
+library(devtools)
+
+library(foreign)
+#install.packages("gplots")
+library(gplots)
+
+library(lmtest)
+library(sandwich)
+
+suppressMessages(library("tidyverse"))
+
+library(MASS)
+library(robustbase)
+
+#install.packages("rmngb")
+library(rmngb)
+library(here)
+
+#devtools::install_github("ropenscilabs/gramr")
+library("gramr")
+#write_good_ip()
+
+library(arm)
+#install.packages("effects")
+library(effects)
+library(ROCR)
+
+library(multiwayvcov)
+
+#devtools::install_github("rstudio/rmarkdown")
+#install.packages("stringi",type="win.binary")
+
+#install.packages("kableExtra")
+#install.packages("magrittr")
+library(kableExtra)
+library(magrittr)
+knitr::opts_chunk$set(echo = TRUE)
+
+```
+
+
+	
+$\qquad$ Why and when will leaders in the developing countries negotiate South-North preferential trade agreements with provisions of economic reforms? This paper is interested in explaining what motivates a leader from the developing countries to negotiate this particular deep and demanding international treaty. Preferential trade agreements (hereafter PTAs) are binding international treaties that help states to foster trade and economic integration among member-states. Current literature on the preferential trade agreement mainly focuses on the effects of this institution. Questions centre around whether the PTAs increase trade volumes among member-states and their impacts on the overall trade flows in the multilateral trade system [@bagwellWillPreferentialAgreements1998]. Put simply, scholars examine to what extent the PTAs have achieved their desired economic purposes: lowering tariffs, facilitating trade and increasing the welfare of the states in the long term. In addition to studying the consequences of the PTAs, emerging political economy literature has offered explanations for why states form the PTAs. Earlier years, the focus is the macroeconomic and macropolitical factors that explain the proliferation of the PTAs, including the lack of the progress in the multilateral trade regime and the spillover effect of regionalism [@baldwinDominoTheoryRegionalism2012; @rodrikRushFreeTrade1992; @mansfieldMultilateralDeterminantsRegionalism2003]. 
+
+
+$\qquad$ One trend of the current literature on the PTA focuses on the effects, others on the cause, which is the theme that this paper speaks to. Recent studies zoom into the domestic factors within the states to explain this trend. While there is no shortage of explanations on why governments form PTAs, scholars also tend to treat the PTAs as a unitary concept [@durDesignInternationalTrade2014]. They overlook the design differences of the PTAs, which imply different degrees of policy changes embedded in these international agreements. Few studies reach beyond trade liberalization to examine the role of the PTA in policy reform. Perhaps the most important exception is Baccini and Urpelainen [-@bacciniInternationalInstitutionsDomestic2014], who argue PTA can help developing countries to implement economic reforms, leaning more on examining the effect of the PTA. Picking up on this approach, this article argues the leaders' commitments to such costly agreement reflect their political purposes. Leaders have political objectives to commit to the deep PTAs with the expectation to conduct economic reforms after they face political challenge. The political motivation of PTA negotiation is currently understudied; yet, to understand when and why a leader of developing countries commits to the preferential trade agreement with the provision of economic reform is important because economic reforms will have immense consequences for the citizens of that country and beyond. The key question, the cause of economic reforms, yet, remains open.
+
+
+$\qquad$ The puzzle to explain in this paper is what motivates a leader in the developing country to negotiate one of the most costly and stringent trade agreements with the developed country. One of the most important features of these PTAs is the provision of economic reforms, whose implementation will ignite domestic opposition. My argument, in brief, is the following: a leader strategically negotiates a PTA when he is insecure. I argue after a leader is hit by a shock to security, he can choose economic reforms to punish the disloyal opposition responsible for the outbreak. Leaders are more likely to implement economic reform when the PTAs negotiation is in place. The PTAs with major economic powers send positive signals to mitigate commitment problem that a leader has, and offers material benefits to facilitate the reforms. This argument has a main empirical implication that can be used to test its validity in the next section. My prediction is: Negative shocks to a leader's security increase the probability of PTA negotiations.    
+
+
+#Research Design
+
+
+$\qquad$ My research design compares the likelihoods of leaders with shocks to security and those without shocks to negotiate the South-North PTAs. The hypothetical treatment in this study is *shock to security*. 
+
+
+$\qquad$ I defined two types of shocks to security. Before getting into a shock, here I use two indices to measure the security of a leader:   
+
+1) a leader's security before he starts his tenure at time *0* depending on his relation to the past leader (or not); and,  
+
+2) the security of the regime when the leader holds office at time *t*.     
+
+
+$\qquad$ At time *0*, regime type matters. I use Archigo's data set on leaders to obtain information of state leaders' names, their tenures, the regime types when they hold power, manners of leader transfers [@gleditsch_archigos_2015]. The regime types are divided in three cateogires: democracy, autocracy and no authority. They are identified based on whether political leaders enter and exit in political office based on explicit rules. V-Dem's Electoral Democracy Index [-@coppedge_v-dem_2018] is also used to cross validate the regime type measurement. 
+
+$\qquad$ An authoritarian leader is coded as secure at time 0 when he is politically affiliated and from the same ruling coalition with his previous leader. Otherwise, he is insecure at time 0. To measure leader's relation to his past leader, I use Svolik [-@svolik_politics_2012]'s Authoritarian Spells, 1946 - 2008 data set that contains authoritarian leaders' affiliation with their previous leaders. An authoritarian leader is secure at time 0 when he is politically affiliated and from the same ruling coalition with his previous leader. An authoritarian leader is insecure at time 0 when a leader is in the opposition party of the previous party, openly opposes the previous leader, or he is unaffiliated (defined as not openly oppose or support) with the preceding government [@svolik_politics_2012, p. 43]. In other cases, if he is in a military regime or the regime with no authority, he is also defined as insecure when he starts his tenure. Note that in democracies, a leader's relation to his past is irrelevant; so there is no information of leader's relation to his past leader in democracies. All the democratic leaders are assumed as secure leaders before they serve in the office (at time *0*).
+
+$\qquad$ The security of the regime over time *t* measures the vulnerability of the regime to collapse in any given year. I use political effectiveness score in the state fragility index to measure the political secureness of a regime to capture the dimensions of political opposition, citizen's confidence in the political process, political violence of a regime and related political risks [@marshall_global_2017]. The index ranges from 0 to 3, 0 means the most secure, and 3 means insecure. I recoded the regime's security at time *0* as a binary variable: those with score 0 in political securenss are coded secure, otherwise insecure. A worsening political effectiveness score over a leader's tenure captures a political upheaval that challenges the government authority. The wrosening score measures a shock to leader's security that causes instability. 
+
+$\qquad$ Here I develop two types of shocks to security. Type (1): a leader who is presumably secure at time *0* becomes insecure immediately onward at time *1*. Substantively, it means a democratic leader or an authoritarian leader who politically affiliated with his previous leaders starts his tenure in an unstable and contested environment. The leaders may be highly constrained by the opposition and deep internal political divisions. Type (2): a leader experiences a shock to security during his tenure at time *t*. The political crisis captured in such a shock to security can be a result of threats from the fractionalized ruling coalition, popular uprisings, or even the actual use of force.  
+
+
+$\qquad$ Here, I have developed the *independent variable* as a hypothesized treatment of shock to leader's security in the regime. It is a binary variable. Once a leader experienced either or both types of shocks to security, he is considered in the treatment group.  
+
+
+$\qquad$ The *dependent variable* is a binary one. If a leader in the developing country has ever negotiated a South-North PTA with the provisions of economic reforms during his tenure, then this event happened, coded as 1, otherwise 0. Only the South-North preferential trade agreements that contain a competition chapter or a competition article is included. The information is collected on in DESTA data set [@durDesignInternationalTrade2014]. The provision includes but is not limited to the privatization of the state-owned firms and regulation on monopolies and cartels. A leader may negotiate a couple of PTAs, but only the first one will be only counted. In this data set, a majority of the PTAs have been put into force, while some of them were still in the negotiation process. Here I focus on the year leaders starts negotiation rather than the year of signatory because there may be leadership change between the years that a leader negotiates a PTA while another leader ratifies it. I collected the information on the state's initiation of PTA negotiations from 1995 to 2015.
+
+
+$\qquad$ The unit of observation in the data set is leader. The data set covers 286 leaders clustered in 62 developing countries in the period 1995 to 2015. Note that in this data set, at least one of the leaders in these developing countries negotiated one PTA with the provision of competition policy with a developed country at some point during this period. The data set excludes leaders in the liberal democracies (V-Dem's Electoral Democracy Index above 0.75) where the rule of law and constraints on the executives are respected most of the time. In a regime as such, leadership change is routine and institutionalized. Therefore, there are lower risks for leaders losing power and hence lower incentives for leaders to use binding trade agreements for political survival. Note that under mature democratic regimes, all but the most extreme form of opposition will be channeled into the formal institutions of government, in which dissents of opposition can hardly dampen the political stability or cause a shock to security. In stable democracies, not only shocks to security rarely happen but also leader turnovers are generally institutionalized and peaceful. Leaders' reactions to such threats may also be institutionalized. Therefore, I limit the scope of this study in only autocratic and semi-democratic developing countries. Furthermore, it removes leaders whose tenure is less than one year, in such case they have no time to pursue any substantial policy changes given the short amount of time in office. 
+
+
+$\qquad$ I completely aware that the hypothetical treatment assignment is not random in an observational study, so I include potential *confounding variables* to reduce ommited variable biases. The covariates in this study include the qualities of democratic or autocratic authority measured by V-Dem's Electoral Democracy Index [@coppedge_v-dem_2018] because state leaders face different institutional constraints when they initiate the trade agreement negotiation. State leaders also face different risks of shock to security in different regime types. The second covariate is leader's tenure and the length of uninterrupted regime duration up to a leader starts his tenure in Archigo data [@gleditsch_archigos_2015]. A leader's tenure is a confounder because the longer a leader holds office, the probability of engaging in the PTA negotiation may be higher, and the risks of being exposed to the shock to security is higher. 
+
+
+$\qquad$ Two additional control variables are included to take into account the alternative hypothese. GDP per capita measured by the World Bank [@world_bank_world_2018] is a binary variable to capture economic recession of the developing countries between 1995 to 2015. In a period when a country experiences poor economic performance, a leader in the developing country perceives the potential economic benefits of the PTA with the South can help the economy to recover. Also, this regime may be more likely to experience negative shock of security when the economy declines. Government is more likely to lose legitimacy in times of economic difficulties; hence, it is more vulnerable to political risks. Therefore, there is an alternative possibility that a leader may negotiate a PTA driven by the economic benefits of the preferential trade agreement. 
+
+
+$\qquad$ Human rights conditions measured by Political Terror Scale [@gibney_politicterror_2017] indicate the human rights practices of the regimes. A worsening Political Terror Scale measure an increased level of violence by the state engaging in state-sanctioned killings, torture, disappearances and political imprisonment. As illustrated above, a dominant understanding of leader's response after the opposition poses shock to security is to repress them. A worsening human rights conditions is a measurement of leader's punishment tactic to the opposition after he is challenged. If this competitive hypothesis holds, leaders will engage in more human rights violations after they experience the shock to security, a hypothetical treatment in this study.
+
+
+
+
+```{r set up the data, echo=FALSE, message=FALSE, warning=FALSE, include=F}
+
+getwd()
+set_here(path=".", verbose=T)
+here()
+
+list.files(path=".")
+
+
+```
+
+
+
+```{r allregimesminusliberaldemocracy, results='hide', echo = FALSE, message = FALSE, warning=FALSE}
+
+mydata_10_all <- read.csv("mydata10all_matching_3.csv") #286 observations
+#View(mydata_10_all)
+
+table(mydata_10_all$Z) #93 events
+length(unique(mydata_10_all$ccode)) #62 countries
+
+table(mydata_10_all$GDPdecline) #79 leaders experiencing decline
+
+n_leader <- nrow(mydata_10_all) #286 leaders
+
+#factorize Z
+mydata_10_all$Z <- as.factor(mydata_10_all$Z)
+
+percent_leader0 <- round((table(mydata_10_all$Z)[1]/n_leader)*100,2) #67.48%
+percent_leader1 <- round((table(mydata_10_all$Z)[2]/n_leader)*100,2) #32.52%
+
+percent_leader0 #leaders without shocks
+percent_leader1 #leaders with shocks
+```
+
+
+```{r rearrange data, eval=T, echo=F, message=F, warning=F, results='hide'}
+
+#########
+#nondemocratic regimes:
+mydata_10_auto <- subset(mydata_10_all, !DICT3=="democracy") #77 leaders in no authority plus autocracies
+
+n_leader_auto <- nrow(mydata_10_auto)
+
+percent_leader0_auto <- round((table(mydata_10_auto$Z)[1]/n_leader_auto)*100,2) #64%
+percent_leader1_auto <- round((table(mydata_10_auto$Z)[2]/n_leader_auto)*100,2) #36%
+
+percent_leader0_auto #leaders without shocks
+percent_leader1_auto #leaders with shocks
+
+##########
+#democratic regimes:
+mydata_10_dem <- subset(mydata_10_all, DICT3=="democracy") #209 in electoral democrcies (limited form of democracy)
+
+n_leader_dem <- nrow(mydata_10_dem)
+
+percent_leader0_dem <- round((table(mydata_10_dem$Z)[1]/n_leader_dem)*100,2) #69%
+percent_leader1_dem <- round((table(mydata_10_dem$Z)[2]/n_leader_dem)*100,2) #31%
+
+percent_leader0_dem #leaders without shocks
+percent_leader1_dem #leaders with shocks
+
+
+```
+
+
+```{r all regime types, eval=T, echo=F, message=F, warning=F, results='hide', include=F}
+
+dis_Z_event <- table(mydata_10_all$Z, mydata_10_all$event)
+dis_Z_event[1,1] #142
+dis_Z_event[1,2] #51
+dis_Z_event[2,1] #52
+dis_Z_event[2,2] #41
+
+
+percent_leader0_event <- round(((dis_Z_event[1,2])/(dis_Z_event[1,2]+dis_Z_event[1,1]))*100,2) #26%
+percent_leader1_event <- round(((dis_Z_event[2,2])/(dis_Z_event[2,1]+dis_Z_event[2,2]))*100,2) #44%
+
+
+mydata10_all_ggplot2 <- na.omit(mydata_10_all[,c("Z", "event", "DICT3")])
+mydata10_all_ggplot2$Z <- as.factor(mydata10_all_ggplot2$Z)
+
+mydata10_all_ggplot2 <- ggplot(data=mydata10_all_ggplot2, aes(x=Z, y=event, color = DICT3))
+
+
+mydata10_all_ggplot2  +
+  geom_point(position=position_jitter(height=0.2, width=0.2)) + theme_bw() + 
+  labs(x="Shock to Security", y = "Probability of PTAs Negotiation (%)") + 
+  ggtitle("Dsitributions of Leaders across Regime Types \n Divided by Shock to Security") + 
+  theme(plot.title = element_text(face="bold", size=16, hjust = 0.5)) + 
+  annotate("text", x = 1:2, y = 0.5, label = c("26%", "44%")) +
+  scale_x_discrete(breaks=c("0","1"), labels=c("No Shock", "With Shock"))
+
+```
+
+
+```{r distribution z event according to regime, eval=T, echo=F, message=F, warning=F, results='hide'}
+
+dis_Z_event_auto <- table(mydata_10_auto$Z, mydata_10_auto$event)
+dis_Z_event_auto[1,1] #142
+dis_Z_event_auto[1,2] #51
+dis_Z_event_auto[2,1] #52
+dis_Z_event_auto[2,2] #41
+
+percent_leader0_event_auto <- round(((dis_Z_event_auto[1,2])/(dis_Z_event_auto[1,2]+dis_Z_event_auto[1,1]))*100,2) #37%
+percent_leader1_event_auto <- round(((dis_Z_event_auto[2,2])/(dis_Z_event_auto[2,1]+dis_Z_event_auto[2,2]))*100,2) #64%
+
+percent_leader0_event_auto 
+percent_leader1_event_auto
+
+
+dis_Z_event_dem <- table(mydata_10_dem$Z, mydata_10_dem$event)
+dis_Z_event_dem[1,1] #111
+dis_Z_event_dem[1,2] #33
+dis_Z_event_dem[2,1] #42
+dis_Z_event_dem[2,2] #23
+
+percent_leader0_event_dem <- round(((dis_Z_event_dem[1,2])/(dis_Z_event_dem[1,2]+dis_Z_event_dem[1,1]))*100,2) #23%
+percent_leader1_event_dem <- round(((dis_Z_event_dem[2,2])/(dis_Z_event_dem[2,1]+dis_Z_event_dem[2,2]))*100,2) #35%
+
+percent_leader0_event_dem 
+percent_leader1_event_dem
+
+
+```
+
+
+```{r prepare table for percentages, eval = TRUE, echo = FALSE, results='hide', message = FALSE, warning = FALSE, include=FALSE}
+
+#install.packages("xtable",repos = "http://cran.us.r-project.org")
+library(xtable)
+
+percent_Z <- c(percent_leader1, percent_leader1_dem, percent_leader1_auto)
+
+percent_Z_event <- c(percent_leader1_event, percent_leader1_event_dem, percent_leader1_event_auto)
+
+percentages <- as.matrix(rbind(percent_Z, percent_Z_event))
+
+row_names_percentages <- c("Percentages of leaders being treated (%)", "Percentages of those treated negotiated a PTA (%)")
+col_names_percentages <- c("All Regime Types", "Democracies", "Nondemocracies")
+rownames(percentages) <- row_names_percentages
+colnames(percentages) <- col_names_percentages
+
+xtable(percentages)
+
+```
+
+```{r xtable print pvalues, results = "asis", message = FALSE, eval=T, echo=F, warning = FALSE}
+
+knitr::kable(percentages, caption = "\\label{tab:per} Percentages of Leaders being Treated and those Trated Having an Event", format = "latex", booktabs = TRUE) %>%
+          kable_styling(latex_options = "scale_down")
+```
+
+
+$\qquad$ Table \ref{tab:per} presents there are 93 events out of 286 total observations. Across regime types, `r percent_leader1`% of the leaders have experienced shocks to security. Among leaders across regimes, `r percent_leader1_event`% of those who have experienced a shock to security have chosen to negotiate a PTA with a developed country at some point in their tenure. `r percent_leader0_event`% of those who have not experienced a shock to security have negotiated a South-North PTA. Now, let us look at the relative frequency distribution divided by regime types. In non-democracies, `r percent_leader1_event_auto`% of leaders have experienced an insecure shock, while `r percent_leader1_dem`% in democracies have experienced one at some point during the time of their tenures. Among leaders in non-democracies regimes, `r percent_leader0_event_auto`% of those who have experienced a shock to security negotiated a South-North PTA. In contrast, only `r percent_leader1_dem`% of those who have experienced a shock to security in democracies negotiated one. Leaders in different regimes have different patterns of negotiating PTAs. The modeling approach adopted in this paper may allow us to account for such contextual factors.
+
+
+#Model Analysis and Discussion
+
+##Random Intercept Models
+
+$\qquad$ The data set in this paper exhibit a nested structure. The level-one units are state leaders, with a sample size of 286. The level-two units are 62 developing countries. Because of missing data, the sample size of level-one drops to 218, the sample size of level-two drops to 49. Table \ref{tab:summary_s} summarizes the descriptive statistics. If the models I use ignore the fact that individual leaders are clustered within different countries, I may run the risks of getting downwardly biased standard errors, which to inflated Type I errors. We may often use clustered standard errors to correct for the clustering data structure. Although it may be a solution of solving statistical problems, we may miss the opporunities to explore the theoretical questions of multilevel data. This research note will adopt a hierarchical linear modeling tehnique to answer the following question: Do individual leaders' shocks to security lead to leaders' decision of PTA negotiations? Results are shown in Table \ref{tab:re}. 
+
+```{r prepare table for summary_s, eval = TRUE, echo = FALSE, results='hide', message = FALSE, warning = FALSE, include=FALSE}
+
+#install.packages("xtable",repos = "http://cran.us.r-project.org")
+library(xtable)
+
+EVENT <- c("218", "0.32", "0.47", "0", "1")
+Z <- c("218", "0.33", "0.47", "0", "1")
+T_L <- c("218", "6.66", "6.51", "2", "45")
+H_v <- c("218", "2.87","0.98","1", "5")
+GDP <- c("49", "8.41", "0.92", "6.23", "11.02")
+DEM <- c("49", "0.39", "0.19", "0.04", "0.74")
+DEML <- c("49", "15.31", "13.04", "0", "42")
+AUTL <- c("49", "9.22", "14.43", "0", "44")
+REC <- c("49", "0.8", "0.41", "0", "1")
+
+summary_s <- as.data.frame(rbind(EVENT, Z, T_L, H_v, GDP, DEM, DEML, AUTL, REC))
+
+
+row_names_summary_s <- c("PTA Negotiation", "Shock to security", "Mean tenure of Leader", "Mean human rights violation", "GDP per capita (log)", "Level of democracy", "Age of democracy", "Age of autocracy", "Economic recession")
+col_names_summary_s  <- c("N", "Mean", "SD", "Min.", "Max.")
+rownames(summary_s) <- row_names_summary_s 
+colnames(summary_s) <- col_names_summary_s 
+
+xtable(summary_s)
+
+
+```
+
+```{r xtable print summary_s, results = "asis", message = FALSE, eval=T, echo=F, warning = FALSE}
+
+
+library(knitr)
+library(kableExtra)
+
+
+knitr::kable(summary_s , caption = "\\label{tab:summary_s} Descriptive Statistics", format = "latex", booktabs = TRUE) %>%
+          kable_styling(latex_options = "striped", full_width = F) %>%  kable_styling (latex_options = c("hold_position")) %>%    
+    group_rows("Individual-Level", 1, 4) %>% group_rows("Group-Level", 5, 9)
+
+```
+
+```{r prepare table for random intercept models, eval = TRUE, echo = FALSE, results='hide', message = FALSE, warning = FALSE, include=FALSE}
+
+#install.packages("xtable",repos = "http://cran.us.r-project.org")
+library(xtable)
+
+model0_est <- c("-", "-", "-", "-", "-", "-", "-", "-", 
+                "0.012", "0.208", "94.71%", "5.3%")
+model1_est <- c("-", "-", "-", "-0.43", "0.00", "0.00", "-", "-", 
+                "0.011", "0.2", "3.62%", "3.27%")
+model1_p_value <- c("-", "-", "-", "0.09", "0.60", "0.14", "-", "-",  
+                "-", "-", "-", "-")
+model2_est <- c("-", "0.02", "-", "-0.64", "-", "-", "0.06", "-0.09",
+                "0.016", "0.191", "7.03%", "-")
+model2_p_value <- c("-", "0.017", "-", "0.03", "-", "-", "0.188", "0.395",
+                "-", "-", "-", "-")
+model3_est <- c("0.12", "0.19", "-0.08", "-0.58", "-", "-", "0.07", "-0.09",
+                "0.014", "0.191", "8.05%", "-")
+model3_p_value <- c("0.047", "0.017", "0.06", "0.004", "-", "-", "0.141", "0.39", "-", "-", "-", "-")
+
+results <- as.data.frame(cbind(model0_est, model1_est, model1_p_value, model2_est, model2_p_value, model3_est, model3_p_value))
+
+
+row_names_results <- c("Shock to security", "Mean tenure of Leader", "Mean human rights violation", "Level of democracy", "Age of democracy", "Age of autocracy", "GDP per capita (log)", "Economic recession", 
+                       "Level-2 variance (between state)", "Level-1 variance (within states)", "Variation explained at level 1", "Variation explained at level 2")
+col_names_results <- c(" ", "Estimates", "Pr(>|t|)", "Estimates", "Pr(>|t|)", "Estimates", "Pr(>|t|)")
+rownames(results) <- row_names_results
+colnames(results) <- col_names_results 
+
+xtable(results)
+
+
+```
+
+```{r xtable print, results = "asis", message = FALSE, eval=T, echo=F, warning = FALSE}
+
+
+library(knitr)
+library(kableExtra)
+
+
+knitr::kable(results, caption = "\\label{tab:re} Four Random Intercept Models of Explaining PTA Negotiation: Estimates, P-values and Variance Components", format = "latex", booktabs = TRUE) %>%
+          kable_styling(latex_options = "striped", full_width = F) %>%  kable_styling (latex_options = c("hold_position")) %>%   add_header_above(c(" " = 1, "Model 0" = 1, "Model 1.1" = 2, "Model 1.2" = 2, "Model 1.3" = 2)) %>%  add_header_above (c(" " = 1, "PTA Negotiation Rate (%)" = 7)) %>%
+    group_rows("Individual-Level", 1, 3) %>% group_rows("Group-Level", 4, 8) %>% group_rows ("Random Effects", 9, 12)  %>% landscape()
+
+```
+
+
+$\qquad$ The first step in building multilevel models is to decompose the variance in the dependent variable into two levels, the individual leader and state levels. This is equivalent to running a random intercept model with no explanatory variables, where I do not specify any predictors of PTA negotiation. It is often called an empty model. In decomposing the variance of dependent variable in this way, I can find the proportion of variance in the dependent variable attributable to between-cluster differences and the proportion attributable to within-cluster variability. I find that 5.3% of the variance in PTA negotiation explained at the country level, with the remaining 94.7% came from between-individual variation. Some variations at the state-level allows me to explore these contxtual variations in the multilevel model setting.     
+
+
+$\qquad$ The second step is to build the multilevel models, starting from simple to a full and comlicated one. Only the level-two variables are added in the random intercept model. Three regime quality related state-level variables are added to see the effects of these variables on PTA negotiation. These three variables are the *age of democracy*, the *age of autocracy*, and the *level of democracy*. The second step is to include state-level covariates to see if countries with longer history of democracy or autocracy have positive association with the negotiate rate of preferential trade agreements. The reason lies in countries tend to form long-term relationship with trade partners and avoid transitioning and unstable countries. Also, when the developing countries' level of democracy increases, I expect there are more trade cooperation between these countries and developed countries that are most stable democracies. Reimge similarities may reward more trade opportunities among partners. Table \ref{tab:per} Model 1.1 shows the results. The ages of regimes show no substantive effects of PTA negotiation. The level of democracy shows the oppositie direction as I expected. All of these three variables have no statistical signifiance. This model has explained 3.27% of the level-2 variation captrued in the empty model.
+
+
+$\qquad$ Model 1.2 keeps one of the level-2 variables used in Model 1.1, *level of democracy*, and adds in the variables that measure the economic conditions of states: *GDP per capita (logged)* and *economic recession*. A level-1 variable, the *mean tenure of leader* is also added in the model. This variable is centered within the groups. Note that the estimates of the two models for the three level-2 variables are the same, so I only show the result of the slightly complicated model with three level-2 variables and one level-1 variable. We can see level of democracy has statistical signifiance; yet, the estimate presents a negative relation between developing countries' level of democracy and PTA negotiation rates. The range of the level of democracy is from 0 to 1; if a regime's level of democracy increases from 0 to 1, suggesting an extreme transition from the most autocratic to the most democratic regime, the PTA negotiation rate goes down by 64%. More realistically, if a regime's level of democracy improves by 0.1 point in V-Dem, the probability of the PTA negotiation goes down by 6.4%. 
+
+
+$\qquad$ I then add more level-1 variables, the *mean human rights conditions* and the main independent variable in this paper, the *shock to security*. The estimates in the random intercept models with and without the *shock to security* variable are similar, so I show the full model in Model 1.3. The variables *mean tenure of leader*, *GDP per capita(logged)* and *shock to security* have statisctical meanings, and the *mean human rights violation* is slightly above the threshold of rejecting the null hypothesis of no statistical significance (p-value 0.05). This full model only explains 8% of the level-1 variation identified in the empty model, which still leaves a large proportion of variation unexplained. Substantively, the full model shows holding other leader-related factors, political and economic conditions constant, when there is a political shock to security, the leader will increase the odds of PTA negotiation by 12%. When a leader holds office one year longer than the mean tenure years of leaders of that specific state, the leader will increase the probability of PTA negotiation by 2% when other factors are held constant.   
+
+
+
+
+```{r Table results, results='asis', eval=F, echo = FALSE, message=FALSE, include=T}
+
+library(stargazer)
+#Now use stargazer to format the linear model
+stargazer(lm3_all, header = FALSE, df = FALSE, omit = "fm2_p_all", intercept.bottom = F,
+          title = "Ordinary Linear Squared Regression Model (After Full Matching): Results",
+          covariate.labels = c("Constant", "Shock to Security", "Economic Recession","Mean Tenure"),
+          dep.var.labels = "Preferential Trade Agreement Negotation Rate", 
+          column.sep.width = "0.3pt", no.space = TRUE, font.size = "footnotesize", notes = "Automatic reporting p-values, need to be replaced with Fishers' Null")
+
+```
+
+## Brief Discussion on the Choice of Random Intercept and Slope Model
+
+To explore whether the effects of level-1 factors are conditioned by group-level factors, I continue to build random intercept and slope models. In Model 2.1, I allow the effect of shock to security and the effect of human rights condition vary across states with high and low levels of democracy. 
+
+
+$\qquad$ Table \ref{tab:re2} shows the results of the random intercept and slope model. The mixed model 2.1 is:
+$$ Y = \gamma_{00} + \gamma_{01}*(Log(GDPpercapita))_j + \gamma_{02}*Democracy_j + \gamma_{03}*Recession_j + \beta_{3j}*(Tenure_{ij}-\overline{Tenure_{ij}}) + \\\gamma_{10}*Shock_{ij}  +  \gamma_{11}*(Democracy_{ij}-\overline{Democracy_{ij}})*Shock  + \\\gamma_{20}*HumanRights_{ij} + \gamma_{21}*HumanRights_{ij}*(Democracy_{ij}-\overline{Democracy_{ij}}) + u_{0j} + u_{1j}*Shock_{ij} + R_{0j}$$.
+
+
+```{r prepare table for model21, eval = TRUE, echo = FALSE, results='hide', message = FALSE, warning = FALSE, include=FALSE}
+
+#install.packages("xtable",repos = "http://cran.us.r-project.org")
+library(xtable)
+
+model21_est <- c("-0.13", "0.08", "-1.93", "-0.14", "0.02", "0.11", "-0.16", "-0.04", "0.52")
+model21_p_value <- c("0.751", "0.054", "0.001", "0.167", "0.02", "0.199", "0.014", "0.089", "0.734")
+
+
+results2 <- as.data.frame(cbind(model21_est, model21_p_value))
+
+
+row_names_results2 <- c("Intercept", "GDP per capita (log)", "Level of democracy", "Economic recession", "Mean Tenure of Leader", "Intercept", "Mean Deocracy", "Intercept", "Mean Deocracy")
+col_names_results2 <- c(" ", "Estimates", "Pr(>|t|)")
+rownames(results2) <- row_names_results2
+colnames(results2) <- col_names_results2 
+
+xtable(results2)
+
+
+```
+
+```{r xtable print2, results = "asis", message = FALSE, eval=T, echo=F, warning = FALSE}
+
+
+library(knitr)
+library(kableExtra)
+
+
+knitr::kable(results2, caption = "\\label{tab:re2} Random Intercept and Slope Model of Explaining PTA Negotiation: Estimates, and P-values", format = "latex", booktabs = TRUE) %>%
+          kable_styling(latex_options = "striped", full_width = F) %>%  kable_styling (latex_options = c("hold_position")) %>%   add_header_above(c(" " = 1, "Model 2.1" = 2)) %>%
+    group_rows("Model for PTA Negotiation Means", 1, 5) %>% group_rows("Model for Shock Slope", 6, 7) %>% group_rows ("Model for Human Rights Slope", 8, 9)  %>% landscape()
+
+```
+
+
+
+
+#Preliminary Conclusion
+
+Why and when will leaders in developing country negotiate South-North Preferential Trade Agreements? The answer is simple and intuitive: after leaders in developing country experience a negative shock that creates political instability, they are more likely to negotiate a PTA with the provision of economic reforms with the expectation to cut off the power sources of the disloyal opposition. Economic reform, hence, is a tactic for leader to punish the opposition and a toolkit to consolidate power in the regime. I have used original data on measuring security of leaders in developing countries between 1995 and 2015 to examine whether developing country leaders are more likely to negotiate a PTA in their tenures when they experience a political shock. I argue leaders in developing country approach the major liberal trade powers to negotiate a PTA with the provision of economic reform, so they have chosen the deepest PTAs by design. This is a strategic choice that leader makes with an objective to punish the opposition who defect from the promised support and pose the threatening demands. 
+
+
+
+
+```{r, results='asis', echo=FALSE}
+cat("\\newpage")
+```
+
+#References
